@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/styles.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="js/create.js"></script>
+	<title>The AI Tag Library</title>
+</head>
+<body>
+	<script>
+		 $.ajax({
+		url:'/data/gallery.txt',
+		success: function (data){
+			console.log(data);
+		}
+  });
+	</script>		
+
+	<div class="title">
+		<h1>The AI Tag Library</h1>
+		<h2>a simple tag gallery for ai generated arts</h2>	
+	</div>
+	
+	<div class="container" id="mainContainer">
+	</div>
+	<script>
+		for(var i = 0; i < 20; i++)
+		createItem();
+	</script>
+</body>
+</html>

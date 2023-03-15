@@ -1,0 +1,29 @@
+html {
+	-webkit-user-select: none; /* Safari */
+	-ms-user-select: none; /* IE 10 and IE 11 */
+	user-select: none; /* Standard syntax */ 
+}
+.title {
+	font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
+	text-align: center;
+	margin: 3.125vw 0px 2.083vw 0px;
+}
+h1 {
+	font-size: 2.760vw;
+}
+h2 {
+	font-size: 1.042vw;
+}
+.container {
+	width: auto;
+	margin: 2.6vw;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1.042vw;
+}
+.item {
+	width: calc((100% - 3.125vw) / 4);
+	aspect-ratio: 1/1;
+	background-color: #E5E5E5;
+	object-fit: cover;
+}
