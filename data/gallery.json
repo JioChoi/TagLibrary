@@ -1,0 +1,2387 @@
+data = {
+	"hair": [
+		{
+			"tag": "long_hair"
+		},
+		{
+			"tag": "short_hair"
+		},
+		{
+			"tag": "bangs"
+		},
+		{
+			"tag": "blonde_hair"
+		},
+		{
+			"tag": "brown_hair"
+		},
+		{
+			"tag": "black_hair"
+		},
+		{
+			"tag": "hair_between_eyes"
+		},
+		{
+			"tag": "twintails"
+		},
+		{
+			"tag": "very_long_hair"
+		},
+		{
+			"tag": "blue_hair"
+		},
+		{
+			"tag": "ponytail"
+		},
+		{
+			"tag": "purple_hair"
+		},
+		{
+			"tag": "pink_hair"
+		},
+		{
+			"tag": "braid"
+		},
+		{
+			"tag": "ahoge"
+		},
+		{
+			"tag": "white_hair"
+		},
+		{
+			"tag": "sidelocks"
+		},
+		{
+			"tag": "red_hair"
+		},
+		{
+			"tag": "grey_hair"
+		},
+		{
+			"tag": "green_hair"
+		},
+		{
+			"tag": "silver_hair"
+		},
+		{
+			"tag": "blunt_bangs"
+		},
+		{
+			"tag": "medium_hair"
+		},
+		{
+			"tag": "hair_bun"
+		},
+		{
+			"tag": "orange_hair"
+		},
+		{
+			"tag": "hair_over_one_eye"
+		},
+		{
+			"tag": "twin_braids"
+		},
+		{
+			"tag": "shiny_hair"
+		},
+		{
+			"tag": "side_ponytail"
+		},
+		{
+			"tag": "two_side_up"
+		},
+		{
+			"tag": "parted_bangs"
+		},
+		{
+			"tag": "single_braid"
+		},
+		{
+			"tag": "double_bun"
+		},
+		{
+			"tag": "alternate_hairstyle"
+		},
+		{
+			"tag": "floating_hair"
+		},
+		{
+			"tag": "swept_bangs"
+		},
+		{
+			"tag": "low_twintails"
+		},
+		{
+			"tag": "one_side_up"
+		},
+		{
+			"tag": "wavy_hair"
+		},
+		{
+			"tag": "drill_hair"
+		},
+		{
+			"tag": "hair_intakes"
+		},
+		{
+			"tag": "single_hair_bun"
+		},
+		{
+			"tag": "bob_cut"
+		},
+		{
+			"tag": "antenna_hair"
+		},
+		{
+			"tag": "high_ponytail"
+		},
+		{
+			"tag": "short_twintails"
+		},
+		{
+			"tag": "spiked_hair"
+		},
+		{
+			"tag": "messy_hair"
+		},
+		{
+			"tag": "straight_hair"
+		},
+		{
+			"tag": "hair_over_shoulder"
+		},
+		{
+			"tag": "hair_flaps"
+		},
+		{
+			"tag": "twin_drills"
+		},
+		{
+			"tag": "side_braid"
+		},
+		{
+			"tag": "french_braid"
+		},
+		{
+			"tag": "low-tied_long_hair"
+		},
+		{
+			"tag": "hair_rings"
+		},
+		{
+			"tag": "half_updo"
+		},
+		{
+			"tag": "short_ponytail"
+		},
+		{
+			"tag": "curly_hair"
+		},
+		{
+			"tag": "asymmetrical_hair"
+		},
+		{
+			"tag": "folded_ponytail"
+		},
+		{
+			"tag": "hair_down"
+		},
+		{
+			"tag": "crossed_bangs"
+		},
+		{
+			"tag": "hime_cut"
+		},
+		{
+			"tag": "asymmetrical_bangs"
+		},
+		{
+			"tag": "flipped_hair"
+		},
+		{
+			"tag": "absurdly_long_hair"
+		},
+		{
+			"tag": "hair_over_eyes"
+		},
+		{
+			"tag": "crown_braid"
+		}
+	],
+	"face": [
+		{
+			"tag": "blush"
+		},
+		{
+			"tag": "smile"
+		},
+		{
+			"tag": "open_mouth"
+		},
+		{
+			"tag": "closed_eyes"
+		},
+		{
+			"tag": ":d"
+		},
+		{
+			"tag": "parted_lips"
+		},
+		{
+			"tag": "tears"
+		},
+		{
+			"tag": "grin"
+		},
+		{
+			"tag": ":o"
+		},
+		{
+			"tag": "v-shaped_eyebrows"
+		},
+		{
+			"tag": ":3"
+		},
+		{
+			"tag": "^_^"
+		},
+		{
+			"tag": "nose_blush"
+		},
+		{
+			"tag": "frown"
+		},
+		{
+			"tag": "embarrassed"
+		},
+		{
+			"tag": "blush_stickers"
+		},
+		{
+			"tag": "expressionless"
+		},
+		{
+			"tag": "wavy_mouth"
+		},
+		{
+			"tag": "happy"
+		},
+		{
+			"tag": "trembling"
+		},
+		{
+			"tag": ";d"
+		},
+		{
+			"tag": "crying"
+		},
+		{
+			"tag": "light_smile"
+		},
+		{
+			"tag": ">_<"
+		},
+		{
+			"tag": "^^^"
+		},
+		{
+			"tag": "sharp_teeth"
+		},
+		{
+			"tag": "clenched_teeth"
+		},
+		{
+			"tag": "surprised"
+		},
+		{
+			"tag": "anger_vein"
+		},
+		{
+			"tag": ":<"
+		},
+		{
+			"tag": "angry"
+		},
+		{
+			"tag": ":p"
+		},
+		{
+			"tag": "freckles"
+		},
+		{
+			"tag": "naughty_face"
+		},
+		{
+			"tag": ":q"
+		},
+		{
+			"tag": "o_o"
+		},
+		{
+			"tag": "serious"
+		},
+		{
+			"tag": "smirk"
+		},
+		{
+			"tag": ";)"
+		},
+		{
+			"tag": "@_@"
+		},
+		{
+			"tag": "wide-eyed"
+		},
+		{
+			"tag": "|_|"
+		},
+		{
+			"tag": ":t"
+		},
+		{
+			"tag": "full-face_blush"
+		},
+		{
+			"tag": "pout"
+		},
+		{
+			"tag": "furrowed_brow"
+		},
+		{
+			"tag": "wince"
+		},
+		{
+			"tag": "dot_nose"
+		},
+		{
+			"tag": "ahegao"
+		},
+		{
+			"tag": "no_nose"
+		},
+		{
+			"tag": "chestnut_mouth"
+		},
+		{
+			"tag": "smug"
+		}
+	],
+	"eyes": [
+		{
+			"tag": "blue_eyes"
+		},
+		{
+			"tag": "red_eyes"
+		},
+		{
+			"tag": "brown_eyes"
+		},
+		{
+			"tag": "green_eyes"
+		},
+		{
+			"tag": "purple_eyes"
+		},
+		{
+			"tag": "yellow_eyes"
+		},
+		{
+			"tag": "one_eye_closed"
+		},
+		{
+			"tag": "glasses"
+		},
+		{
+			"tag": "pink_eyes"
+		},
+		{
+			"tag": "black_eyes"
+		},
+		{
+			"tag": "aqua_eyes"
+		},
+		{
+			"tag": "orange_eyes"
+		},
+		{
+			"tag": "grey_eyes"
+		},
+		{
+			"tag": "symbol-shaped_pupils"
+		},
+		{
+			"tag": "eyelashes"
+		},
+		{
+			"tag": "makeup"
+		},
+		{
+			"tag": "heterochromia"
+		},
+		{
+			"tag": "heart-shaped_pupils"
+		},
+		{
+			"tag": "eyepatch"
+		},
+		{
+			"tag": "eyes_visible_through_hair"
+		},
+		{
+			"tag": "slit_pupils"
+		},
+		{
+			"tag": "third_eye"
+		},
+		{
+			"tag": "glowing_eyes"
+		},
+		{
+			"tag": "tareme"
+		},
+		{
+			"tag": "tsurime"
+		},
+		{
+			"tag": "eyeshadow"
+		},
+		{
+			"tag": "tearing_up"
+		},
+		{
+			"tag": "empty_eyes"
+		},
+		{
+			"tag": "jitome"
+		},
+		{
+			"tag": "white_pupils"
+		},
+		{
+			"tag": "colored_eyelashes"
+		},
+		{
+			"tag": "multicolored_eyes"
+		},
+		{
+			"tag": "blindfold"
+		},
+		{
+			"tag": "black_sclera"
+		},
+		{
+			"tag": "eyeliner"
+		},
+		{
+			"tag": "bags_under_eyes"
+		},
+		{
+			"tag": "star-shaped_pupils"
+		},
+		{
+			"tag": "glowing_eye"
+		},
+		{
+			"tag": "^o^"
+		}
+	],
+	"ears": [
+		{
+			"tag": "animal_ears"
+		},
+		{
+			"tag": "earrings"
+		},
+		{
+			"tag": "pointy_ears"
+		},
+		{
+			"tag": "cat_ears"
+		},
+		{
+			"tag": "rabbit_ears"
+		},
+		{
+			"tag": "fox_ears"
+		},
+		{
+			"tag": "fake_animal_ears"
+		},
+		{
+			"tag": "headphones"
+		},
+		{
+			"tag": "wolf_ears"
+		},
+		{
+			"tag": "horse_ears"
+		},
+		{
+			"tag": "ear_piercing"
+		},
+		{
+			"tag": "dog_ears"
+		},
+		{
+			"tag": "kemonomimi_mode"
+		},
+		{
+			"tag": "single_earring"
+		},
+		{
+			"tag": "mouse_ears"
+		},
+		{
+			"tag": "cow_ears"
+		}
+	],
+	"wings": [
+		{
+			"tag": "wings"
+		},
+		{
+			"tag": "bat_wings"
+		},
+		{
+			"tag": "head_wings"
+		},
+		{
+			"tag": "feathered_wings"
+		},
+		{
+			"tag": "black_wings"
+		},
+		{
+			"tag": "demon_wings"
+		},
+		{
+			"tag": "angel_wings"
+		},
+		{
+			"tag": "white_wings"
+		},
+		{
+			"tag": "fairy_wings"
+		},
+		{
+			"tag": "ice_wings"
+		}
+	],
+	"effect": [
+		{
+			"tag": "flower"
+		},
+		{
+			"tag": "greyscale"
+		},
+		{
+			"tag": "cloud"
+		},
+		{
+			"tag": "star_(symbol)"
+		},
+		{
+			"tag": "blurry"
+		},
+		{
+			"tag": "light_rays"
+		},
+		{
+			"tag": "sunbeam"
+		},
+		{
+			"tag": "sparkle"
+		},
+		{
+			"tag": "depth_of_field"
+		},
+		{
+			"tag": "shadow"
+		},
+		{
+			"tag": "glowing"
+		},
+		{
+			"tag": "sunlight"
+		},
+		{
+			"tag": "musical_note"
+		},
+		{
+			"tag": "light_particles"
+		},
+		{
+			"tag": "lens_flare"
+		},
+		{
+			"tag": "reflection"
+		},
+		{
+			"tag": "bubble"
+		},
+		{
+			"tag": "motion_blur"
+		},
+		{
+			"tag": "chromatic_aberration"
+		},
+		{
+			"tag": "light"
+		},
+		{
+			"tag": "air_bubble"
+		}
+	],
+	"background": [
+		{
+			"tag": "simple_background"
+		},
+		{
+			"tag": "white_background"
+		},
+		{
+			"tag": "grey_background"
+		},
+		{
+			"tag": "gradient_background"
+		},
+		{
+			"tag": "blurry_background"
+		},
+		{
+			"tag": "blue_background"
+		},
+		{
+			"tag": "transparent_background"
+		},
+		{
+			"tag": "pink_background"
+		},
+		{
+			"tag": "black_background"
+		},
+		{
+			"tag": "yellow_background"
+		},
+		{
+			"tag": "red_background"
+		},
+		{
+			"tag": "two-tone_background"
+		},
+		{
+			"tag": "backlighting"
+		},
+		{
+			"tag": "brown_background"
+		},
+		{
+			"tag": "green_background"
+		},
+		{
+			"tag": "purple_background"
+		},
+		{
+			"tag": "orange_background"
+		},
+		{
+			"tag": "zoom_layer"
+		},
+		{
+			"tag": "floral_background"
+		},
+		{
+			"tag": "polka_dot_background"
+		},
+		{
+			"tag": "striped_background"
+		},
+		{
+			"tag": "beige_background"
+		},
+		{
+			"tag": "starry_background"
+		},
+		{
+			"tag": "checkered_background"
+		}
+	],
+	"place": [
+		{
+			"tag": "outdoors"
+		},
+		{
+			"tag": "sky"
+		},
+		{
+			"tag": "indoors"
+		},
+		{
+			"tag": "water"
+		},
+		{
+			"tag": "ocean"
+		},
+		{
+			"tag": "beach"
+		},
+		{
+			"tag": "building"
+		},
+		{
+			"tag": "nature"
+		},
+		{
+			"tag": "scenery"
+		},
+		{
+			"tag": "forest"
+		},
+		{
+			"tag": "sunset"
+		},
+		{
+			"tag": "mountain"
+		},
+		{
+			"tag": "city"
+		},
+		{
+			"tag": "onsen"
+		},
+		{
+			"tag": "pool"
+		},
+		{
+			"tag": "classroom"
+		},
+		{
+			"tag": "road"
+		},
+		{
+			"tag": "field"
+		},
+		{
+			"tag": "bedroom"
+		},
+		{
+			"tag": "ruins"
+		},
+		{
+			"tag": "house"
+		},
+		{
+			"tag": "bathroom"
+		},
+		{
+			"tag": "bridge"
+		},
+		{
+			"tag": "bathtub"
+		},
+		{
+			"tag": "poolside"
+		},
+		{
+			"tag": "river"
+		},
+		{
+			"tag": "castle"
+		},
+		{
+			"tag": "street"
+		},
+		{
+			"tag": "flower_field"
+		},
+		{
+			"tag": "skyscraper"
+		},
+		{
+			"tag": "tower"
+		},
+		{
+			"tag": "waterfall"
+		},
+		{
+			"tag": "kitchen"
+		},
+		{
+			"tag": "library"
+		},
+		{
+			"tag": "school"
+		},
+		{
+			"tag": "lake"
+		},
+		{
+			"tag": "shrine"
+		},
+		{
+			"tag": "shop"
+		},
+		{
+			"tag": "rooftop"
+		},
+		{
+			"tag": "stage"
+		},
+		{
+			"tag": "shore"
+		},
+		{
+			"tag": "bamboo_forest"
+		}
+	],
+	"dress": [
+		{
+			"tag": "dress"
+		},
+		{
+			"tag": "white_dress"
+		},
+		{
+			"tag": "black_dress"
+		},
+		{
+			"tag": "sleeveless_dress"
+		},
+		{
+			"tag": "blue_dress"
+		},
+		{
+			"tag": "short_dress"
+		},
+		{
+			"tag": "red_dress"
+		},
+		{
+			"tag": "frilled_dress"
+		},
+		{
+			"tag": "pink_dress"
+		},
+		{
+			"tag": "china_dress"
+		},
+		{
+			"tag": "strapless_dress"
+		},
+		{
+			"tag": "purple_dress"
+		},
+		{
+			"tag": "side_slit"
+		},
+		{
+			"tag": "dress_lift"
+		},
+		{
+			"tag": "sailor_dress"
+		},
+		{
+			"tag": "green_dress"
+		},
+		{
+			"tag": "wedding_dress"
+		},
+		{
+			"tag": "off-shoulder_dress"
+		},
+		{
+			"tag": "long_dress"
+		},
+		{
+			"tag": "armored_dress"
+		},
+		{
+			"tag": "collared_dress"
+		},
+		{
+			"tag": "sundress"
+		},
+		{
+			"tag": "pinafore_dress"
+		},
+		{
+			"tag": "brown_dress"
+		},
+		{
+			"tag": "pleated_dress"
+		},
+		{
+			"tag": "grey_dress"
+		},
+		{
+			"tag": "layered_dress"
+		},
+		{
+			"tag": "yellow_dress"
+		},
+		{
+			"tag": "backless_dress"
+		},
+		{
+			"tag": "striped_dress"
+		},
+		{
+			"tag": "sweater_dress"
+		},
+		{
+			"tag": "two-tone_dress"
+		},
+		{
+			"tag": "multicolored_dress"
+		},
+		{
+			"tag": "nightgown"
+		}
+	],
+	"topwear": [
+		{
+			"tag": "shirt"
+		},
+		{
+			"tag": "bare_shoulders"
+		},
+		{
+			"tag": "jacket"
+		},
+		{
+			"tag": "white_shirt"
+		},
+		{
+			"tag": "sleeveless"
+		},
+		{
+			"tag": "puffy_sleeves"
+		},
+		{
+			"tag": "collared_shirt"
+		},
+		{
+			"tag": "off_shoulder"
+		},
+		{
+			"tag": "cape"
+		},
+		{
+			"tag": "apron"
+		},
+		{
+			"tag": "vest"
+		},
+		{
+			"tag": "sweater"
+		},
+		{
+			"tag": "coat"
+		},
+		{
+			"tag": "crop_top"
+		},
+		{
+			"tag": "sash"
+		},
+		{
+			"tag": "dress_shirt"
+		},
+		{
+			"tag": "sleeveless_shirt"
+		},
+		{
+			"tag": "strapless"
+		},
+		{
+			"tag": "hoodie"
+		},
+		{
+			"tag": "capelet"
+		},
+		{
+			"tag": "turtleneck"
+		},
+		{
+			"tag": "halterneck"
+		},
+		{
+			"tag": "blazer"
+		},
+		{
+			"tag": "cardigan"
+		},
+		{
+			"tag": "tank_top"
+		},
+		{
+			"tag": "blouse"
+		},
+		{
+			"tag": "t-shirt"
+		},
+		{
+			"tag": "corset"
+		},
+		{
+			"tag": "strap_slip"
+		},
+		{
+			"tag": "camisole"
+		},
+		{
+			"tag": "ribbed_sweater"
+		},
+		{
+			"tag": "sweater_vest"
+		},
+		{
+			"tag": "strapless_leotard"
+		},
+		{
+			"tag": "cropped_jacket"
+		},
+		{
+			"tag": "epaulettes"
+		},
+		{
+			"tag": "pauldrons"
+		},
+		{
+			"tag": "robe"
+		},
+		{
+			"tag": "striped_shirt"
+		},
+		{
+			"tag": "tabard"
+		},
+		{
+			"tag": "jacket_on_shoulders"
+		},
+		{
+			"tag": "bandeau"
+		},
+		{
+			"tag": "off-shoulder_shirt"
+		},
+		{
+			"tag": "underbust"
+		},
+		{
+			"tag": "criss-cross_halter"
+		},
+		{
+			"tag": "tube_top"
+		},
+		{
+			"tag": "frilled_shirt"
+		},
+		{
+			"tag": "sleeveless_turtleneck"
+		},
+		{
+			"tag": "shoulder_pads"
+		},
+		{
+			"tag": "downblouse"
+		},
+		{
+			"tag": "fur-trimmed_coat"
+		},
+		{
+			"tag": "off-shoulder_sweater"
+		},
+		{
+			"tag": "long_coat"
+		},
+		{
+			"tag": "waistcoat"
+		}
+	],
+	"bottomwear": [
+		{
+			"tag": "skirt"
+		},
+		{
+			"tag": "pleated_skirt"
+		},
+		{
+			"tag": "shorts"
+		},
+		{
+			"tag": "pants"
+		},
+		{
+			"tag": "miniskirt"
+		},
+		{
+			"tag": "short_shorts"
+		},
+		{
+			"tag": "bike_shorts"
+		},
+		{
+			"tag": "pelvic_curtain"
+		},
+		{
+			"tag": "denim_shorts"
+		},
+		{
+			"tag": "buruma"
+		},
+		{
+			"tag": "high-waist_skirt"
+		},
+		{
+			"tag": "long_skirt"
+		},
+		{
+			"tag": "jeans"
+		},
+		{
+			"tag": "bloomers"
+		},
+		{
+			"tag": "microskirt"
+		},
+		{
+			"tag": "petticoat"
+		},
+		{
+			"tag": "suspender_skirt"
+		},
+		{
+			"tag": "sarong"
+		},
+		{
+			"tag": "layered_skirt"
+		},
+		{
+			"tag": "shorts_under_skirt"
+		},
+		{
+			"tag": "micro_shorts"
+		},
+		{
+			"tag": "bubble_skirt"
+		}
+	],
+	"legwear": [
+		{
+			"tag": "thighhighs"
+		},
+		{
+			"tag": "pantyhose"
+		},
+		{
+			"tag": "socks"
+		},
+		{
+			"tag": "kneehighs"
+		},
+		{
+			"tag": "thigh_strap"
+		},
+		{
+			"tag": "garter_straps"
+		},
+		{
+			"tag": "torn_legwear"
+		},
+		{
+			"tag": "striped_legwear"
+		},
+		{
+			"tag": "garter_belt"
+		},
+		{
+			"tag": "thighband_pantyhose"
+		},
+		{
+			"tag": "tabi"
+		},
+		{
+			"tag": "uneven_legwear"
+		},
+		{
+			"tag": "toeless_legwear"
+		},
+		{
+			"tag": "print_legwear"
+		},
+		{
+			"tag": "lace-trimmed_legwear"
+		},
+		{
+			"tag": "mismatched_legwear"
+		},
+		{
+			"tag": "fishnet_legwear"
+		},
+		{
+			"tag": "legwear_under_shorts"
+		},
+		{
+			"tag": "leggings"
+		},
+		{
+			"tag": "bobby_socks"
+		},
+		{
+			"tag": "loose_socks"
+		},
+		{
+			"tag": "over-kneehighs"
+		},
+		{
+			"tag": "argyle_legwear"
+		}
+	],
+	"footwear": [
+		{
+			"tag": "boots"
+		},
+		{
+			"tag": "high_heels"
+		},
+		{
+			"tag": "thigh_boots"
+		},
+		{
+			"tag": "sandals"
+		},
+		{
+			"tag": "knee_boots"
+		},
+		{
+			"tag": "loafers"
+		},
+		{
+			"tag": "sneakers"
+		},
+		{
+			"tag": "mary_janes"
+		},
+		{
+			"tag": "cross-laced_footwear"
+		},
+		{
+			"tag": "high_heel_boots"
+		},
+		{
+			"tag": "geta"
+		},
+		{
+			"tag": "lace-up_boots"
+		},
+		{
+			"tag": "ankle_boots"
+		},
+		{
+			"tag": "armored_boots"
+		},
+		{
+			"tag": "slippers"
+		},
+		{
+			"tag": "platform_footwear"
+		},
+		{
+			"tag": "uwabaki"
+		}
+	],
+	"costume": [
+		{
+			"tag": "school_uniform"
+		},
+		{
+			"tag": "swimsuit"
+		},
+		{
+			"tag": "bikini"
+		},
+		{
+			"tag": "japanese_clothes"
+		},
+		{
+			"tag": "serafuku"
+		},
+		{
+			"tag": "hood"
+		},
+		{
+			"tag": "kimono"
+		},
+		{
+			"tag": "armor"
+		},
+		{
+			"tag": "leotard"
+		},
+		{
+			"tag": "torn_clothes"
+		},
+		{
+			"tag": "maid"
+		},
+		{
+			"tag": "cosplay"
+		},
+		{
+			"tag": "one-piece_swimsuit"
+		},
+		{
+			"tag": "bodysuit"
+		},
+		{
+			"tag": "military_uniform"
+		},
+		{
+			"tag": "side-tie_bikini_bottom"
+		},
+		{
+			"tag": "chinese_clothes"
+		},
+		{
+			"tag": "magical_girl"
+		},
+		{
+			"tag": "playboy_bunny"
+		},
+		{
+			"tag": "formal"
+		},
+		{
+			"tag": "school_swimsuit"
+		},
+		{
+			"tag": "suit"
+		},
+		{
+			"tag": "monster_girl"
+		},
+		{
+			"tag": "cat_girl"
+		},
+		{
+			"tag": "casual"
+		},
+		{
+			"tag": "elf"
+		},
+		{
+			"tag": "fox_girl"
+		},
+		{
+			"tag": "horse_girl"
+		},
+		{
+			"tag": "hakama"
+		},
+		{
+			"tag": "hakama_skirt"
+		},
+		{
+			"tag": "string_bikini"
+		},
+		{
+			"tag": "micro_bikini"
+		},
+		{
+			"tag": "maid_apron"
+		},
+		{
+			"tag": "nontraditional_miko"
+		},
+		{
+			"tag": "santa_costume"
+		},
+		{
+			"tag": "gym_uniform"
+		},
+		{
+			"tag": "lolita_fashion"
+		},
+		{
+			"tag": "competition_swimsuit"
+		},
+		{
+			"tag": "sarashi"
+		},
+		{
+			"tag": "yukata"
+		},
+		{
+			"tag": "pajamas"
+		},
+		{
+			"tag": "contemporary"
+		},
+		{
+			"tag": "sportswear"
+		},
+		{
+			"tag": "miko"
+		},
+		{
+			"tag": "gakuran"
+		},
+		{
+			"tag": "waitress"
+		},
+		{
+			"tag": "cheerleader"
+		},
+		{
+			"tag": "animal_costume"
+		},
+		{
+			"tag": "hakama_short_skirt"
+		},
+		{
+			"tag": "overalls"
+		},
+		{
+			"tag": "pilot_suit"
+		},
+		{
+			"tag": "plugsuit"
+		},
+		{
+			"tag": "bodystocking"
+		},
+		{
+			"tag": "tasuki"
+		},
+		{
+			"tag": "habit"
+		},
+		{
+			"tag": "haori"
+		},
+		{
+			"tag": "bikini_skirt"
+		},
+		{
+			"tag": "short_kimono"
+		},
+		{
+			"tag": "o-ring_top"
+		},
+		{
+			"tag": "o-ring_bikini"
+		},
+		{
+			"tag": "slingshot_swimsuit"
+		},
+		{
+			"tag": "bikini_armor"
+		},
+		{
+			"tag": "fundoshi"
+		},
+		{
+			"tag": "casual_one-piece_swimsuit"
+		},
+		{
+			"tag": "track_suit"
+		}
+	],
+	"accessories": [
+		{
+			"tag": "hair_ornament"
+		},
+		{
+			"tag": "hat"
+		},
+		{
+			"tag": "gloves"
+		},
+		{
+			"tag": "ribbon"
+		},
+		{
+			"tag": "bow"
+		},
+		{
+			"tag": "jewelry"
+		},
+		{
+			"tag": "hair_ribbon"
+		},
+		{
+			"tag": "hair_bow"
+		},
+		{
+			"tag": "hairband"
+		},
+		{
+			"tag": "detached_sleeves"
+		},
+		{
+			"tag": "necktie"
+		},
+		{
+			"tag": "choker"
+		},
+		{
+			"tag": "black_gloves"
+		},
+		{
+			"tag": "elbow_gloves"
+		},
+		{
+			"tag": "hairclip"
+		},
+		{
+			"tag": "belt"
+		},
+		{
+			"tag": "white_gloves"
+		},
+		{
+			"tag": "hair_flower"
+		},
+		{
+			"tag": "wide_sleeves"
+		},
+		{
+			"tag": "fingerless_gloves"
+		},
+		{
+			"tag": "bowtie"
+		},
+		{
+			"tag": "sailor_collar"
+		},
+		{
+			"tag": "necklace"
+		},
+		{
+			"tag": "scarf"
+		},
+		{
+			"tag": "bracelet"
+		},
+		{
+			"tag": "collar"
+		},
+		{
+			"tag": "fingernails"
+		},
+		{
+			"tag": "neckerchief"
+		},
+		{
+			"tag": "wrist_cuffs"
+		},
+		{
+			"tag": "maid_headdress"
+		},
+		{
+			"tag": "black_ribbon"
+		},
+		{
+			"tag": "black_bow"
+		},
+		{
+			"tag": "neck_ribbon"
+		},
+		{
+			"tag": "mask"
+		},
+		{
+			"tag": "witch_hat"
+		},
+		{
+			"tag": "detached_collar"
+		},
+		{
+			"tag": "headband"
+		},
+		{
+			"tag": "buttons"
+		},
+		{
+			"tag": "chain"
+		},
+		{
+			"tag": "beret"
+		},
+		{
+			"tag": "mob_cap"
+		},
+		{
+			"tag": "ring"
+		},
+		{
+			"tag": "hat_ribbon"
+		},
+		{
+			"tag": "suspenders"
+		},
+		{
+			"tag": "crown"
+		},
+		{
+			"tag": "tiara"
+		},
+		{
+			"tag": "hair_bobbles"
+		},
+		{
+			"tag": "wing_collar"
+		},
+		{
+			"tag": "goggles"
+		},
+		{
+			"tag": "brooch"
+		},
+		{
+			"tag": "wristband"
+		},
+		{
+			"tag": "hat_bow"
+		},
+		{
+			"tag": "tassel"
+		},
+		{
+			"tag": "peaked_cap"
+		},
+		{
+			"tag": "armband"
+		},
+		{
+			"tag": "veil"
+		},
+		{
+			"tag": "tokin_hat"
+		},
+		{
+			"tag": "bridal_gauntlets"
+		},
+		{
+			"tag": "baseball_cap"
+		},
+		{
+			"tag": "semi-rimless_eyewear"
+		},
+		{
+			"tag": "single_horn"
+		},
+		{
+			"tag": "black_necktie"
+		},
+		{
+			"tag": "buckle"
+		},
+		{
+			"tag": "neck_bell"
+		},
+		{
+			"tag": "armlet"
+		},
+		{
+			"tag": "pendant"
+		},
+		{
+			"tag": "hair_scrunchie"
+		},
+		{
+			"tag": "santa_hat"
+		},
+		{
+			"tag": "zipper"
+		},
+		{
+			"tag": "oni_horns"
+		},
+		{
+			"tag": "hat_ornament"
+		},
+		{
+			"tag": "fur_collar"
+		},
+		{
+			"tag": "sun_hat"
+		},
+		{
+			"tag": "under-rim_eyewear"
+		},
+		{
+			"tag": "watch"
+		},
+		{
+			"tag": "shawl"
+		},
+		{
+			"tag": "high_collar"
+		},
+		{
+			"tag": "military_hat"
+		},
+		{
+			"tag": "mini_hat"
+		},
+		{
+			"tag": "hoop_earrings"
+		},
+		{
+			"tag": "circlet"
+		},
+		{
+			"tag": "top_hat"
+		},
+		{
+			"tag": "hairpin"
+		},
+		{
+			"tag": "nurse_cap"
+		},
+		{
+			"tag": "visor_cap"
+		},
+		{
+			"tag": "bandana"
+		},
+		{
+			"tag": "anklet"
+		},
+		{
+			"tag": "sailor_hat"
+		},
+		{
+			"tag": "round_eyewear"
+		},
+		{
+			"tag": "mouth_mask"
+		},
+		{
+			"tag": "straw_hat"
+		},
+		{
+			"tag": "arm_warmers"
+		},
+		{
+			"tag": "beanie"
+		},
+		{
+			"tag": "hat_flower"
+		},
+		{
+			"tag": "cabbie_hat"
+		},
+		{
+			"tag": "tail_ornament"
+		},
+		{
+			"tag": "headdress"
+		},
+		{
+			"tag": "mittens"
+		},
+		{
+			"tag": "wedding_ring"
+		},
+		{
+			"tag": "bangle"
+		},
+		{
+			"tag": "hair_stick"
+		},
+		{
+			"tag": "flat_cap"
+		},
+		{
+			"tag": "stud_earrings"
+		},
+		{
+			"tag": "mini_crown"
+		},
+		{
+			"tag": "lolita_hairband"
+		},
+		{
+			"tag": "tate_eboshi"
+		},
+		{
+			"tag": "ribbon_choker"
+		},
+		{
+			"tag": "wrist_scrunchie"
+		},
+		{
+			"tag": "magatama"
+		},
+		{
+			"tag": "garrison_cap"
+		},
+		{
+			"tag": "crescent_hat_ornament"
+		},
+		{
+			"tag": "thighlet"
+		},
+		{
+			"tag": "hat_feather"
+		},
+		{
+			"tag": "star_earrings"
+		},
+		{
+			"tag": "spiked_bracelet"
+		},
+		{
+			"tag": "hachimaki"
+		},
+		{
+			"tag": "head_scarf"
+		},
+		{
+			"tag": "headphones_around_neck"
+		},
+		{
+			"tag": "necktie_between_breasts"
+		},
+		{
+			"tag": "star_hat_ornament"
+		},
+		{
+			"tag": "bonnet"
+		},
+		{
+			"tag": "object_on_head"
+		},
+		{
+			"tag": "spiked_collar"
+		},
+		{
+			"tag": "rimless_eyewear"
+		},
+		{
+			"tag": "badge"
+		},
+		{
+			"tag": "heart_earrings"
+		},
+		{
+			"tag": "mini_top_hat"
+		},
+		{
+			"tag": "frilled_hairband"
+		},
+		{
+			"tag": "jester_cap"
+		},
+		{
+			"tag": "animal_hat"
+		},
+		{
+			"tag": "animal_collar"
+		},
+		{
+			"tag": "forehead_protector"
+		},
+		{
+			"tag": "tassel_earrings"
+		},
+		{
+			"tag": "v-neck"
+		},
+		{
+			"tag": "tail_ribbon"
+		}
+	],
+	"posture": [
+		{
+			"tag": "sitting"
+		},
+		{
+			"tag": "standing"
+		},
+		{
+			"tag": "lying"
+		},
+		{
+			"tag": "spread_legs"
+		},
+		{
+			"tag": "on_back"
+		},
+		{
+			"tag": "arm_up"
+		},
+		{
+			"tag": "arms_up"
+		},
+		{
+			"tag": "head_tilt"
+		},
+		{
+			"tag": "kneeling"
+		},
+		{
+			"tag": "leaning_forward"
+		},
+		{
+			"tag": "arm_support"
+		},
+		{
+			"tag": "on_side"
+		},
+		{
+			"tag": "wariza"
+		},
+		{
+			"tag": "arms_behind_back"
+		},
+		{
+			"tag": "crossed_arms"
+		},
+		{
+			"tag": "leg_up"
+		},
+		{
+			"tag": "squatting"
+		},
+		{
+			"tag": "standing_on_one_leg"
+		},
+		{
+			"tag": "crossed_legs"
+		},
+		{
+			"tag": "outstretched_arms"
+		},
+		{
+			"tag": "bent_over"
+		},
+		{
+			"tag": "own_hands_together"
+		},
+		{
+			"tag": "straddling"
+		},
+		{
+			"tag": "on_stomach"
+		},
+		{
+			"tag": "outstretched_arm"
+		},
+		{
+			"tag": "all_fours"
+		},
+		{
+			"tag": "arms_behind_head"
+		},
+		{
+			"tag": "interlocked_fingers"
+		},
+		{
+			"tag": "seiza"
+		},
+		{
+			"tag": "legs_up"
+		},
+		{
+			"tag": "arm_at_side"
+		},
+		{
+			"tag": "walking"
+		},
+		{
+			"tag": "legs_apart"
+		},
+		{
+			"tag": "contrapposto"
+		},
+		{
+			"tag": "arm_behind_head"
+		},
+		{
+			"tag": "v_arms"
+		},
+		{
+			"tag": "running"
+		},
+		{
+			"tag": "head_rest"
+		},
+		{
+			"tag": "paw_pose"
+		},
+		{
+			"tag": "knees_together_feet_apart"
+		},
+		{
+			"tag": "upside-down"
+		},
+		{
+			"tag": "jumping"
+		},
+		{
+			"tag": "fighting_stance"
+		},
+		{
+			"tag": "top-down_bottom-up"
+		},
+		{
+			"tag": "sitting_on_person"
+		},
+		{
+			"tag": "spread_arms"
+		},
+		{
+			"tag": "arched_back"
+		},
+		{
+			"tag": "arms_at_sides"
+		},
+		{
+			"tag": "yokozuwari"
+		},
+		{
+			"tag": "leg_lift"
+		},
+		{
+			"tag": "leaning_back"
+		},
+		{
+			"tag": "hugging_own_legs"
+		},
+		{
+			"tag": "claw_pose"
+		},
+		{
+			"tag": "indian_style"
+		},
+		{
+			"tag": "own_hands_clasped"
+		},
+		{
+			"tag": "stretching"
+		},
+		{
+			"tag": "pigeon-toed"
+		},
+		{
+			"tag": "tiptoes"
+		},
+		{
+			"tag": "split"
+		},
+		{
+			"tag": "folded"
+		},
+		{
+			"tag": "sitting_on_lap"
+		},
+		{
+			"tag": "reclining"
+		},
+		{
+			"tag": "twisted_torso"
+		},
+		{
+			"tag": "standing_split"
+		},
+		{
+			"tag": "reaching"
+		}
+	],
+	"action": [
+		{
+			"tag": "looking_at_viewer"
+		},
+		{
+			"tag": "holding"
+		},
+		{
+			"tag": "looking_back"
+		},
+		{
+			"tag": "looking_away"
+		},
+		{
+			"tag": "grabbing"
+		},
+		{
+			"tag": "eating"
+		},
+		{
+			"tag": "looking_down"
+		},
+		{
+			"tag": "sleeping"
+		},
+		{
+			"tag": "looking_up"
+		},
+		{
+			"tag": "pointing"
+		},
+		{
+			"tag": "kiss"
+		},
+		{
+			"tag": "drooling"
+		},
+		{
+			"tag": "covering"
+		},
+		{
+			"tag": "foreshortening"
+		},
+		{
+			"tag": "carrying"
+		},
+		{
+			"tag": "wading"
+		},
+		{
+			"tag": "floating"
+		},
+		{
+			"tag": "flying"
+		},
+		{
+			"tag": "fingering"
+		},
+		{
+			"tag": "crossdressing"
+		},
+		{
+			"tag": "pose"
+		},
+		{
+			"tag": "bouncing_breasts"
+		},
+		{
+			"tag": "snowing"
+		},
+		{
+			"tag": "waving"
+		},
+		{
+			"tag": "groping"
+		},
+		{
+			"tag": "smoking"
+		},
+		{
+			"tag": "drinking"
+		},
+		{
+			"tag": "reading"
+		},
+		{
+			"tag": "talking"
+		},
+		{
+			"tag": "battle"
+		},
+		{
+			"tag": "riding"
+		},
+		{
+			"tag": "biting"
+		},
+		{
+			"tag": "bathing"
+		},
+		{
+			"tag": "laughing"
+		},
+		{
+			"tag": "dancing"
+		},
+		{
+			"tag": "kicking"
+		},
+		{
+			"tag": "presenting"
+		},
+		{
+			"tag": "singing"
+		},
+		{
+			"tag": "falling"
+		},
+		{
+			"tag": "splashing"
+		},
+		{
+			"tag": "dripping"
+		},
+		{
+			"tag": "broom_riding"
+		},
+		{
+			"tag": "pointing_at_viewer"
+		},
+		{
+			"tag": "feeding"
+		},
+		{
+			"tag": "playing_instrument"
+		},
+		{
+			"tag": "punching"
+		},
+		{
+			"tag": "shouting"
+		},
+		{
+			"tag": "cooking"
+		},
+		{
+			"tag": "yawning"
+		},
+		{
+			"tag": "playing_games"
+		},
+		{
+			"tag": "dressing"
+		}
+	],
+	"item": [
+		{
+			"tag": "pillow"
+		},
+		{
+			"tag": "book"
+		},
+		{
+			"tag": "bed"
+		},
+		{
+			"tag": "chair"
+		},
+		{
+			"tag": "phone"
+		},
+		{
+			"tag": "table"
+		},
+		{
+			"tag": "sunglasses"
+		},
+		{
+			"tag": "backpack"
+		},
+		{
+			"tag": "cross"
+		},
+		{
+			"tag": "bottle"
+		},
+		{
+			"tag": "grass"
+		},
+		{
+			"tag": "fire"
+		},
+		{
+			"tag": "feathers"
+		},
+		{
+			"tag": "knife"
+		},
+		{
+			"tag": "lipstick"
+		},
+		{
+			"tag": "robot"
+		},
+		{
+			"tag": "curtains"
+		},
+		{
+			"tag": "staff"
+		},
+		{
+			"tag": "towel"
+		},
+		{
+			"tag": "candy"
+		},
+		{
+			"tag": "microphone"
+		},
+		{
+			"tag": "gift"
+		},
+		{
+			"tag": "desk"
+		},
+		{
+			"tag": "broom"
+		},
+		{
+			"tag": "headset"
+		},
+		{
+			"tag": "fish"
+		},
+		{
+			"tag": "teacup"
+		},
+		{
+			"tag": "cake"
+		},
+		{
+			"tag": "veins"
+		},
+		{
+			"tag": "bowl"
+		},
+		{
+			"tag": "spear"
+		},
+		{
+			"tag": "mirror"
+		},
+		{
+			"tag": "camera"
+		},
+		{
+			"tag": "blanket"
+		},
+		{
+			"tag": "clock"
+		},
+		{
+			"tag": "pen"
+		},
+		{
+			"tag": "car"
+		},
+		{
+			"tag": "bucket"
+		},
+		{
+			"tag": "lamp"
+		},
+		{
+			"tag": "television"
+		},
+		{
+			"tag": "water_bottle"
+		},
+		{
+			"tag": "scissors"
+		},
+		{
+			"tag": "mouse"
+		},
+		{
+			"tag": "tape"
+		},
+		{
+			"tag": "laptop"
+		}
+	]
+}

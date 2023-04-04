@@ -6,19 +6,17 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/styles.css">
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+	<script src="./data/gallery.json" type="text/javascript"></script>
 	<script src="js/create.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 	<title>The AI Tag Library</title>
 </head>
 <body>
 	<script>
-		 $.ajax({
-		url:'/data/gallery.txt',
-		success: function (data){
-			console.log(data);
-		}
-  });
-	</script>		
+		let testData = JSON.parse(JSON.stringify(data));
+        console.log(testData);
+	</script>
 
 	<div class="title">
 		<h1>The AI Tag Library</h1>
@@ -28,8 +26,8 @@
 	<div class="container" id="mainContainer">
 	</div>
 	<script>
-		for(var i = 0; i < 20; i++)
-		createItem();
+		for (obj in testData)
+			createItem(obj);
 	</script>
 </body>
 </html>
