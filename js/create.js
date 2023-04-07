@@ -1,10 +1,32 @@
 function createItem(parent) {
-	let element = document.createElement("img");
-	element.src = "/group/" + parent + ".png";
-	element.onerror = function error() {
+	let item = document.createElement("div");
+
+	let img = document.createElement("img");
+	img.src = "/group/" + parent + ".png";
+	img.onerror = function error() {
 		this.src = "data/images/assets/NoImage.png";
 	}
-	element.classList.add("item");
-	element.ondragstart = function() { return false; };
-	document.getElementById("mainContainer").appendChild(element);
+
+	item.classList.add("item");
+	item.ondragstart = function () {
+		return false;
+	};
+	
+	item.onclick = function () {
+		let url = new URL(window.location.href);
+		url.searchParams.set('g', parent);
+		window.location.href = url;
+	};
+
+	let subtitle = document.createElement("div");
+	subtitle.classList.add("subtitle");
+
+	let title = document.createElement("h1");
+	title.innerHTML = parent;
+
+	subtitle.appendChild(title);
+
+	item.appendChild(img);
+	item.appendChild(subtitle);
+	document.getElementById("mainContainer").appendChild(item);
 }

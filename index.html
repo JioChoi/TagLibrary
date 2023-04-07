@@ -14,8 +14,8 @@
 </head>
 <body>
 	<script>
-		let testData = JSON.parse(JSON.stringify(data));
-        console.log(testData);
+		let tagData = JSON.parse(JSON.stringify(data));
+        console.log(tagData);
 	</script>
 
 	<div class="title">
@@ -26,8 +26,18 @@
 	<div class="container" id="mainContainer">
 	</div>
 	<script>
-		for (obj in testData)
+		url = new URL(window.location.href);
+		gallery = url.searchParams.get("g");
+		
+		if(gallery == null) {
+			for (obj in tagData)
 			createItem(obj);
+		}
+		else {
+			for(var i = 0; i < tagData[gallery].length; i++)
+				createItem(tagData[gallery].at(i).tag);
+		}
+
 	</script>
 </body>
 </html>
