@@ -2,2745 +2,2745 @@ data = {
    "hair": [
       {
          "tag": "absurdly_long_hair",
-         "filename": "absurdly_long_hair.png"
+         "filename": "absurdly_long_hair.jpg"
       },
       {
          "tag": "ahoge",
-         "filename": "ahoge.png"
+         "filename": "ahoge.jpg"
       },
       {
          "tag": "antenna_hair",
-         "filename": "antenna_hair.png"
+         "filename": "antenna_hair.jpg"
       },
       {
          "tag": "asymmetrical_bangs",
-         "filename": "asymmetrical_bangs.png"
+         "filename": "asymmetrical_bangs.jpg"
       },
       {
          "tag": "asymmetrical_hair",
-         "filename": "asymmetrical_hair.png"
+         "filename": "asymmetrical_hair.jpg"
       },
       {
          "tag": "bangs",
-         "filename": "bangs.png"
+         "filename": "bangs.jpg"
       },
       {
          "tag": "black_hair",
-         "filename": "black_hair.png"
+         "filename": "black_hair.jpg"
       },
       {
          "tag": "blonde_hair",
-         "filename": "blonde_hair.png"
+         "filename": "blonde_hair.jpg"
       },
       {
          "tag": "blue_hair",
-         "filename": "blue_hair.png"
+         "filename": "blue_hair.jpg"
       },
       {
          "tag": "blunt_bangs",
-         "filename": "blunt_bangs.png"
+         "filename": "blunt_bangs.jpg"
       },
       {
          "tag": "bob_cut",
-         "filename": "bob_cut.png"
+         "filename": "bob_cut.jpg"
       },
       {
          "tag": "braid",
-         "filename": "braid.png"
+         "filename": "braid.jpg"
       },
       {
          "tag": "brown_hair",
-         "filename": "brown_hair.png"
+         "filename": "brown_hair.jpg"
       },
       {
          "tag": "crossed_bangs",
-         "filename": "crossed_bangs.png"
+         "filename": "crossed_bangs.jpg"
       },
       {
          "tag": "crown_braid",
-         "filename": "crown_braid.png"
+         "filename": "crown_braid.jpg"
       },
       {
          "tag": "curly_hair",
-         "filename": "curly_hair.png"
+         "filename": "curly_hair.jpg"
       },
       {
          "tag": "double_bun",
-         "filename": "double_bun.png"
+         "filename": "double_bun.jpg"
       },
       {
          "tag": "drill_hair",
-         "filename": "drill_hair.png"
+         "filename": "drill_hair.jpg"
       },
       {
          "tag": "floating_hair",
-         "filename": "floating_hair.png"
+         "filename": "floating_hair.jpg"
       },
       {
          "tag": "folded_ponytail",
-         "filename": "folded_ponytail.png"
+         "filename": "folded_ponytail.jpg"
       },
       {
          "tag": "french_braid",
-         "filename": "french_braid.png"
+         "filename": "french_braid.jpg"
       },
       {
          "tag": "green_hair",
-         "filename": "green_hair.png"
+         "filename": "green_hair.jpg"
       },
       {
          "tag": "grey_hair",
-         "filename": "grey_hair.png"
+         "filename": "grey_hair.jpg"
       },
       {
          "tag": "hair_between_eyes",
-         "filename": "hair_between_eyes.png"
+         "filename": "hair_between_eyes.jpg"
       },
       {
          "tag": "hair_bun",
-         "filename": "hair_bun.png"
+         "filename": "hair_bun.jpg"
       },
       {
          "tag": "hair_down",
-         "filename": "hair_down.png"
+         "filename": "hair_down.jpg"
       },
       {
          "tag": "hair_flaps",
-         "filename": "hair_flaps.png"
+         "filename": "hair_flaps.jpg"
       },
       {
          "tag": "hair_intakes",
-         "filename": "hair_intakes.png"
+         "filename": "hair_intakes.jpg"
       },
       {
          "tag": "hair_over_one_eye",
-         "filename": "hair_over_one_eye.png"
+         "filename": "hair_over_one_eye.jpg"
       },
       {
          "tag": "hair_over_shoulder",
-         "filename": "hair_over_shoulder.png"
+         "filename": "hair_over_shoulder.jpg"
       },
       {
          "tag": "hair_rings",
-         "filename": "hair_rings.png"
+         "filename": "hair_rings.jpg"
       },
       {
          "tag": "half_updo",
-         "filename": "half_updo.png"
+         "filename": "half_updo.jpg"
       },
       {
          "tag": "high_ponytail",
-         "filename": "high_ponytail.png"
+         "filename": "high_ponytail.jpg"
       },
       {
          "tag": "hime_cut",
-         "filename": "hime_cut.png"
+         "filename": "hime_cut.jpg"
       },
       {
          "tag": "long_hair",
-         "filename": "long_hair.png"
+         "filename": "long_hair.jpg"
       },
       {
          "tag": "medium_hair",
-         "filename": "medium_hair.png"
+         "filename": "medium_hair.jpg"
       },
       {
          "tag": "messy_hair",
-         "filename": "messy_hair.png"
+         "filename": "messy_hair.jpg"
       },
       {
          "tag": "one_side_up",
-         "filename": "one_side_up.png"
+         "filename": "one_side_up.jpg"
       },
       {
          "tag": "orange_hair",
-         "filename": "orange_hair.png"
+         "filename": "orange_hair.jpg"
       },
       {
          "tag": "parted_bangs",
-         "filename": "parted_bangs.png"
+         "filename": "parted_bangs.jpg"
       },
       {
          "tag": "pink_hair",
-         "filename": "pink_hair.png"
+         "filename": "pink_hair.jpg"
       },
       {
          "tag": "ponytail",
-         "filename": "ponytail.png"
+         "filename": "ponytail.jpg"
       },
       {
          "tag": "purple_hair",
-         "filename": "purple_hair.png"
+         "filename": "purple_hair.jpg"
       },
       {
          "tag": "red_hair",
-         "filename": "red_hair.png"
+         "filename": "red_hair.jpg"
       },
       {
          "tag": "short_hair",
-         "filename": "short_hair.png"
+         "filename": "short_hair.jpg"
       },
       {
          "tag": "short_ponytail",
-         "filename": "short_ponytail.png"
+         "filename": "short_ponytail.jpg"
       },
       {
          "tag": "short_twintails",
-         "filename": "short_twintails.png"
+         "filename": "short_twintails.jpg"
       },
       {
          "tag": "side_braid",
-         "filename": "side_braid.png"
+         "filename": "side_braid.jpg"
       },
       {
          "tag": "side_ponytail",
-         "filename": "side_ponytail.png"
+         "filename": "side_ponytail.jpg"
       },
       {
          "tag": "sidelocks",
-         "filename": "sidelocks.png"
+         "filename": "sidelocks.jpg"
       },
       {
          "tag": "silver_hair",
-         "filename": "silver_hair.png"
+         "filename": "silver_hair.jpg"
       },
       {
          "tag": "single_braid",
-         "filename": "single_braid.png"
+         "filename": "single_braid.jpg"
       },
       {
          "tag": "spiked_hair",
-         "filename": "spiked_hair.png"
+         "filename": "spiked_hair.jpg"
       },
       {
          "tag": "straight_hair",
-         "filename": "straight_hair.png"
+         "filename": "straight_hair.jpg"
       },
       {
          "tag": "swept_bangs",
-         "filename": "swept_bangs.png"
+         "filename": "swept_bangs.jpg"
       },
       {
          "tag": "twin_braids",
-         "filename": "twin_braids.png"
+         "filename": "twin_braids.jpg"
       },
       {
          "tag": "twin_drills",
-         "filename": "twin_drills.png"
+         "filename": "twin_drills.jpg"
       },
       {
          "tag": "twintails",
-         "filename": "twintails.png"
+         "filename": "twintails.jpg"
       },
       {
          "tag": "two_side_up",
-         "filename": "two_side_up.png"
+         "filename": "two_side_up.jpg"
       },
       {
          "tag": "very_long_hair",
-         "filename": "very_long_hair.png"
+         "filename": "very_long_hair.jpg"
       },
       {
          "tag": "wavy_hair",
-         "filename": "wavy_hair.png"
+         "filename": "wavy_hair.jpg"
       },
       {
          "tag": "white_hair",
-         "filename": "white_hair.png"
+         "filename": "white_hair.jpg"
       }
    ],
    "face": [
       {
          "tag": ";D",
-         "filename": ";d.png"
+         "filename": ";d.jpg"
       },
       {
          "tag": ":D",
-         "filename": "_d.png"
+         "filename": "-d.jpg"
       },
       {
          "tag": ":O",
-         "filename": "_o.png"
+         "filename": "-o.jpg"
       },
       {
          "tag": ":P",
-         "filename": "_p.png"
+         "filename": "-p.jpg"
       },
       {
          "tag": ":T",
-         "filename": "_t.png"
+         "filename": "-t.jpg"
       },
       {
          "tag": "anger_vein",
-         "filename": "anger_vein.png"
+         "filename": "anger_vein.jpg"
       },
       {
          "tag": "angry",
-         "filename": "angry.png"
+         "filename": "angry.jpg"
       },
       {
          "tag": "blush",
-         "filename": "blush.png"
+         "filename": "blush.jpg"
       },
       {
          "tag": "blush_stickers",
-         "filename": "blush_stickers.png"
+         "filename": "blush_stickers.jpg"
       },
       {
          "tag": "chestnut_mouth",
-         "filename": "chestnut_mouth.png"
+         "filename": "chestnut_mouth.jpg"
       },
       {
          "tag": "clenched_teeth",
-         "filename": "clenched_teeth.png"
+         "filename": "clenched_teeth.jpg"
       },
       {
          "tag": "closed_eyes",
-         "filename": "closed_eyes.png"
+         "filename": "closed_eyes.jpg"
       },
       {
          "tag": "crying",
-         "filename": "crying.png"
+         "filename": "crying.jpg"
       },
       {
          "tag": "dot_nose",
-         "filename": "dot_nose.png"
+         "filename": "dot_nose.jpg"
       },
       {
          "tag": "embarrassed",
-         "filename": "embarrassed.png"
+         "filename": "embarrassed.jpg"
       },
       {
          "tag": "expressionless",
-         "filename": "expressionless.png"
+         "filename": "expressionless.jpg"
       },
       {
          "tag": "freckles",
-         "filename": "freckles.png"
+         "filename": "freckles.jpg"
       },
       {
          "tag": "frown",
-         "filename": "frown.png"
+         "filename": "frown.jpg"
       },
       {
          "tag": "full-face_blush",
-         "filename": "full-face_blush.png"
+         "filename": "full-face_blush.jpg"
       },
       {
          "tag": "furrowed_brow",
-         "filename": "furrowed_brow.png"
+         "filename": "furrowed_brow.jpg"
       },
       {
          "tag": "grin",
-         "filename": "grin.png"
+         "filename": "grin.jpg"
       },
       {
          "tag": "happy",
-         "filename": "happy.png"
+         "filename": "happy.jpg"
       },
       {
          "tag": "light_smile",
-         "filename": "light_smile.png"
+         "filename": "light_smile.jpg"
       },
       {
          "tag": "nose_blush",
-         "filename": "nose_blush.png"
+         "filename": "nose_blush.jpg"
       },
       {
          "tag": "open_mouth",
-         "filename": "open_mouth.png"
+         "filename": "open_mouth.jpg"
       },
       {
          "tag": "parted_lips",
-         "filename": "parted_lips.png"
+         "filename": "parted_lips.jpg"
       },
       {
          "tag": "pout",
-         "filename": "pout.png"
+         "filename": "pout.jpg"
       },
       {
          "tag": "serious",
-         "filename": "serious.png"
+         "filename": "serious.jpg"
       },
       {
          "tag": "sharp_teeth",
-         "filename": "sharp_teeth.png"
+         "filename": "sharp_teeth.jpg"
       },
       {
          "tag": "smile",
-         "filename": "smile.png"
+         "filename": "smile.jpg"
       },
       {
          "tag": "smirk",
-         "filename": "smirk.png"
+         "filename": "smirk.jpg"
       },
       {
          "tag": "smug",
-         "filename": "smug.png"
+         "filename": "smug.jpg"
       },
       {
          "tag": "surprised",
-         "filename": "surprised.png"
+         "filename": "surprised.jpg"
       },
       {
          "tag": "tears",
-         "filename": "tears.png"
+         "filename": "tears.jpg"
       },
       {
          "tag": "trembling",
-         "filename": "trembling.png"
+         "filename": "trembling.jpg"
       },
       {
          "tag": "v-shaped_eyebrows",
-         "filename": "v-shaped_eyebrows.png"
+         "filename": "v-shaped_eyebrows.jpg"
       },
       {
          "tag": "wavy_mouth",
-         "filename": "wavy_mouth.png"
+         "filename": "wavy_mouth.jpg"
       },
       {
          "tag": "wide-eyed",
-         "filename": "wide-eyed.png"
+         "filename": "wide-eyed.jpg"
       }
    ],
    "eyes": [
       {
          "tag": "aqua_eyes",
-         "filename": "aqua_eyes.png"
+         "filename": "aqua_eyes.jpg"
       },
       {
          "tag": "bags_under_eyes",
-         "filename": "bags_under_eyes.png"
+         "filename": "bags_under_eyes.jpg"
       },
       {
          "tag": "blindfold",
-         "filename": "blindfold.png"
+         "filename": "blindfold.jpg"
       },
       {
          "tag": "blue_eyes",
-         "filename": "blue_eyes.png"
+         "filename": "blue_eyes.jpg"
       },
       {
          "tag": "brown_eyes",
-         "filename": "brown_eyes.png"
+         "filename": "brown_eyes.jpg"
       },
       {
          "tag": "colored_eyelashes",
-         "filename": "colored_eyelashes.png"
+         "filename": "colored_eyelashes.jpg"
       },
       {
          "tag": "empty_eyes",
-         "filename": "empty_eyes.png"
+         "filename": "empty_eyes.jpg"
       },
       {
          "tag": "eyelashes",
-         "filename": "eyelashes.png"
+         "filename": "eyelashes.jpg"
       },
       {
          "tag": "eyeliner",
-         "filename": "eyeliner.png"
+         "filename": "eyeliner.jpg"
       },
       {
          "tag": "eyepatch",
-         "filename": "eyepatch.png"
+         "filename": "eyepatch.jpg"
       },
       {
          "tag": "eyes_visible_through_hair",
-         "filename": "eyes_visible_through_hair.png"
+         "filename": "eyes_visible_through_hair.jpg"
       },
       {
          "tag": "eyeshadow",
-         "filename": "eyeshadow.png"
+         "filename": "eyeshadow.jpg"
       },
       {
          "tag": "glasses",
-         "filename": "glasses.png"
+         "filename": "glasses.jpg"
       },
       {
          "tag": "glowing_eyes",
-         "filename": "glowing_eyes.png"
+         "filename": "glowing_eyes.jpg"
       },
       {
          "tag": "green_eyes",
-         "filename": "green_eyes.png"
+         "filename": "green_eyes.jpg"
       },
       {
          "tag": "grey_eyes",
-         "filename": "grey_eyes.png"
+         "filename": "grey_eyes.jpg"
       },
       {
          "tag": "heterochromia",
-         "filename": "heterochromia.png"
+         "filename": "heterochromia.jpg"
       },
       {
          "tag": "jitome",
-         "filename": "jitome.png"
+         "filename": "jitome.jpg"
       },
       {
          "tag": "makeup",
-         "filename": "makeup.png"
+         "filename": "makeup.jpg"
       },
       {
          "tag": "multicolored_eyes",
-         "filename": "multicolored_eyes.png"
+         "filename": "multicolored_eyes.jpg"
       },
       {
          "tag": "one_eye_closed",
-         "filename": "one_eye_closed.png"
+         "filename": "one_eye_closed.jpg"
       },
       {
          "tag": "orange_eyes",
-         "filename": "orange_eyes.png"
+         "filename": "orange_eyes.jpg"
       },
       {
          "tag": "pink_eyes",
-         "filename": "pink_eyes.png"
+         "filename": "pink_eyes.jpg"
       },
       {
          "tag": "purple_eyes",
-         "filename": "purple_eyes.png"
+         "filename": "purple_eyes.jpg"
       },
       {
          "tag": "red_eyes",
-         "filename": "red_eyes.png"
+         "filename": "red_eyes.jpg"
       },
       {
          "tag": "slit_pupils",
-         "filename": "slit_pupils.png"
+         "filename": "slit_pupils.jpg"
       },
       {
          "tag": "tearing_up",
-         "filename": "tearing_up.png"
+         "filename": "tearing_up.jpg"
       },
       {
          "tag": "third_eye",
-         "filename": "third_eye.png"
+         "filename": "third_eye.jpg"
       },
       {
          "tag": "tsurime",
-         "filename": "tsurime.png"
+         "filename": "tsurime.jpg"
       },
       {
          "tag": "white_pupils",
-         "filename": "white_pupils.png"
+         "filename": "white_pupils.jpg"
       },
       {
          "tag": "yellow_eyes",
-         "filename": "yellow_eyes.png"
+         "filename": "yellow_eyes.jpg"
       }
    ],
    "ears": [
       {
          "tag": "animal_ears",
-         "filename": "animal_ears.png"
+         "filename": "animal_ears.jpg"
       },
       {
          "tag": "cat_ears",
-         "filename": "cat_ears.png"
+         "filename": "cat_ears.jpg"
       },
       {
          "tag": "cow_ears",
-         "filename": "cow_ears.png"
+         "filename": "cow_ears.jpg"
       },
       {
          "tag": "dog_ears",
-         "filename": "dog_ears.png"
+         "filename": "dog_ears.jpg"
       },
       {
          "tag": "ear_piercing",
-         "filename": "ear_piercing.png"
+         "filename": "ear_piercing.jpg"
       },
       {
          "tag": "earrings",
-         "filename": "earrings.png"
+         "filename": "earrings.jpg"
       },
       {
          "tag": "fake_animal_ears",
-         "filename": "fake_animal_ears.png"
+         "filename": "fake_animal_ears.jpg"
       },
       {
          "tag": "fox_ears",
-         "filename": "fox_ears.png"
+         "filename": "fox_ears.jpg"
       },
       {
          "tag": "headphones",
-         "filename": "headphones.png"
+         "filename": "headphones.jpg"
       },
       {
          "tag": "horse_ears",
-         "filename": "horse_ears.png"
+         "filename": "horse_ears.jpg"
       },
       {
          "tag": "kemonomimi_mode",
-         "filename": "kemonomimi_mode.png"
+         "filename": "kemonomimi_mode.jpg"
       },
       {
          "tag": "mouse_ears",
-         "filename": "mouse_ears.png"
+         "filename": "mouse_ears.jpg"
       },
       {
          "tag": "pointy_ears",
-         "filename": "pointy_ears.png"
+         "filename": "pointy_ears.jpg"
       },
       {
          "tag": "rabbit_ears",
-         "filename": "rabbit_ears.png"
+         "filename": "rabbit_ears.jpg"
       },
       {
          "tag": "single_earring",
-         "filename": "single_earring.png"
+         "filename": "single_earring.jpg"
       },
       {
          "tag": "wolf_ears",
-         "filename": "wolf_ears.png"
+         "filename": "wolf_ears.jpg"
       }
    ],
    "wings": [
       {
          "tag": "angel_wings",
-         "filename": "angel_wings.png"
+         "filename": "angel_wings.jpg"
       },
       {
          "tag": "bat_wings",
-         "filename": "bat_wings.png"
+         "filename": "bat_wings.jpg"
       },
       {
          "tag": "black_wings",
-         "filename": "black_wings.png"
+         "filename": "black_wings.jpg"
       },
       {
          "tag": "demon_wings",
-         "filename": "demon_wings.png"
+         "filename": "demon_wings.jpg"
       },
       {
          "tag": "fairy_wings",
-         "filename": "fairy_wings.png"
+         "filename": "fairy_wings.jpg"
       },
       {
          "tag": "feathered_wings",
-         "filename": "feathered_wings.png"
+         "filename": "feathered_wings.jpg"
       },
       {
          "tag": "head_wings",
-         "filename": "head_wings.png"
+         "filename": "head_wings.jpg"
       },
       {
          "tag": "ice_wings",
-         "filename": "ice_wings.png"
+         "filename": "ice_wings.jpg"
       },
       {
          "tag": "white_wings",
-         "filename": "white_wings.png"
+         "filename": "white_wings.jpg"
       },
       {
          "tag": "wings",
-         "filename": "wings.png"
+         "filename": "wings.jpg"
       }
    ],
    "accessories": [
       {
          "tag": "animal_collar",
-         "filename": "animal_collar.png"
+         "filename": "animal_collar.jpg"
       },
       {
          "tag": "animal_hat",
-         "filename": "animal_hat.png"
+         "filename": "animal_hat.jpg"
       },
       {
          "tag": "anklet",
-         "filename": "anklet.png"
+         "filename": "anklet.jpg"
       },
       {
          "tag": "arm_warmers",
-         "filename": "arm_warmers.png"
+         "filename": "arm_warmers.jpg"
       },
       {
          "tag": "armband",
-         "filename": "armband.png"
+         "filename": "armband.jpg"
       },
       {
          "tag": "armlet",
-         "filename": "armlet.png"
+         "filename": "armlet.jpg"
       },
       {
          "tag": "badge",
-         "filename": "badge.png"
+         "filename": "badge.jpg"
       },
       {
          "tag": "bandana",
-         "filename": "bandana.png"
+         "filename": "bandana.jpg"
       },
       {
          "tag": "bangle",
-         "filename": "bangle.png"
+         "filename": "bangle.jpg"
       },
       {
          "tag": "baseball_cap",
-         "filename": "baseball_cap.png"
+         "filename": "baseball_cap.jpg"
       },
       {
          "tag": "beanie",
-         "filename": "beanie.png"
+         "filename": "beanie.jpg"
       },
       {
          "tag": "belt",
-         "filename": "belt.png"
+         "filename": "belt.jpg"
       },
       {
          "tag": "beret",
-         "filename": "beret.png"
+         "filename": "beret.jpg"
       },
       {
          "tag": "black_bow",
-         "filename": "black_bow.png"
+         "filename": "black_bow.jpg"
       },
       {
          "tag": "black_gloves",
-         "filename": "black_gloves.png"
+         "filename": "black_gloves.jpg"
       },
       {
          "tag": "black_necktie",
-         "filename": "black_necktie.png"
+         "filename": "black_necktie.jpg"
       },
       {
          "tag": "black_ribbon",
-         "filename": "black_ribbon.png"
+         "filename": "black_ribbon.jpg"
       },
       {
          "tag": "bonnet",
-         "filename": "bonnet.png"
+         "filename": "bonnet.jpg"
       },
       {
          "tag": "bow",
-         "filename": "bow.png"
+         "filename": "bow.jpg"
       },
       {
          "tag": "bowtie",
-         "filename": "bowtie.png"
+         "filename": "bowtie.jpg"
       },
       {
          "tag": "bracelet",
-         "filename": "bracelet.png"
+         "filename": "bracelet.jpg"
       },
       {
          "tag": "bridal_gauntlets",
-         "filename": "bridal_gauntlets.png"
+         "filename": "bridal_gauntlets.jpg"
       },
       {
          "tag": "brooch",
-         "filename": "brooch.png"
+         "filename": "brooch.jpg"
       },
       {
          "tag": "buckle",
-         "filename": "buckle.png"
+         "filename": "buckle.jpg"
       },
       {
          "tag": "buttons",
-         "filename": "buttons.png"
+         "filename": "buttons.jpg"
       },
       {
          "tag": "cabbie_hat",
-         "filename": "cabbie_hat.png"
+         "filename": "cabbie_hat.jpg"
       },
       {
          "tag": "chain",
-         "filename": "chain.png"
+         "filename": "chain.jpg"
       },
       {
          "tag": "choker",
-         "filename": "choker.png"
+         "filename": "choker.jpg"
       },
       {
          "tag": "circlet",
-         "filename": "circlet.png"
+         "filename": "circlet.jpg"
       },
       {
          "tag": "collar",
-         "filename": "collar.png"
+         "filename": "collar.jpg"
       },
       {
          "tag": "crescent_hat_ornament",
-         "filename": "crescent_hat_ornament.png"
+         "filename": "crescent_hat_ornament.jpg"
       },
       {
          "tag": "crown",
-         "filename": "crown.png"
+         "filename": "crown.jpg"
       },
       {
          "tag": "detached_collar",
-         "filename": "detached_collar.png"
+         "filename": "detached_collar.jpg"
       },
       {
          "tag": "detached_sleeves",
-         "filename": "detached_sleeves.png"
+         "filename": "detached_sleeves.jpg"
       },
       {
          "tag": "elbow_gloves",
-         "filename": "elbow_gloves.png"
+         "filename": "elbow_gloves.jpg"
       },
       {
          "tag": "fingerless_gloves",
-         "filename": "fingerless_gloves.png"
+         "filename": "fingerless_gloves.jpg"
       },
       {
          "tag": "flat_cap",
-         "filename": "flat_cap.png"
+         "filename": "flat_cap.jpg"
       },
       {
          "tag": "forehead_protector",
-         "filename": "forehead_protector.png"
+         "filename": "forehead_protector.jpg"
       },
       {
          "tag": "frilled_hairband",
-         "filename": "frilled_hairband.png"
+         "filename": "frilled_hairband.jpg"
       },
       {
          "tag": "fur_collar",
-         "filename": "fur_collar.png"
+         "filename": "fur_collar.jpg"
       },
       {
          "tag": "garrison_cap",
-         "filename": "garrison_cap.png"
+         "filename": "garrison_cap.jpg"
       },
       {
          "tag": "gloves",
-         "filename": "gloves.png"
+         "filename": "gloves.jpg"
       },
       {
          "tag": "goggles",
-         "filename": "goggles.png"
+         "filename": "goggles.jpg"
       },
       {
          "tag": "hachimaki",
-         "filename": "hachimaki.png"
+         "filename": "hachimaki.jpg"
       },
       {
          "tag": "hair_bobbles",
-         "filename": "hair_bobbles.png"
+         "filename": "hair_bobbles.jpg"
       },
       {
          "tag": "hair_bow",
-         "filename": "hair_bow.png"
+         "filename": "hair_bow.jpg"
       },
       {
          "tag": "hair_flower",
-         "filename": "hair_flower.png"
+         "filename": "hair_flower.jpg"
       },
       {
          "tag": "hair_ornament",
-         "filename": "hair_ornament.png"
+         "filename": "hair_ornament.jpg"
       },
       {
          "tag": "hair_ribbon",
-         "filename": "hair_ribbon.png"
+         "filename": "hair_ribbon.jpg"
       },
       {
          "tag": "hair_scrunchie",
-         "filename": "hair_scrunchie.png"
+         "filename": "hair_scrunchie.jpg"
       },
       {
          "tag": "hairband",
-         "filename": "hairband.png"
+         "filename": "hairband.jpg"
       },
       {
          "tag": "hairclip",
-         "filename": "hairclip.png"
+         "filename": "hairclip.jpg"
       },
       {
          "tag": "hairpin",
-         "filename": "hairpin.png"
+         "filename": "hairpin.jpg"
       },
       {
          "tag": "hat",
-         "filename": "hat.png"
+         "filename": "hat.jpg"
       },
       {
          "tag": "hat_bow",
-         "filename": "hat_bow.png"
+         "filename": "hat_bow.jpg"
       },
       {
          "tag": "hat_feather",
-         "filename": "hat_feather.png"
+         "filename": "hat_feather.jpg"
       },
       {
          "tag": "hat_flower",
-         "filename": "hat_flower.png"
+         "filename": "hat_flower.jpg"
       },
       {
          "tag": "hat_ornament",
-         "filename": "hat_ornament.png"
+         "filename": "hat_ornament.jpg"
       },
       {
          "tag": "hat_ribbon",
-         "filename": "hat_ribbon.png"
+         "filename": "hat_ribbon.jpg"
       },
       {
          "tag": "head_scarf",
-         "filename": "head_scarf.png"
+         "filename": "head_scarf.jpg"
       },
       {
          "tag": "headband",
-         "filename": "headband.png"
+         "filename": "headband.jpg"
       },
       {
          "tag": "headdress",
-         "filename": "headdress.png"
+         "filename": "headdress.jpg"
       },
       {
          "tag": "headphones_around_neck",
-         "filename": "headphones_around_neck.png"
+         "filename": "headphones_around_neck.jpg"
       },
       {
          "tag": "heart_earrings",
-         "filename": "heart_earrings.png"
+         "filename": "heart_earrings.jpg"
       },
       {
          "tag": "high_collar",
-         "filename": "high_collar.png"
+         "filename": "high_collar.jpg"
       },
       {
          "tag": "hoop_earrings",
-         "filename": "hoop_earrings.png"
+         "filename": "hoop_earrings.jpg"
       },
       {
          "tag": "jester_cap",
-         "filename": "jester_cap.png"
+         "filename": "jester_cap.jpg"
       },
       {
          "tag": "jewelry",
-         "filename": "jewelry.png"
+         "filename": "jewelry.jpg"
       },
       {
          "tag": "lolita_hairband",
-         "filename": "lolita_hairband.png"
+         "filename": "lolita_hairband.jpg"
       },
       {
          "tag": "maid_headdress",
-         "filename": "maid_headdress.png"
+         "filename": "maid_headdress.jpg"
       },
       {
          "tag": "mask",
-         "filename": "mask.png"
+         "filename": "mask.jpg"
       },
       {
          "tag": "military_hat",
-         "filename": "military_hat.png"
+         "filename": "military_hat.jpg"
       },
       {
          "tag": "mini_crown",
-         "filename": "mini_crown.png"
+         "filename": "mini_crown.jpg"
       },
       {
          "tag": "mini_top_hat",
-         "filename": "mini_top_hat.png"
+         "filename": "mini_top_hat.jpg"
       },
       {
          "tag": "mittens",
-         "filename": "mittens.png"
+         "filename": "mittens.jpg"
       },
       {
          "tag": "mob_cap",
-         "filename": "mob_cap.png"
+         "filename": "mob_cap.jpg"
       },
       {
          "tag": "mouth_mask",
-         "filename": "mouth_mask.png"
+         "filename": "mouth_mask.jpg"
       },
       {
          "tag": "neck_bell",
-         "filename": "neck_bell.png"
+         "filename": "neck_bell.jpg"
       },
       {
          "tag": "neck_ribbon",
-         "filename": "neck_ribbon.png"
+         "filename": "neck_ribbon.jpg"
       },
       {
          "tag": "neckerchief",
-         "filename": "neckerchief.png"
+         "filename": "neckerchief.jpg"
       },
       {
          "tag": "necklace",
-         "filename": "necklace.png"
+         "filename": "necklace.jpg"
       },
       {
          "tag": "necktie",
-         "filename": "necktie.png"
+         "filename": "necktie.jpg"
       },
       {
          "tag": "necktie_between_breasts",
-         "filename": "necktie_between_breasts.png"
+         "filename": "necktie_between_breasts.jpg"
       },
       {
          "tag": "nurse_cap",
-         "filename": "nurse_cap.png"
+         "filename": "nurse_cap.jpg"
       },
       {
          "tag": "object_on_head",
-         "filename": "object_on_head.png"
+         "filename": "object_on_head.jpg"
       },
       {
          "tag": "oni_horns",
-         "filename": "oni_horns.png"
+         "filename": "oni_horns.jpg"
       },
       {
          "tag": "peaked_cap",
-         "filename": "peaked_cap.png"
+         "filename": "peaked_cap.jpg"
       },
       {
          "tag": "pendant",
-         "filename": "pendant.png"
+         "filename": "pendant.jpg"
       },
       {
          "tag": "ribbon",
-         "filename": "ribbon.png"
+         "filename": "ribbon.jpg"
       },
       {
          "tag": "ribbon_choker",
-         "filename": "ribbon_choker.png"
+         "filename": "ribbon_choker.jpg"
       },
       {
          "tag": "ring",
-         "filename": "ring.png"
+         "filename": "ring.jpg"
       },
       {
          "tag": "round_eyewear",
-         "filename": "round_eyewear.png"
+         "filename": "round_eyewear.jpg"
       },
       {
          "tag": "sailor_collar",
-         "filename": "sailor_collar.png"
+         "filename": "sailor_collar.jpg"
       },
       {
          "tag": "sailor_hat",
-         "filename": "sailor_hat.png"
+         "filename": "sailor_hat.jpg"
       },
       {
          "tag": "santa_hat",
-         "filename": "santa_hat.png"
+         "filename": "santa_hat.jpg"
       },
       {
          "tag": "scarf",
-         "filename": "scarf.png"
+         "filename": "scarf.jpg"
       },
       {
          "tag": "semi-rimless_eyewear",
-         "filename": "semi-rimless_eyewear.png"
+         "filename": "semi-rimless_eyewear.jpg"
       },
       {
          "tag": "shawl",
-         "filename": "shawl.png"
+         "filename": "shawl.jpg"
       },
       {
          "tag": "single_horn",
-         "filename": "single_horn.png"
+         "filename": "single_horn.jpg"
       },
       {
          "tag": "spiked_bracelet",
-         "filename": "spiked_bracelet.png"
+         "filename": "spiked_bracelet.jpg"
       },
       {
          "tag": "spiked_collar",
-         "filename": "spiked_collar.png"
+         "filename": "spiked_collar.jpg"
       },
       {
          "tag": "star_earrings",
-         "filename": "star_earrings.png"
+         "filename": "star_earrings.jpg"
       },
       {
          "tag": "star_hat_ornament",
-         "filename": "star_hat_ornament.png"
+         "filename": "star_hat_ornament.jpg"
       },
       {
          "tag": "straw_hat",
-         "filename": "straw_hat.png"
+         "filename": "straw_hat.jpg"
       },
       {
          "tag": "stud_earrings",
-         "filename": "stud_earrings.png"
+         "filename": "stud_earrings.jpg"
       },
       {
          "tag": "sun_hat",
-         "filename": "sun_hat.png"
+         "filename": "sun_hat.jpg"
       },
       {
          "tag": "suspenders",
-         "filename": "suspenders.png"
+         "filename": "suspenders.jpg"
       },
       {
          "tag": "tassel_earrings",
-         "filename": "tassel_earrings.png"
+         "filename": "tassel_earrings.jpg"
       },
       {
          "tag": "tate_eboshi",
-         "filename": "tate_eboshi.png"
+         "filename": "tate_eboshi.jpg"
       },
       {
          "tag": "thighlet",
-         "filename": "thighlet.png"
+         "filename": "thighlet.jpg"
       },
       {
          "tag": "tiara",
-         "filename": "tiara.png"
+         "filename": "tiara.jpg"
       },
       {
          "tag": "tokin_hat",
-         "filename": "tokin_hat.png"
+         "filename": "tokin_hat.jpg"
       },
       {
          "tag": "top_hat",
-         "filename": "top_hat.png"
+         "filename": "top_hat.jpg"
       },
       {
          "tag": "under-rim_eyewear",
-         "filename": "under-rim_eyewear.png"
+         "filename": "under-rim_eyewear.jpg"
       },
       {
          "tag": "v-neck",
-         "filename": "v-neck.png"
+         "filename": "v-neck.jpg"
       },
       {
          "tag": "veil",
-         "filename": "veil.png"
+         "filename": "veil.jpg"
       },
       {
          "tag": "visor_cap",
-         "filename": "visor_cap.png"
+         "filename": "visor_cap.jpg"
       },
       {
          "tag": "watch",
-         "filename": "watch.png"
+         "filename": "watch.jpg"
       },
       {
          "tag": "wedding_ring",
-         "filename": "wedding_ring.png"
+         "filename": "wedding_ring.jpg"
       },
       {
          "tag": "white_gloves",
-         "filename": "white_gloves.png"
+         "filename": "white_gloves.jpg"
       },
       {
          "tag": "wide_sleeves",
-         "filename": "wide_sleeves.png"
+         "filename": "wide_sleeves.jpg"
       },
       {
          "tag": "witch_hat",
-         "filename": "witch_hat.png"
+         "filename": "witch_hat.jpg"
       },
       {
          "tag": "wrist_cuffs",
-         "filename": "wrist_cuffs.png"
+         "filename": "wrist_cuffs.jpg"
       },
       {
          "tag": "wrist_scrunchie",
-         "filename": "wrist_scrunchie.png"
+         "filename": "wrist_scrunchie.jpg"
       },
       {
          "tag": "wristband",
-         "filename": "wristband.png"
+         "filename": "wristband.jpg"
       },
       {
          "tag": "zipper",
-         "filename": "zipper.png"
+         "filename": "zipper.jpg"
       }
    ],
    "topwear": [
       {
          "tag": "apron",
-         "filename": "apron.png"
+         "filename": "apron.jpg"
       },
       {
          "tag": "bandeau",
-         "filename": "bandeau.png"
+         "filename": "bandeau.jpg"
       },
       {
          "tag": "bare_shoulders",
-         "filename": "bare_shoulders.png"
+         "filename": "bare_shoulders.jpg"
       },
       {
          "tag": "blazer",
-         "filename": "blazer.png"
+         "filename": "blazer.jpg"
       },
       {
          "tag": "blouse",
-         "filename": "blouse.png"
+         "filename": "blouse.jpg"
       },
       {
          "tag": "camisole",
-         "filename": "camisole.png"
+         "filename": "camisole.jpg"
       },
       {
          "tag": "cape",
-         "filename": "cape.png"
+         "filename": "cape.jpg"
       },
       {
          "tag": "capelet",
-         "filename": "capelet.png"
+         "filename": "capelet.jpg"
       },
       {
          "tag": "cardigan",
-         "filename": "cardigan.png"
+         "filename": "cardigan.jpg"
       },
       {
          "tag": "coat",
-         "filename": "coat.png"
+         "filename": "coat.jpg"
       },
       {
          "tag": "collared_shirt",
-         "filename": "collared_shirt.png"
+         "filename": "collared_shirt.jpg"
       },
       {
          "tag": "corset",
-         "filename": "corset.png"
+         "filename": "corset.jpg"
       },
       {
          "tag": "criss-cross_halter",
-         "filename": "criss-cross_halter.png"
+         "filename": "criss-cross_halter.jpg"
       },
       {
          "tag": "crop_top",
-         "filename": "crop_top.png"
+         "filename": "crop_top.jpg"
       },
       {
          "tag": "cropped_jacket",
-         "filename": "cropped_jacket.png"
+         "filename": "cropped_jacket.jpg"
       },
       {
          "tag": "downblouse",
-         "filename": "downblouse.png"
+         "filename": "downblouse.jpg"
       },
       {
          "tag": "dress_shirt",
-         "filename": "dress_shirt.png"
+         "filename": "dress_shirt.jpg"
       },
       {
          "tag": "epaulettes",
-         "filename": "epaulettes.png"
+         "filename": "epaulettes.jpg"
       },
       {
          "tag": "frilled_shirt",
-         "filename": "frilled_shirt.png"
+         "filename": "frilled_shirt.jpg"
       },
       {
          "tag": "fur-trimmed_coat",
-         "filename": "fur-trimmed_coat.png"
+         "filename": "fur-trimmed_coat.jpg"
       },
       {
          "tag": "halterneck",
-         "filename": "halterneck.png"
+         "filename": "halterneck.jpg"
       },
       {
          "tag": "hoodie",
-         "filename": "hoodie.png"
+         "filename": "hoodie.jpg"
       },
       {
          "tag": "jacket",
-         "filename": "jacket.png"
+         "filename": "jacket.jpg"
       },
       {
          "tag": "jacket_on_shoulders",
-         "filename": "jacket_on_shoulders.png"
+         "filename": "jacket_on_shoulders.jpg"
       },
       {
          "tag": "long_coat",
-         "filename": "long_coat.png"
+         "filename": "long_coat.jpg"
       },
       {
          "tag": "off_shoulder",
-         "filename": "off_shoulder.png"
+         "filename": "off_shoulder.jpg"
       },
       {
          "tag": "off-shoulder_shirt",
-         "filename": "off-shoulder_shirt.png"
+         "filename": "off-shoulder_shirt.jpg"
       },
       {
          "tag": "off-shoulder_sweater",
-         "filename": "off-shoulder_sweater.png"
+         "filename": "off-shoulder_sweater.jpg"
       },
       {
          "tag": "pauldrons",
-         "filename": "pauldrons.png"
+         "filename": "pauldrons.jpg"
       },
       {
          "tag": "puffy_sleeves",
-         "filename": "puffy_sleeves.png"
+         "filename": "puffy_sleeves.jpg"
       },
       {
          "tag": "ribbed_sweater",
-         "filename": "ribbed_sweater.png"
+         "filename": "ribbed_sweater.jpg"
       },
       {
          "tag": "robe",
-         "filename": "robe.png"
+         "filename": "robe.jpg"
       },
       {
          "tag": "sash",
-         "filename": "sash.png"
+         "filename": "sash.jpg"
       },
       {
          "tag": "shirt",
-         "filename": "shirt.png"
+         "filename": "shirt.jpg"
       },
       {
          "tag": "shoulder_pads",
-         "filename": "shoulder_pads.png"
+         "filename": "shoulder_pads.jpg"
       },
       {
          "tag": "sleeveless",
-         "filename": "sleeveless.png"
+         "filename": "sleeveless.jpg"
       },
       {
          "tag": "sleeveless_shirt",
-         "filename": "sleeveless_shirt.png"
+         "filename": "sleeveless_shirt.jpg"
       },
       {
          "tag": "sleeveless_turtleneck",
-         "filename": "sleeveless_turtleneck.png"
+         "filename": "sleeveless_turtleneck.jpg"
       },
       {
          "tag": "strap_slip",
-         "filename": "strap_slip.png"
+         "filename": "strap_slip.jpg"
       },
       {
          "tag": "strapless",
-         "filename": "strapless.png"
+         "filename": "strapless.jpg"
       },
       {
          "tag": "strapless_leotard",
-         "filename": "strapless_leotard.png"
+         "filename": "strapless_leotard.jpg"
       },
       {
          "tag": "striped_shirt",
-         "filename": "striped_shirt.png"
+         "filename": "striped_shirt.jpg"
       },
       {
          "tag": "sweater",
-         "filename": "sweater.png"
+         "filename": "sweater.jpg"
       },
       {
          "tag": "sweater_vest",
-         "filename": "sweater_vest.png"
+         "filename": "sweater_vest.jpg"
       },
       {
          "tag": "t-shirt",
-         "filename": "t-shirt.png"
+         "filename": "t-shirt.jpg"
       },
       {
          "tag": "tabard",
-         "filename": "tabard.png"
+         "filename": "tabard.jpg"
       },
       {
          "tag": "tank_top",
-         "filename": "tank_top.png"
+         "filename": "tank_top.jpg"
       },
       {
          "tag": "tube_top",
-         "filename": "tube_top.png"
+         "filename": "tube_top.jpg"
       },
       {
          "tag": "turtleneck",
-         "filename": "turtleneck.png"
+         "filename": "turtleneck.jpg"
       },
       {
          "tag": "underbust",
-         "filename": "underbust.png"
+         "filename": "underbust.jpg"
       },
       {
          "tag": "vest",
-         "filename": "vest.png"
+         "filename": "vest.jpg"
       },
       {
          "tag": "waistcoat",
-         "filename": "waistcoat.png"
+         "filename": "waistcoat.jpg"
       },
       {
          "tag": "white_shirt",
-         "filename": "white_shirt.png"
+         "filename": "white_shirt.jpg"
       }
    ],
    "bottomwear": [
       {
          "tag": "bike_shorts",
-         "filename": "bike_shorts.png"
+         "filename": "bike_shorts.jpg"
       },
       {
          "tag": "bloomers",
-         "filename": "bloomers.png"
+         "filename": "bloomers.jpg"
       },
       {
          "tag": "bubble_skirt",
-         "filename": "bubble_skirt.png"
+         "filename": "bubble_skirt.jpg"
       },
       {
          "tag": "denim_shorts",
-         "filename": "denim_shorts.png"
+         "filename": "denim_shorts.jpg"
       },
       {
          "tag": "high-waist_skirt",
-         "filename": "high-waist_skirt.png"
+         "filename": "high-waist_skirt.jpg"
       },
       {
          "tag": "jeans",
-         "filename": "jeans.png"
+         "filename": "jeans.jpg"
       },
       {
          "tag": "layered_skirt",
-         "filename": "layered_skirt.png"
+         "filename": "layered_skirt.jpg"
       },
       {
          "tag": "long_skirt",
-         "filename": "long_skirt.png"
+         "filename": "long_skirt.jpg"
       },
       {
          "tag": "micro_shorts",
-         "filename": "micro_shorts.png"
+         "filename": "micro_shorts.jpg"
       },
       {
          "tag": "microskirt",
-         "filename": "microskirt.png"
+         "filename": "microskirt.jpg"
       },
       {
          "tag": "miniskirt",
-         "filename": "miniskirt.png"
+         "filename": "miniskirt.jpg"
       },
       {
          "tag": "pants",
-         "filename": "pants.png"
+         "filename": "pants.jpg"
       },
       {
          "tag": "pelvic_curtain",
-         "filename": "pelvic_curtain.png"
+         "filename": "pelvic_curtain.jpg"
       },
       {
          "tag": "petticoat",
-         "filename": "petticoat.png"
+         "filename": "petticoat.jpg"
       },
       {
          "tag": "pleated_skirt",
-         "filename": "pleated_skirt.png"
+         "filename": "pleated_skirt.jpg"
       },
       {
          "tag": "sarong",
-         "filename": "sarong.png"
+         "filename": "sarong.jpg"
       },
       {
          "tag": "short_shorts",
-         "filename": "short_shorts.png"
+         "filename": "short_shorts.jpg"
       },
       {
          "tag": "shorts",
-         "filename": "shorts.png"
+         "filename": "shorts.jpg"
       },
       {
          "tag": "skirt",
-         "filename": "skirt.png"
+         "filename": "skirt.jpg"
       },
       {
          "tag": "suspender_skirt",
-         "filename": "suspender_skirt.png"
+         "filename": "suspender_skirt.jpg"
       }
    ],
    "legwear": [
       {
          "tag": "bobby_socks",
-         "filename": "bobby_socks.png"
+         "filename": "bobby_socks.jpg"
       },
       {
          "tag": "fishnet_legwear",
-         "filename": "fishnet_legwear.png"
+         "filename": "fishnet_legwear.jpg"
       },
       {
          "tag": "garter_straps",
-         "filename": "garter_straps.png"
+         "filename": "garter_straps.jpg"
       },
       {
          "tag": "kneehighs",
-         "filename": "kneehighs.png"
+         "filename": "kneehighs.jpg"
       },
       {
          "tag": "lace-trimmed_legwear",
-         "filename": "lace-trimmed_legwear.png"
+         "filename": "lace-trimmed_legwear.jpg"
       },
       {
          "tag": "leggings",
-         "filename": "leggings.png"
+         "filename": "leggings.jpg"
       },
       {
          "tag": "loose_socks",
-         "filename": "loose_socks.png"
+         "filename": "loose_socks.jpg"
       },
       {
          "tag": "pantyhose",
-         "filename": "pantyhose.png"
+         "filename": "pantyhose.jpg"
       },
       {
          "tag": "print_legwear",
-         "filename": "print_legwear.png"
+         "filename": "print_legwear.jpg"
       },
       {
          "tag": "socks",
-         "filename": "socks.png"
+         "filename": "socks.jpg"
       },
       {
          "tag": "striped_legwear",
-         "filename": "striped_legwear.png"
+         "filename": "striped_legwear.jpg"
       },
       {
          "tag": "thigh_strap",
-         "filename": "thigh_strap.png"
+         "filename": "thigh_strap.jpg"
       },
       {
          "tag": "thighband_pantyhose",
-         "filename": "thighband_pantyhose.png"
+         "filename": "thighband_pantyhose.jpg"
       },
       {
          "tag": "thighhighs",
-         "filename": "thighhighs.png"
+         "filename": "thighhighs.jpg"
       }
    ],
    "footwear": [
       {
          "tag": "ankle_boots",
-         "filename": "ankle_boots.png"
+         "filename": "ankle_boots.jpg"
       },
       {
          "tag": "armored_boots",
-         "filename": "armored_boots.png"
+         "filename": "armored_boots.jpg"
       },
       {
          "tag": "boots",
-         "filename": "boots.png"
+         "filename": "boots.jpg"
       },
       {
          "tag": "cross-laced_footwear",
-         "filename": "cross-laced_footwear.png"
+         "filename": "cross-laced_footwear.jpg"
       },
       {
          "tag": "high_heel_boots",
-         "filename": "high_heel_boots.png"
+         "filename": "high_heel_boots.jpg"
       },
       {
          "tag": "high_heels",
-         "filename": "high_heels.png"
+         "filename": "high_heels.jpg"
       },
       {
          "tag": "knee_boots",
-         "filename": "knee_boots.png"
+         "filename": "knee_boots.jpg"
       },
       {
          "tag": "lace-up_boots",
-         "filename": "lace-up_boots.png"
+         "filename": "lace-up_boots.jpg"
       },
       {
          "tag": "loafers",
-         "filename": "loafers.png"
+         "filename": "loafers.jpg"
       },
       {
          "tag": "mary_janes",
-         "filename": "mary_janes.png"
+         "filename": "mary_janes.jpg"
       },
       {
          "tag": "platform_footwear",
-         "filename": "platform_footwear.png"
+         "filename": "platform_footwear.jpg"
       },
       {
          "tag": "sandals",
-         "filename": "sandals.png"
+         "filename": "sandals.jpg"
       },
       {
          "tag": "slippers",
-         "filename": "slippers.png"
+         "filename": "slippers.jpg"
       },
       {
          "tag": "sneakers",
-         "filename": "sneakers.png"
+         "filename": "sneakers.jpg"
       },
       {
          "tag": "thigh_boots",
-         "filename": "thigh_boots.png"
+         "filename": "thigh_boots.jpg"
       }
    ],
    "costume": [
       {
          "tag": "animal_costume",
-         "filename": "animal_costume.png"
+         "filename": "animal_costume.jpg"
       },
       {
          "tag": "armor",
-         "filename": "armor.png"
+         "filename": "armor.jpg"
       },
       {
          "tag": "bikini",
-         "filename": "bikini.png"
+         "filename": "bikini.jpg"
       },
       {
          "tag": "bikini_armor",
-         "filename": "bikini_armor.png"
+         "filename": "bikini_armor.jpg"
       },
       {
          "tag": "bikini_skirt",
-         "filename": "bikini_skirt.png"
+         "filename": "bikini_skirt.jpg"
       },
       {
          "tag": "bodysuit",
-         "filename": "bodysuit.png"
+         "filename": "bodysuit.jpg"
       },
       {
          "tag": "casual",
-         "filename": "casual.png"
+         "filename": "casual.jpg"
       },
       {
          "tag": "casual_one-piece_swimsuit",
-         "filename": "casual_one-piece_swimsuit.png"
+         "filename": "casual_one-piece_swimsuit.jpg"
       },
       {
          "tag": "cat_girl",
-         "filename": "cat_girl.png"
+         "filename": "cat_girl.jpg"
       },
       {
          "tag": "cheerleader",
-         "filename": "cheerleader.png"
+         "filename": "cheerleader.jpg"
       },
       {
          "tag": "chinese_clothes",
-         "filename": "chinese_clothes.png"
+         "filename": "chinese_clothes.jpg"
       },
       {
          "tag": "competition_swimsuit",
-         "filename": "competition_swimsuit.png"
+         "filename": "competition_swimsuit.jpg"
       },
       {
          "tag": "cosplay",
-         "filename": "cosplay.png"
+         "filename": "cosplay.jpg"
       },
       {
          "tag": "elf",
-         "filename": "elf.png"
+         "filename": "elf.jpg"
       },
       {
          "tag": "fox_girl",
-         "filename": "fox_girl.png"
+         "filename": "fox_girl.jpg"
       },
       {
          "tag": "gakuran",
-         "filename": "gakuran.png"
+         "filename": "gakuran.jpg"
       },
       {
          "tag": "gym_uniform",
-         "filename": "gym_uniform.png"
+         "filename": "gym_uniform.jpg"
       },
       {
          "tag": "hakama",
-         "filename": "hakama.png"
+         "filename": "hakama.jpg"
       },
       {
          "tag": "hakama_short_skirt",
-         "filename": "hakama_short_skirt.png"
+         "filename": "hakama_short_skirt.jpg"
       },
       {
          "tag": "hakama_skirt",
-         "filename": "hakama_skirt.png"
+         "filename": "hakama_skirt.jpg"
       },
       {
          "tag": "haori",
-         "filename": "haori.png"
+         "filename": "haori.jpg"
       },
       {
          "tag": "hood",
-         "filename": "hood.png"
+         "filename": "hood.jpg"
       },
       {
          "tag": "horse_girl",
-         "filename": "horse_girl.png"
+         "filename": "horse_girl.jpg"
       },
       {
          "tag": "japanese_clothes",
-         "filename": "japanese_clothes.png"
+         "filename": "japanese_clothes.jpg"
       },
       {
          "tag": "kimono",
-         "filename": "kimono.png"
+         "filename": "kimono.jpg"
       },
       {
          "tag": "lolita_fashion",
-         "filename": "lolita_fashion.png"
+         "filename": "lolita_fashion.jpg"
       },
       {
          "tag": "magical_girl",
-         "filename": "magical_girl.png"
+         "filename": "magical_girl.jpg"
       },
       {
          "tag": "maid",
-         "filename": "maid.png"
+         "filename": "maid.jpg"
       },
       {
          "tag": "maid_apron",
-         "filename": "maid_apron.png"
+         "filename": "maid_apron.jpg"
       },
       {
          "tag": "micro_bikini",
-         "filename": "micro_bikini.png"
+         "filename": "micro_bikini.jpg"
       },
       {
          "tag": "miko",
-         "filename": "miko.png"
+         "filename": "miko.jpg"
       },
       {
          "tag": "military_uniform",
-         "filename": "military_uniform.png"
+         "filename": "military_uniform.jpg"
       },
       {
          "tag": "monster_girl",
-         "filename": "monster_girl.png"
+         "filename": "monster_girl.jpg"
       },
       {
          "tag": "nontraditional_miko",
-         "filename": "nontraditional_miko.png"
+         "filename": "nontraditional_miko.jpg"
       },
       {
          "tag": "o-ring_bikini",
-         "filename": "o-ring_bikini.png"
+         "filename": "o-ring_bikini.jpg"
       },
       {
          "tag": "o-ring_top",
-         "filename": "o-ring_top.png"
+         "filename": "o-ring_top.jpg"
       },
       {
          "tag": "one-piece_swimsuit",
-         "filename": "one-piece_swimsuit.png"
+         "filename": "one-piece_swimsuit.jpg"
       },
       {
          "tag": "overalls",
-         "filename": "overalls.png"
+         "filename": "overalls.jpg"
       },
       {
          "tag": "pajamas",
-         "filename": "pajamas.png"
+         "filename": "pajamas.jpg"
       },
       {
          "tag": "pilot_suit",
-         "filename": "pilot_suit.png"
+         "filename": "pilot_suit.jpg"
       },
       {
          "tag": "playboy_bunny",
-         "filename": "playboy_bunny.png"
+         "filename": "playboy_bunny.jpg"
       },
       {
          "tag": "plugsuit",
-         "filename": "plugsuit.png"
+         "filename": "plugsuit.jpg"
       },
       {
          "tag": "santa_costume",
-         "filename": "santa_costume.png"
+         "filename": "santa_costume.jpg"
       },
       {
          "tag": "school_swimsuit",
-         "filename": "school_swimsuit.png"
+         "filename": "school_swimsuit.jpg"
       },
       {
          "tag": "school_uniform",
-         "filename": "school_uniform.png"
+         "filename": "school_uniform.jpg"
       },
       {
          "tag": "serafuku",
-         "filename": "serafuku.png"
+         "filename": "serafuku.jpg"
       },
       {
          "tag": "short_kimono",
-         "filename": "short_kimono.png"
+         "filename": "short_kimono.jpg"
       },
       {
          "tag": "side-tie_bikini_bottom",
-         "filename": "side-tie_bikini_bottom.png"
+         "filename": "side-tie_bikini_bottom.jpg"
       },
       {
          "tag": "slingshot_swimsuit",
-         "filename": "slingshot_swimsuit.png"
+         "filename": "slingshot_swimsuit.jpg"
       },
       {
          "tag": "sportswear",
-         "filename": "sportswear.png"
+         "filename": "sportswear.jpg"
       },
       {
          "tag": "string_bikini",
-         "filename": "string_bikini.png"
+         "filename": "string_bikini.jpg"
       },
       {
          "tag": "suit",
-         "filename": "suit.png"
+         "filename": "suit.jpg"
       },
       {
          "tag": "swimsuit",
-         "filename": "swimsuit.png"
+         "filename": "swimsuit.jpg"
       },
       {
          "tag": "torn_clothes",
-         "filename": "torn_clothes.png"
+         "filename": "torn_clothes.jpg"
       },
       {
          "tag": "track_suit",
-         "filename": "track_suit.png"
+         "filename": "track_suit.jpg"
       },
       {
          "tag": "waitress",
-         "filename": "waitress.png"
+         "filename": "waitress.jpg"
       },
       {
          "tag": "yukata",
-         "filename": "yukata.png"
+         "filename": "yukata.jpg"
       }
    ],
    "dress": [
       {
          "tag": "armored_dress",
-         "filename": "armored_dress.png"
+         "filename": "armored_dress.jpg"
       },
       {
          "tag": "backless_dress",
-         "filename": "backless_dress.png"
+         "filename": "backless_dress.jpg"
       },
       {
          "tag": "black_dress",
-         "filename": "black_dress.png"
+         "filename": "black_dress.jpg"
       },
       {
          "tag": "blue_dress",
-         "filename": "blue_dress.png"
+         "filename": "blue_dress.jpg"
       },
       {
          "tag": "brown_dress",
-         "filename": "brown_dress.png"
+         "filename": "brown_dress.jpg"
       },
       {
          "tag": "china_dress",
-         "filename": "china_dress.png"
+         "filename": "china_dress.jpg"
       },
       {
          "tag": "collared_dress",
-         "filename": "collared_dress.png"
+         "filename": "collared_dress.jpg"
       },
       {
          "tag": "dress",
-         "filename": "dress.png"
+         "filename": "dress.jpg"
       },
       {
          "tag": "dress_lift",
-         "filename": "dress_lift.png"
+         "filename": "dress_lift.jpg"
       },
       {
          "tag": "frilled_dress",
-         "filename": "frilled_dress.png"
+         "filename": "frilled_dress.jpg"
       },
       {
          "tag": "green_dress",
-         "filename": "green_dress.png"
+         "filename": "green_dress.jpg"
       },
       {
          "tag": "grey_dress",
-         "filename": "grey_dress.png"
+         "filename": "grey_dress.jpg"
       },
       {
          "tag": "layered_dress",
-         "filename": "layered_dress.png"
+         "filename": "layered_dress.jpg"
       },
       {
          "tag": "long_dress",
-         "filename": "long_dress.png"
+         "filename": "long_dress.jpg"
       },
       {
          "tag": "multicolored_dress",
-         "filename": "multicolored_dress.png"
+         "filename": "multicolored_dress.jpg"
       },
       {
          "tag": "nightgown",
-         "filename": "nightgown.png"
+         "filename": "nightgown.jpg"
       },
       {
          "tag": "off-shoulder_dress",
-         "filename": "off-shoulder_dress.png"
+         "filename": "off-shoulder_dress.jpg"
       },
       {
          "tag": "pinafore_dress",
-         "filename": "pinafore_dress.png"
+         "filename": "pinafore_dress.jpg"
       },
       {
          "tag": "pink_dress",
-         "filename": "pink_dress.png"
+         "filename": "pink_dress.jpg"
       },
       {
          "tag": "pleated_dress",
-         "filename": "pleated_dress.png"
+         "filename": "pleated_dress.jpg"
       },
       {
          "tag": "purple_dress",
-         "filename": "purple_dress.png"
+         "filename": "purple_dress.jpg"
       },
       {
          "tag": "red_dress",
-         "filename": "red_dress.png"
+         "filename": "red_dress.jpg"
       },
       {
          "tag": "sailor_dress",
-         "filename": "sailor_dress.png"
+         "filename": "sailor_dress.jpg"
       },
       {
          "tag": "short_dress",
-         "filename": "short_dress.png"
+         "filename": "short_dress.jpg"
       },
       {
          "tag": "side_slit",
-         "filename": "side_slit.png"
+         "filename": "side_slit.jpg"
       },
       {
          "tag": "sleeveless_dress",
-         "filename": "sleeveless_dress.png"
+         "filename": "sleeveless_dress.jpg"
       },
       {
          "tag": "strapless_dress",
-         "filename": "strapless_dress.png"
+         "filename": "strapless_dress.jpg"
       },
       {
          "tag": "striped_dress",
-         "filename": "striped_dress.png"
+         "filename": "striped_dress.jpg"
       },
       {
          "tag": "sundress",
-         "filename": "sundress.png"
+         "filename": "sundress.jpg"
       },
       {
          "tag": "sweater_dress",
-         "filename": "sweater_dress.png"
+         "filename": "sweater_dress.jpg"
       },
       {
          "tag": "wedding_dress",
-         "filename": "wedding_dress.png"
+         "filename": "wedding_dress.jpg"
       },
       {
          "tag": "white_dress",
-         "filename": "white_dress.png"
+         "filename": "white_dress.jpg"
       },
       {
          "tag": "yellow_dress",
-         "filename": "yellow_dress.png"
+         "filename": "yellow_dress.jpg"
       }
    ],
    "posture": [
       {
          "tag": "all_fours",
-         "filename": "all_fours.png"
+         "filename": "all_fours.jpg"
       },
       {
          "tag": "arched_back",
-         "filename": "arched_back.png"
+         "filename": "arched_back.jpg"
       },
       {
          "tag": "arm_at_side",
-         "filename": "arm_at_side.png"
+         "filename": "arm_at_side.jpg"
       },
       {
          "tag": "arm_behind_head",
-         "filename": "arm_behind_head.png"
+         "filename": "arm_behind_head.jpg"
       },
       {
          "tag": "arm_up",
-         "filename": "arm_up.png"
+         "filename": "arm_up.jpg"
       },
       {
          "tag": "arms_at_sides",
-         "filename": "arms_at_sides.png"
+         "filename": "arms_at_sides.jpg"
       },
       {
          "tag": "arms_behind_back",
-         "filename": "arms_behind_back.png"
+         "filename": "arms_behind_back.jpg"
       },
       {
          "tag": "arms_behind_head",
-         "filename": "arms_behind_head.png"
+         "filename": "arms_behind_head.jpg"
       },
       {
          "tag": "arms_up",
-         "filename": "arms_up.png"
+         "filename": "arms_up.jpg"
       },
       {
          "tag": "claw_pose",
-         "filename": "claw_pose.png"
+         "filename": "claw_pose.jpg"
       },
       {
          "tag": "crossed_arms",
-         "filename": "crossed_arms.png"
+         "filename": "crossed_arms.jpg"
       },
       {
          "tag": "crossed_legs",
-         "filename": "crossed_legs.png"
+         "filename": "crossed_legs.jpg"
       },
       {
          "tag": "fighting_stance",
-         "filename": "fighting_stance.png"
+         "filename": "fighting_stance.jpg"
       },
       {
          "tag": "head_rest",
-         "filename": "head_rest.png"
+         "filename": "head_rest.jpg"
       },
       {
          "tag": "head_tilt",
-         "filename": "head_tilt.png"
+         "filename": "head_tilt.jpg"
       },
       {
          "tag": "hugging_own_legs",
-         "filename": "hugging_own_legs.png"
+         "filename": "hugging_own_legs.jpg"
       },
       {
          "tag": "indian_style",
-         "filename": "indian_style.png"
+         "filename": "indian_style.jpg"
       },
       {
          "tag": "interlocked_fingers",
-         "filename": "interlocked_fingers.png"
+         "filename": "interlocked_fingers.jpg"
       },
       {
          "tag": "jumping",
-         "filename": "jumping.png"
+         "filename": "jumping.jpg"
       },
       {
          "tag": "kneeling",
-         "filename": "kneeling.png"
+         "filename": "kneeling.jpg"
       },
       {
          "tag": "leaning_back",
-         "filename": "leaning_back.png"
+         "filename": "leaning_back.jpg"
       },
       {
          "tag": "leaning_forward",
-         "filename": "leaning_forward.png"
+         "filename": "leaning_forward.jpg"
       },
       {
          "tag": "legs_apart",
-         "filename": "legs_apart.png"
+         "filename": "legs_apart.jpg"
       },
       {
          "tag": "lying",
-         "filename": "lying.png"
+         "filename": "lying.jpg"
       },
       {
          "tag": "on_back",
-         "filename": "on_back.png"
+         "filename": "on_back.jpg"
       },
       {
          "tag": "on_side",
-         "filename": "on_side.png"
+         "filename": "on_side.jpg"
       },
       {
          "tag": "outstretched_arm",
-         "filename": "outstretched_arm.png"
+         "filename": "outstretched_arm.jpg"
       },
       {
          "tag": "outstretched_arms",
-         "filename": "outstretched_arms.png"
+         "filename": "outstretched_arms.jpg"
       },
       {
          "tag": "own_hands_clasped",
-         "filename": "own_hands_clasped.png"
+         "filename": "own_hands_clasped.jpg"
       },
       {
          "tag": "own_hands_together",
-         "filename": "own_hands_together.png"
+         "filename": "own_hands_together.jpg"
       },
       {
          "tag": "paw_pose",
-         "filename": "paw_pose.png"
+         "filename": "paw_pose.jpg"
       },
       {
          "tag": "reaching",
-         "filename": "reaching.png"
+         "filename": "reaching.jpg"
       },
       {
          "tag": "reclining",
-         "filename": "reclining.png"
+         "filename": "reclining.jpg"
       },
       {
          "tag": "running",
-         "filename": "running.png"
+         "filename": "running.jpg"
       },
       {
          "tag": "seiza",
-         "filename": "seiza.png"
+         "filename": "seiza.jpg"
       },
       {
          "tag": "sitting",
-         "filename": "sitting.png"
+         "filename": "sitting.jpg"
       },
       {
          "tag": "spread_arms",
-         "filename": "spread_arms.png"
+         "filename": "spread_arms.jpg"
       },
       {
          "tag": "squatting",
-         "filename": "squatting.png"
+         "filename": "squatting.jpg"
       },
       {
          "tag": "standing",
-         "filename": "standing.png"
+         "filename": "standing.jpg"
       },
       {
          "tag": "standing_on_one_leg",
-         "filename": "standing_on_one_leg.png"
+         "filename": "standing_on_one_leg.jpg"
       },
       {
          "tag": "standing_split",
-         "filename": "standing_split.png"
+         "filename": "standing_split.jpg"
       },
       {
          "tag": "stretching",
-         "filename": "stretching.png"
+         "filename": "stretching.jpg"
       },
       {
          "tag": "tiptoes",
-         "filename": "tiptoes.png"
+         "filename": "tiptoes.jpg"
       },
       {
          "tag": "twisted_torso",
-         "filename": "twisted_torso.png"
+         "filename": "twisted_torso.jpg"
       },
       {
          "tag": "v_arms",
-         "filename": "v_arms.png"
+         "filename": "v_arms.jpg"
       },
       {
          "tag": "walking",
-         "filename": "walking.png"
+         "filename": "walking.jpg"
       }
    ],
    "action": [
       {
          "tag": "bathing",
-         "filename": "bathing.png"
+         "filename": "bathing.jpg"
       },
       {
          "tag": "battle",
-         "filename": "battle.png"
+         "filename": "battle.jpg"
       },
       {
          "tag": "biting",
-         "filename": "biting.png"
+         "filename": "biting.jpg"
       },
       {
          "tag": "carrying",
-         "filename": "carrying.png"
+         "filename": "carrying.jpg"
       },
       {
          "tag": "cooking",
-         "filename": "cooking.png"
+         "filename": "cooking.jpg"
       },
       {
          "tag": "dancing",
-         "filename": "dancing.png"
+         "filename": "dancing.jpg"
       },
       {
          "tag": "drinking",
-         "filename": "drinking.png"
+         "filename": "drinking.jpg"
       },
       {
          "tag": "eating",
-         "filename": "eating.png"
+         "filename": "eating.jpg"
       },
       {
          "tag": "falling",
-         "filename": "falling.png"
+         "filename": "falling.jpg"
       },
       {
          "tag": "feeding",
-         "filename": "feeding.png"
+         "filename": "feeding.jpg"
       },
       {
          "tag": "fingering",
-         "filename": "fingering.png"
+         "filename": "fingering.jpg"
       },
       {
          "tag": "floating",
-         "filename": "floating.png"
+         "filename": "floating.jpg"
       },
       {
          "tag": "flying",
-         "filename": "flying.png"
+         "filename": "flying.jpg"
       },
       {
          "tag": "laughing",
-         "filename": "laughing.png"
+         "filename": "laughing.jpg"
       },
       {
          "tag": "looking_at_viewer",
-         "filename": "looking_at_viewer.png"
+         "filename": "looking_at_viewer.jpg"
       },
       {
          "tag": "looking_away",
-         "filename": "looking_away.png"
+         "filename": "looking_away.jpg"
       },
       {
          "tag": "looking_back",
-         "filename": "looking_back.png"
+         "filename": "looking_back.jpg"
       },
       {
          "tag": "looking_up",
-         "filename": "looking_up.png"
+         "filename": "looking_up.jpg"
       },
       {
          "tag": "playing_games",
-         "filename": "playing_games.png"
+         "filename": "playing_games.jpg"
       },
       {
          "tag": "playing_instrument",
-         "filename": "playing_instrument.png"
+         "filename": "playing_instrument.jpg"
       },
       {
          "tag": "pointing",
-         "filename": "pointing.png"
+         "filename": "pointing.jpg"
       },
       {
          "tag": "pointing_at_viewer",
-         "filename": "pointing_at_viewer.png"
+         "filename": "pointing_at_viewer.jpg"
       },
       {
          "tag": "pose",
-         "filename": "pose.png"
+         "filename": "pose.jpg"
       },
       {
          "tag": "punching",
-         "filename": "punching.png"
+         "filename": "punching.jpg"
       },
       {
          "tag": "reading",
-         "filename": "reading.png"
+         "filename": "reading.jpg"
       },
       {
          "tag": "riding",
-         "filename": "riding.png"
+         "filename": "riding.jpg"
       },
       {
          "tag": "shouting",
-         "filename": "shouting.png"
+         "filename": "shouting.jpg"
       },
       {
          "tag": "singing",
-         "filename": "singing.png"
+         "filename": "singing.jpg"
       },
       {
          "tag": "sleeping",
-         "filename": "sleeping.png"
+         "filename": "sleeping.jpg"
       },
       {
          "tag": "smoking",
-         "filename": "smoking.png"
+         "filename": "smoking.jpg"
       },
       {
          "tag": "snowing",
-         "filename": "snowing.png"
+         "filename": "snowing.jpg"
       },
       {
          "tag": "splashing",
-         "filename": "splashing.png"
+         "filename": "splashing.jpg"
       },
       {
          "tag": "talking",
-         "filename": "talking.png"
+         "filename": "talking.jpg"
       },
       {
          "tag": "wading",
-         "filename": "wading.png"
+         "filename": "wading.jpg"
       },
       {
          "tag": "waving",
-         "filename": "waving.png"
+         "filename": "waving.jpg"
       },
       {
          "tag": "yawning",
-         "filename": "yawning.png"
+         "filename": "yawning.jpg"
       }
    ],
    "item": [
       {
          "tag": "backpack",
-         "filename": "backpack.png"
+         "filename": "backpack.jpg"
       },
       {
          "tag": "bed",
-         "filename": "bed.png"
+         "filename": "bed.jpg"
       },
       {
          "tag": "blanket",
-         "filename": "blanket.png"
+         "filename": "blanket.jpg"
       },
       {
          "tag": "book",
-         "filename": "book.png"
+         "filename": "book.jpg"
       },
       {
          "tag": "bottle",
-         "filename": "bottle.png"
+         "filename": "bottle.jpg"
       },
       {
          "tag": "bowl",
-         "filename": "bowl.png"
+         "filename": "bowl.jpg"
       },
       {
          "tag": "broom",
-         "filename": "broom.png"
+         "filename": "broom.jpg"
       },
       {
          "tag": "bucket",
-         "filename": "bucket.png"
+         "filename": "bucket.jpg"
       },
       {
          "tag": "cake",
-         "filename": "cake.png"
+         "filename": "cake.jpg"
       },
       {
          "tag": "camera",
-         "filename": "camera.png"
+         "filename": "camera.jpg"
       },
       {
          "tag": "candy",
-         "filename": "candy.png"
+         "filename": "candy.jpg"
       },
       {
          "tag": "car",
-         "filename": "car.png"
+         "filename": "car.jpg"
       },
       {
          "tag": "chair",
-         "filename": "chair.png"
+         "filename": "chair.jpg"
       },
       {
          "tag": "clock",
-         "filename": "clock.png"
+         "filename": "clock.jpg"
       },
       {
          "tag": "curtains",
-         "filename": "curtains.png"
+         "filename": "curtains.jpg"
       },
       {
          "tag": "desk",
-         "filename": "desk.png"
+         "filename": "desk.jpg"
       },
       {
          "tag": "feathers",
-         "filename": "feathers.png"
+         "filename": "feathers.jpg"
       },
       {
          "tag": "fire",
-         "filename": "fire.png"
+         "filename": "fire.jpg"
       },
       {
          "tag": "fish",
-         "filename": "fish.png"
+         "filename": "fish.jpg"
       },
       {
          "tag": "gift",
-         "filename": "gift.png"
+         "filename": "gift.jpg"
       },
       {
          "tag": "grass",
-         "filename": "grass.png"
+         "filename": "grass.jpg"
       },
       {
          "tag": "headset",
-         "filename": "headset.png"
+         "filename": "headset.jpg"
       },
       {
          "tag": "knife",
-         "filename": "knife.png"
+         "filename": "knife.jpg"
       },
       {
          "tag": "lamp",
-         "filename": "lamp.png"
+         "filename": "lamp.jpg"
       },
       {
          "tag": "laptop",
-         "filename": "laptop.png"
+         "filename": "laptop.jpg"
       },
       {
          "tag": "lipstick",
-         "filename": "lipstick.png"
+         "filename": "lipstick.jpg"
       },
       {
          "tag": "microphone",
-         "filename": "microphone.png"
+         "filename": "microphone.jpg"
       },
       {
          "tag": "mirror",
-         "filename": "mirror.png"
+         "filename": "mirror.jpg"
       },
       {
          "tag": "pen",
-         "filename": "pen.png"
+         "filename": "pen.jpg"
       },
       {
          "tag": "phone",
-         "filename": "phone.png"
+         "filename": "phone.jpg"
       },
       {
          "tag": "pillow",
-         "filename": "pillow.png"
+         "filename": "pillow.jpg"
       },
       {
          "tag": "robot",
-         "filename": "robot.png"
+         "filename": "robot.jpg"
       },
       {
          "tag": "spear",
-         "filename": "spear.png"
+         "filename": "spear.jpg"
       },
       {
          "tag": "staff",
-         "filename": "staff.png"
+         "filename": "staff.jpg"
       },
       {
          "tag": "sunglasses",
-         "filename": "sunglasses.png"
+         "filename": "sunglasses.jpg"
       },
       {
          "tag": "table",
-         "filename": "table.png"
+         "filename": "table.jpg"
       },
       {
          "tag": "teacup",
-         "filename": "teacup.png"
+         "filename": "teacup.jpg"
       },
       {
          "tag": "television",
-         "filename": "television.png"
+         "filename": "television.jpg"
       },
       {
          "tag": "water_bottle",
-         "filename": "water_bottle.png"
+         "filename": "water_bottle.jpg"
       }
    ],
    "place": [
       {
          "tag": "bamboo_forest",
-         "filename": "bamboo_forest.png"
+         "filename": "bamboo_forest.jpg"
       },
       {
          "tag": "bathroom",
-         "filename": "bathroom.png"
+         "filename": "bathroom.jpg"
       },
       {
          "tag": "beach",
-         "filename": "beach.png"
+         "filename": "beach.jpg"
       },
       {
          "tag": "bedroom",
-         "filename": "bedroom.png"
+         "filename": "bedroom.jpg"
       },
       {
          "tag": "bridge",
-         "filename": "bridge.png"
+         "filename": "bridge.jpg"
       },
       {
          "tag": "building",
-         "filename": "building.png"
+         "filename": "building.jpg"
       },
       {
          "tag": "castle",
-         "filename": "castle.png"
+         "filename": "castle.jpg"
       },
       {
          "tag": "city",
-         "filename": "city.png"
+         "filename": "city.jpg"
       },
       {
          "tag": "classroom",
-         "filename": "classroom.png"
+         "filename": "classroom.jpg"
       },
       {
          "tag": "field",
-         "filename": "field.png"
+         "filename": "field.jpg"
       },
       {
          "tag": "flower_field",
-         "filename": "flower_field.png"
+         "filename": "flower_field.jpg"
       },
       {
          "tag": "forest",
-         "filename": "forest.png"
+         "filename": "forest.jpg"
       },
       {
          "tag": "house",
-         "filename": "house.png"
+         "filename": "house.jpg"
       },
       {
          "tag": "indoors",
-         "filename": "indoors.png"
+         "filename": "indoors.jpg"
       },
       {
          "tag": "kitchen",
-         "filename": "kitchen.png"
+         "filename": "kitchen.jpg"
       },
       {
          "tag": "lake",
-         "filename": "lake.png"
+         "filename": "lake.jpg"
       },
       {
          "tag": "library",
-         "filename": "library.png"
+         "filename": "library.jpg"
       },
       {
          "tag": "mountain",
-         "filename": "mountain.png"
+         "filename": "mountain.jpg"
       },
       {
          "tag": "nature",
-         "filename": "nature.png"
+         "filename": "nature.jpg"
       },
       {
          "tag": "ocean",
-         "filename": "ocean.png"
+         "filename": "ocean.jpg"
       },
       {
          "tag": "onsen",
-         "filename": "onsen.png"
+         "filename": "onsen.jpg"
       },
       {
          "tag": "outdoors",
-         "filename": "outdoors.png"
+         "filename": "outdoors.jpg"
       },
       {
          "tag": "pool",
-         "filename": "pool.png"
+         "filename": "pool.jpg"
       },
       {
          "tag": "poolside",
-         "filename": "poolside.png"
+         "filename": "poolside.jpg"
       },
       {
          "tag": "river",
-         "filename": "river.png"
+         "filename": "river.jpg"
       },
       {
          "tag": "road",
-         "filename": "road.png"
+         "filename": "road.jpg"
       },
       {
          "tag": "rooftop",
-         "filename": "rooftop.png"
+         "filename": "rooftop.jpg"
       },
       {
          "tag": "ruins",
-         "filename": "ruins.png"
+         "filename": "ruins.jpg"
       },
       {
          "tag": "scenery",
-         "filename": "scenery.png"
+         "filename": "scenery.jpg"
       },
       {
          "tag": "shop",
-         "filename": "shop.png"
+         "filename": "shop.jpg"
       },
       {
          "tag": "shore",
-         "filename": "shore.png"
+         "filename": "shore.jpg"
       },
       {
          "tag": "sky",
-         "filename": "sky.png"
+         "filename": "sky.jpg"
       },
       {
          "tag": "skyscraper",
-         "filename": "skyscraper.png"
+         "filename": "skyscraper.jpg"
       },
       {
          "tag": "street",
-         "filename": "street.png"
+         "filename": "street.jpg"
       },
       {
          "tag": "sunset",
-         "filename": "sunset.png"
+         "filename": "sunset.jpg"
       },
       {
          "tag": "tower",
-         "filename": "tower.png"
+         "filename": "tower.jpg"
       },
       {
          "tag": "water",
-         "filename": "water.png"
+         "filename": "water.jpg"
       },
       {
          "tag": "waterfall",
-         "filename": "waterfall.png"
+         "filename": "waterfall.jpg"
       }
    ],
    "background": [
       {
          "tag": "backlighting",
-         "filename": "backlighting.png"
+         "filename": "backlighting.jpg"
       },
       {
          "tag": "beige_background",
-         "filename": "beige_background.png"
+         "filename": "beige_background.jpg"
       },
       {
          "tag": "black_background",
-         "filename": "black_background.png"
+         "filename": "black_background.jpg"
       },
       {
          "tag": "blue_background",
-         "filename": "blue_background.png"
+         "filename": "blue_background.jpg"
       },
       {
          "tag": "blurry_background",
-         "filename": "blurry_background.png"
+         "filename": "blurry_background.jpg"
       },
       {
          "tag": "brown_background",
-         "filename": "brown_background.png"
+         "filename": "brown_background.jpg"
       },
       {
          "tag": "checkered_background",
-         "filename": "checkered_background.png"
+         "filename": "checkered_background.jpg"
       },
       {
          "tag": "floral_background",
-         "filename": "floral_background.png"
+         "filename": "floral_background.jpg"
       },
       {
          "tag": "gradient_background",
-         "filename": "gradient_background.png"
+         "filename": "gradient_background.jpg"
       },
       {
          "tag": "green_background",
-         "filename": "green_background.png"
+         "filename": "green_background.jpg"
       },
       {
          "tag": "grey_background",
-         "filename": "grey_background.png"
+         "filename": "grey_background.jpg"
       },
       {
          "tag": "orange_background",
-         "filename": "orange_background.png"
+         "filename": "orange_background.jpg"
       },
       {
          "tag": "pink_background",
-         "filename": "pink_background.png"
+         "filename": "pink_background.jpg"
       },
       {
          "tag": "purple_background",
-         "filename": "purple_background.png"
+         "filename": "purple_background.jpg"
       },
       {
          "tag": "red_background",
-         "filename": "red_background.png"
+         "filename": "red_background.jpg"
       },
       {
          "tag": "simple_background",
-         "filename": "simple_background.png"
+         "filename": "simple_background.jpg"
       },
       {
          "tag": "starry_background",
-         "filename": "starry_background.png"
+         "filename": "starry_background.jpg"
       },
       {
          "tag": "striped_background",
-         "filename": "striped_background.png"
+         "filename": "striped_background.jpg"
       },
       {
          "tag": "two-tone_background",
-         "filename": "two-tone_background.png"
+         "filename": "two-tone_background.jpg"
       },
       {
          "tag": "white_background",
-         "filename": "white_background.png"
+         "filename": "white_background.jpg"
       },
       {
          "tag": "yellow_background",
-         "filename": "yellow_background.png"
+         "filename": "yellow_background.jpg"
       },
       {
          "tag": "zoom_layer",
-         "filename": "zoom_layer.png"
+         "filename": "zoom_layer.jpg"
       }
    ],
    "effect": [
       {
          "tag": "air_bubble",
-         "filename": "air_bubble.png"
+         "filename": "air_bubble.jpg"
       },
       {
          "tag": "blurry",
-         "filename": "blurry.png"
+         "filename": "blurry.jpg"
       },
       {
          "tag": "bubble",
-         "filename": "bubble.png"
+         "filename": "bubble.jpg"
       },
       {
          "tag": "chromatic_aberration",
-         "filename": "chromatic_aberration.png"
+         "filename": "chromatic_aberration.jpg"
       },
       {
          "tag": "cloud",
-         "filename": "cloud.png"
+         "filename": "cloud.jpg"
       },
       {
          "tag": "depth_of_field",
-         "filename": "depth_of_field.png"
+         "filename": "depth_of_field.jpg"
       },
       {
          "tag": "flower",
-         "filename": "flower.png"
+         "filename": "flower.jpg"
       },
       {
          "tag": "glowing",
-         "filename": "glowing.png"
+         "filename": "glowing.jpg"
       },
       {
          "tag": "greyscale",
-         "filename": "greyscale.png"
+         "filename": "greyscale.jpg"
       },
       {
          "tag": "lens_flare",
-         "filename": "lens_flare.png"
+         "filename": "lens_flare.jpg"
       },
       {
          "tag": "light",
-         "filename": "light.png"
+         "filename": "light.jpg"
       },
       {
          "tag": "light_particles",
-         "filename": "light_particles.png"
+         "filename": "light_particles.jpg"
       },
       {
          "tag": "light_rays",
-         "filename": "light_rays.png"
+         "filename": "light_rays.jpg"
       },
       {
          "tag": "motion_blur",
-         "filename": "motion_blur.png"
+         "filename": "motion_blur.jpg"
       },
       {
          "tag": "musical_note",
-         "filename": "musical_note.png"
+         "filename": "musical_note.jpg"
       },
       {
          "tag": "reflection",
-         "filename": "reflection.png"
+         "filename": "reflection.jpg"
       },
       {
          "tag": "shadow",
-         "filename": "shadow.png"
+         "filename": "shadow.jpg"
       },
       {
          "tag": "sparkle",
-         "filename": "sparkle.png"
+         "filename": "sparkle.jpg"
       },
       {
          "tag": "star_(symbol)",
-         "filename": "star_(symbol).png"
+         "filename": "star_(symbol).jpg"
       },
       {
          "tag": "sunbeam",
-         "filename": "sunbeam.png"
+         "filename": "sunbeam.jpg"
       },
       {
          "tag": "sunlight",
-         "filename": "sunlight.png"
+         "filename": "sunlight.jpg"
       }
    ]
 }

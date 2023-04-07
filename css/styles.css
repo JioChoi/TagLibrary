@@ -89,6 +89,10 @@ img {
 		background-color: #E5E5E5;
 		object-fit: cover;
 	}
+
+	.subtitle h1 {
+		font-size: 16px;
+	}
 }
 
 @media (max-width: 600px) {
