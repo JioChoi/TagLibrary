@@ -1,3 +1,7 @@
+function home() {
+	window.location.href = location.protocol + '//' + location.host + location.pathname
+}
+
 function createItem(tag, path) {
 	let item = document.createElement("div");
 
