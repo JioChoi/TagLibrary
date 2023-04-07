@@ -31,11 +31,11 @@
 		
 		if(gallery == null) {
 			for (obj in tagData)
-			createItem(obj);
+			createItem(obj, "data/images/group/" + obj + ".png");
 		}
 		else {
 			for(var i = 0; i < tagData[gallery].length; i++)
-				createItem(tagData[gallery].at(i).tag);
+				createItem(tagData[gallery].at(i).tag, "data/images/tag/" + tagData[gallery].at(i).filename);
 		}
 
 	</script>

@@ -1,8 +1,8 @@
-function createItem(parent) {
+function createItem(tag, path) {
 	let item = document.createElement("div");
 
 	let img = document.createElement("img");
-	img.src = "/group/" + parent + ".png";
+	img.src = path;
 	img.onerror = function error() {
 		this.src = "data/images/assets/NoImage.png";
 	}
@@ -14,7 +14,7 @@ function createItem(parent) {
 	
 	item.onclick = function () {
 		let url = new URL(window.location.href);
-		url.searchParams.set('g', parent);
+		url.searchParams.set('g', tag);
 		window.location.href = url;
 	};
 
@@ -22,7 +22,7 @@ function createItem(parent) {
 	subtitle.classList.add("subtitle");
 
 	let title = document.createElement("h1");
-	title.innerHTML = parent;
+	title.innerHTML = tag;
 
 	subtitle.appendChild(title);
 
