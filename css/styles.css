@@ -41,12 +41,12 @@ img {
 }
 
 .subtitle {
-	font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
+	font-family: "Open Sans";
 
 	position: absolute;
 	bottom: 0px;
 	width: 100%;
-	height: 25%;
+	height: 13%;
 
 	background-color: #00000094;
 }
