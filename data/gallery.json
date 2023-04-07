@@ -251,23 +251,23 @@ data = {
    ],
    "face": [
       {
-         "tag": ";d",
+         "tag": ";D",
          "filename": ";d.png"
       },
       {
-         "tag": ":d",
+         "tag": ":D",
          "filename": "_d.png"
       },
       {
-         "tag": ":o",
+         "tag": ":O",
          "filename": "_o.png"
       },
       {
-         "tag": ":p",
+         "tag": ":P",
          "filename": "_p.png"
       },
       {
-         "tag": ":t",
+         "tag": ":T",
          "filename": "_t.png"
       },
       {
