@@ -7,28 +7,32 @@ html {
 .title {
 	font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	text-align: center;
-	margin: 3.125vw 0px 2.083vw 0px;
+	margin: 60px 0px 40px 0px;
 }
 
 h1 {
-	font-size: 2.760vw;
+	font-size: 50px;
 }
+
 h2 {
 	margin-top: 3px;
-	font-size: 1.042vw;
+	font-size: 18px;
 }
 
 .container {
 	width: auto;
-	margin: 2.6vw;
+	max-width: 1200px;
+	margin: auto;
+	padding: 0px 15px;
+
 	display: flex;
 	flex-wrap: wrap;
-	gap: 1.042vw;
+	gap: 15px;
 }
 
 .item {
 	position: relative;
-	width: calc((100% - 3.13vw) / 4);
+	width: calc((100% - 15px * 3) / 4);
 	aspect-ratio: 1/1;
 	background-color: #E5E5E5;
 }
@@ -52,20 +56,18 @@ img {
 }
 
 .subtitle h1 {
-	position: absolute;
+	position: relative;
 	top: 50%;
-	left: 50%;
 	
 	color: #FFFFFF;
-	font-size: 1.6vw;
+	font-size: 18px;
 	text-align: center;
-
-	transform: translate(-50%, -50%);
+	transform: translateY(-50%);
 }
 
 @media (max-width: 900px) {
 	.item {
-		width: calc((100% - 3.13vw) / 3);
+		width: calc((100% - 15px * 2) / 3);
 		aspect-ratio: 1/1;
 		background-color: #E5E5E5;
 		object-fit: cover;
@@ -74,7 +76,7 @@ img {
 
 @media (max-width: 600px) {
 	.item {
-		width: calc((100% - 3.13vw) / 2);
+		width: calc((100% - 15px * 1) / 2);
 		aspect-ratio: 1/1;
 		background-color: #E5E5E5;
 		object-fit: cover;
