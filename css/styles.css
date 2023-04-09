@@ -1,7 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=block');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@600&display=block');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400&display=block');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=block');
+
 html {
 	-webkit-user-select: none; /* Safari */
 	-ms-user-select: none; /* IE 10 and IE 11 */
 	user-select: none; /* Standard syntax */ 
+}
+
+body {
+	background-color: #f7f7f7;
 }
 
 .titleContainer {
@@ -10,9 +19,8 @@ html {
 
 .title {
 	display: inline-block;
-	font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	text-align: center;
-	margin: 60px 0px 60px 0px;
+	margin: 60px 0px 40px 0px;
 }
 
 .title:hover {
@@ -20,13 +28,18 @@ html {
 }
 
 h1 {
+	font-family: 'Abril Fatface';
+
 	display: inline-block;
-	font-size: 50px;
+	font-size: 45px;
 }
 
 h2 {
+	font-family: 'Abhaya Libre';
+	font-weight: 600;
+
 	display: inline-block;
-	margin-top: 3px;
+	margin-top: 10px;
 	font-size: 18px;
 }
 
@@ -43,6 +56,12 @@ h2 {
 }
 
 .container h3 {
+	font-family: 'Abhaya Libre';
+	font-weight: 600;
+	font-size: 20px;
+
+	text-transform: capitalize;
+
 	display: inline-block;
 	flex: 0 1 100%;
 }
@@ -58,6 +77,7 @@ h2 {
 
 .item:hover {
 	cursor: pointer;
+	filter: brightness(90%);
 }
 
 img {
@@ -68,8 +88,6 @@ img {
 }
 
 .subtitle {
-	font-family: "Open Sans";
-
 	position: absolute;
 	bottom: 0px;
 	width: 100%;
@@ -79,6 +97,9 @@ img {
 }
 
 .subtitle h1 {
+	font-family: 'Source Sans Pro';
+	font-weight: 400;
+
 	display: block;
 	position: relative;
 	top: 50%;

@@ -1,4 +1,5 @@
 var tagData;
+var gallery = null;
 
 function home() {
 	window.location.href = location.protocol + '//' + location.host + location.pathname
