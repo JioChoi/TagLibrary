@@ -1,6 +1,10 @@
 var tagData;
 var gallery = null;
 
+window.onload = function() {
+	document.getElementById("loading").style.display = "none";
+}
+
 function home() {
 	window.location.href = location.protocol + '//' + location.host + location.pathname
 }

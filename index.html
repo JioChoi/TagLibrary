@@ -13,6 +13,7 @@
 	<title>The AI Tag Library</title>
 </head>
 <body>
+	<div class="loading" id="loading"></div>
 	<script>
 		loadTagData();
 		//preloadIamges();
@@ -28,7 +29,12 @@
 
 
 	<div class="container" id="mainContainer">
-		<h3 id="group"></h3>
+		<div class="back" id="back">
+			<div class="backButton" onclick="home();">
+				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 256 256"><path fill="currentColor" d="M220 128a4 4 0 0 1-4 4H49.66l65.17 65.17a4 4 0 0 1-5.66 5.66l-72-72a4 4 0 0 1 0-5.66l72-72a4 4 0 0 1 5.66 5.66L49.66 124H216a4 4 0 0 1 4 4Z"/></svg>
+				<h3 id="group"></h3>
+			</div>
+		</div>
 	</div>
 
 	<div class="footer">
@@ -38,6 +44,9 @@
 		createItems();
 		if(gallery != null) {
 			document.getElementById("group").innerHTML = gallery;
+		}
+		else {
+			document.getElementById("back").style.visibility = "hidden";
 		}
 	</script>
 </body>
