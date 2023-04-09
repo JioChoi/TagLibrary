@@ -42,6 +42,11 @@ h2 {
 	gap: 15px;
 }
 
+.container h3 {
+	display: inline-block;
+	flex: 0 1 100%;
+}
+
 .item {
 	position: relative;
 	width: calc((100% - 15px * 3) / 4);

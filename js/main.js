@@ -1,13 +1,53 @@
+var tagData;
+
 function home() {
 	window.location.href = location.protocol + '//' + location.host + location.pathname
 }
 
-function createItem(tag, path) {
+function loadTagData() {
+	tagData = JSON.parse(JSON.stringify(data));
+	console.log(tagData);
+}
+
+function createItems() {
+	url = new URL(window.location.href);
+	gallery = url.searchParams.get("g");
+	
+	if(gallery == null) {
+		for (obj in tagData)
+			createItem(obj, "data/images/group/" + obj + ".jpg", true);
+	}
+	else {
+		for(var i = 0; i < tagData[gallery].length; i++)
+			createItem(tagData[gallery].at(i).tag, "data/images/tag/" + tagData[gallery].at(i).filename, false);
+	}
+}
+
+function preloadIamges() {
+	url = new URL(window.location.href);
+	gallery = url.searchParams.get("g");
+	
+	if(gallery == null) {
+		for (obj in tagData)
+			preloadImage("data/images/group/" + obj + ".jpg");
+	}
+	else {
+		for(var i = 0; i < tagData[gallery].length; i++)
+			preloadImage("data/images/tag/" + tagData[gallery].at(i).filename);
+	}
+}
+
+function preloadImage(path) {
+	var img = new Image();
+	img.src = path;
+}
+
+function createItem(tag, path, dir) {
 	let item = document.createElement("div");
 
 	let img = document.createElement("img");
 	img.src = path;
-	img.onerror = function error() {
+	img.onerror = function() {
 		this.src = "data/images/assets/NoImage.png";
 	}
 
@@ -16,11 +56,18 @@ function createItem(tag, path) {
 		return false;
 	};
 	
-	item.onclick = function () {
-		let url = new URL(window.location.href);
-		url.searchParams.set('g', tag);
-		window.location.href = url;
-	};
+	if(dir == true) {
+		item.onclick = function () {
+			let url = new URL(window.location.href);
+			url.searchParams.set('g', tag);
+			window.location.href = url;
+		};
+	}
+	else {
+		item.onclick = function () {
+			navigator.clipboard.writeText(tag);
+		};
+	}
 
 	let subtitle = document.createElement("div");
 	subtitle.classList.add("subtitle");
