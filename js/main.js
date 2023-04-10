@@ -67,7 +67,7 @@ function createItem(tag, path, dir) {
 		this.src = "data/images/assets/NoImage.png";
 	}
 
-	//img.loading = "lazy";
+	img.loading = "lazy";
 
 	item.classList.add("item");
 	item.ondragstart = function () {
