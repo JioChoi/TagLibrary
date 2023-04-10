@@ -31,7 +31,7 @@ function createItems() {
 	
 	if(gallery == null) {
 		for (obj in tagData)
-			createItem(obj, "data/images/group/" + obj + ".jpg", true);
+			createItem(obj, "data/images/group/" + obj + ".webp", true);
 	}
 	else {
 		for(var i = 0; i < tagData[gallery].length; i++)
@@ -45,7 +45,7 @@ function preloadIamges() {
 	
 	if(gallery == null) {
 		for (obj in tagData)
-			preloadImage("data/images/group/" + obj + ".jpg");
+			preloadImage("data/images/group/" + obj + ".webp");
 	}
 	else {
 		for(var i = 0; i < tagData[gallery].length; i++)
