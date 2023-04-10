@@ -2,9 +2,9 @@ function createItem(parent) {
 	let item = document.createElement("div");
 
 	let img = document.createElement("img");
-	img.src = "/group/" + parent + ".png";
+	img.src = "/group/" + parent + ".webp";
 	img.onerror = function error() {
-		this.src = "data/images/assets/NoImage.png";
+		this.src = "data/images/assets/NoImage.webp";
 	}
 
 	item.classList.add("item");

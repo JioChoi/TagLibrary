@@ -64,7 +64,7 @@ function createItem(tag, path, dir) {
 	let img = document.createElement("img");
 	img.src = path;
 	img.onerror = function() {
-		this.src = "data/images/assets/NoImage.png";
+		this.src = "data/images/assets/NoImage.webp";
 	}
 
 	img.loading = "lazy";
