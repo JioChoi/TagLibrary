@@ -2,2745 +2,2745 @@ data = {
    "hair": [
       {
          "tag": "absurdly_long_hair",
-         "filename": "absurdly_long_hair.webp"
+         "filename": "absurdly_long_hair.png"
       },
       {
          "tag": "ahoge",
-         "filename": "ahoge.webp"
+         "filename": "ahoge.png"
       },
       {
          "tag": "antenna_hair",
-         "filename": "antenna_hair.webp"
+         "filename": "antenna_hair.png"
       },
       {
          "tag": "asymmetrical_bangs",
-         "filename": "asymmetrical_bangs.webp"
+         "filename": "asymmetrical_bangs.png"
       },
       {
          "tag": "asymmetrical_hair",
-         "filename": "asymmetrical_hair.webp"
+         "filename": "asymmetrical_hair.png"
       },
       {
          "tag": "bangs",
-         "filename": "bangs.webp"
+         "filename": "bangs.png"
       },
       {
          "tag": "black_hair",
-         "filename": "black_hair.webp"
+         "filename": "black_hair.png"
       },
       {
          "tag": "blonde_hair",
-         "filename": "blonde_hair.webp"
+         "filename": "blonde_hair.png"
       },
       {
          "tag": "blue_hair",
-         "filename": "blue_hair.webp"
+         "filename": "blue_hair.png"
       },
       {
          "tag": "blunt_bangs",
-         "filename": "blunt_bangs.webp"
+         "filename": "blunt_bangs.png"
       },
       {
          "tag": "bob_cut",
-         "filename": "bob_cut.webp"
+         "filename": "bob_cut.png"
       },
       {
          "tag": "braid",
-         "filename": "braid.webp"
+         "filename": "braid.png"
       },
       {
          "tag": "brown_hair",
-         "filename": "brown_hair.webp"
+         "filename": "brown_hair.png"
       },
       {
          "tag": "crossed_bangs",
-         "filename": "crossed_bangs.webp"
+         "filename": "crossed_bangs.png"
       },
       {
          "tag": "crown_braid",
-         "filename": "crown_braid.webp"
+         "filename": "crown_braid.png"
       },
       {
          "tag": "curly_hair",
-         "filename": "curly_hair.webp"
+         "filename": "curly_hair.png"
       },
       {
          "tag": "double_bun",
-         "filename": "double_bun.webp"
+         "filename": "double_bun.png"
       },
       {
          "tag": "drill_hair",
-         "filename": "drill_hair.webp"
+         "filename": "drill_hair.png"
       },
       {
          "tag": "floating_hair",
-         "filename": "floating_hair.webp"
+         "filename": "floating_hair.png"
       },
       {
          "tag": "folded_ponytail",
-         "filename": "folded_ponytail.webp"
+         "filename": "folded_ponytail.png"
       },
       {
          "tag": "french_braid",
-         "filename": "french_braid.webp"
+         "filename": "french_braid.png"
       },
       {
          "tag": "green_hair",
-         "filename": "green_hair.webp"
+         "filename": "green_hair.png"
       },
       {
          "tag": "grey_hair",
-         "filename": "grey_hair.webp"
+         "filename": "grey_hair.png"
       },
       {
          "tag": "hair_between_eyes",
-         "filename": "hair_between_eyes.webp"
+         "filename": "hair_between_eyes.png"
       },
       {
          "tag": "hair_bun",
-         "filename": "hair_bun.webp"
+         "filename": "hair_bun.png"
       },
       {
          "tag": "hair_down",
-         "filename": "hair_down.webp"
+         "filename": "hair_down.png"
       },
       {
          "tag": "hair_flaps",
-         "filename": "hair_flaps.webp"
+         "filename": "hair_flaps.png"
       },
       {
          "tag": "hair_intakes",
-         "filename": "hair_intakes.webp"
+         "filename": "hair_intakes.png"
       },
       {
          "tag": "hair_over_one_eye",
-         "filename": "hair_over_one_eye.webp"
+         "filename": "hair_over_one_eye.png"
       },
       {
          "tag": "hair_over_shoulder",
-         "filename": "hair_over_shoulder.webp"
+         "filename": "hair_over_shoulder.png"
       },
       {
          "tag": "hair_rings",
-         "filename": "hair_rings.webp"
+         "filename": "hair_rings.png"
       },
       {
          "tag": "half_updo",
-         "filename": "half_updo.webp"
+         "filename": "half_updo.png"
       },
       {
          "tag": "high_ponytail",
-         "filename": "high_ponytail.webp"
+         "filename": "high_ponytail.png"
       },
       {
          "tag": "hime_cut",
-         "filename": "hime_cut.webp"
+         "filename": "hime_cut.png"
       },
       {
          "tag": "long_hair",
-         "filename": "long_hair.webp"
+         "filename": "long_hair.png"
       },
       {
          "tag": "medium_hair",
-         "filename": "medium_hair.webp"
+         "filename": "medium_hair.png"
       },
       {
          "tag": "messy_hair",
-         "filename": "messy_hair.webp"
+         "filename": "messy_hair.png"
       },
       {
          "tag": "one_side_up",
-         "filename": "one_side_up.webp"
+         "filename": "one_side_up.png"
       },
       {
          "tag": "orange_hair",
-         "filename": "orange_hair.webp"
+         "filename": "orange_hair.png"
       },
       {
          "tag": "parted_bangs",
-         "filename": "parted_bangs.webp"
+         "filename": "parted_bangs.png"
       },
       {
          "tag": "pink_hair",
-         "filename": "pink_hair.webp"
+         "filename": "pink_hair.png"
       },
       {
          "tag": "ponytail",
-         "filename": "ponytail.webp"
+         "filename": "ponytail.png"
       },
       {
          "tag": "purple_hair",
-         "filename": "purple_hair.webp"
+         "filename": "purple_hair.png"
       },
       {
          "tag": "red_hair",
-         "filename": "red_hair.webp"
+         "filename": "red_hair.png"
       },
       {
          "tag": "short_hair",
-         "filename": "short_hair.webp"
+         "filename": "short_hair.png"
       },
       {
          "tag": "short_ponytail",
-         "filename": "short_ponytail.webp"
+         "filename": "short_ponytail.png"
       },
       {
          "tag": "short_twintails",
-         "filename": "short_twintails.webp"
+         "filename": "short_twintails.png"
       },
       {
          "tag": "side_braid",
-         "filename": "side_braid.webp"
+         "filename": "side_braid.png"
       },
       {
          "tag": "side_ponytail",
-         "filename": "side_ponytail.webp"
+         "filename": "side_ponytail.png"
       },
       {
          "tag": "sidelocks",
-         "filename": "sidelocks.webp"
+         "filename": "sidelocks.png"
       },
       {
          "tag": "silver_hair",
-         "filename": "silver_hair.webp"
+         "filename": "silver_hair.png"
       },
       {
          "tag": "single_braid",
-         "filename": "single_braid.webp"
+         "filename": "single_braid.png"
       },
       {
          "tag": "spiked_hair",
-         "filename": "spiked_hair.webp"
+         "filename": "spiked_hair.png"
       },
       {
          "tag": "straight_hair",
-         "filename": "straight_hair.webp"
+         "filename": "straight_hair.png"
       },
       {
          "tag": "swept_bangs",
-         "filename": "swept_bangs.webp"
+         "filename": "swept_bangs.png"
       },
       {
          "tag": "twin_braids",
-         "filename": "twin_braids.webp"
+         "filename": "twin_braids.png"
       },
       {
          "tag": "twin_drills",
-         "filename": "twin_drills.webp"
+         "filename": "twin_drills.png"
       },
       {
          "tag": "twintails",
-         "filename": "twintails.webp"
+         "filename": "twintails.png"
       },
       {
          "tag": "two_side_up",
-         "filename": "two_side_up.webp"
+         "filename": "two_side_up.png"
       },
       {
          "tag": "very_long_hair",
-         "filename": "very_long_hair.webp"
+         "filename": "very_long_hair.png"
       },
       {
          "tag": "wavy_hair",
-         "filename": "wavy_hair.webp"
+         "filename": "wavy_hair.png"
       },
       {
          "tag": "white_hair",
-         "filename": "white_hair.webp"
+         "filename": "white_hair.png"
       }
    ],
    "face": [
       {
          "tag": ";D",
-         "filename": ";d.webp"
+         "filename": ";d.png"
       },
       {
          "tag": ":D",
-         "filename": "-d.webp"
+         "filename": "_d.png"
       },
       {
          "tag": ":O",
-         "filename": "-o.webp"
+         "filename": "_o.png"
       },
       {
          "tag": ":P",
-         "filename": "-p.webp"
+         "filename": "_p.png"
       },
       {
          "tag": ":T",
-         "filename": "-t.webp"
+         "filename": "_t.png"
       },
       {
          "tag": "anger_vein",
-         "filename": "anger_vein.webp"
+         "filename": "anger_vein.png"
       },
       {
          "tag": "angry",
-         "filename": "angry.webp"
+         "filename": "angry.png"
       },
       {
          "tag": "blush",
-         "filename": "blush.webp"
+         "filename": "blush.png"
       },
       {
          "tag": "blush_stickers",
-         "filename": "blush_stickers.webp"
+         "filename": "blush_stickers.png"
       },
       {
          "tag": "chestnut_mouth",
-         "filename": "chestnut_mouth.webp"
+         "filename": "chestnut_mouth.png"
       },
       {
          "tag": "clenched_teeth",
-         "filename": "clenched_teeth.webp"
+         "filename": "clenched_teeth.png"
       },
       {
          "tag": "closed_eyes",
-         "filename": "closed_eyes.webp"
+         "filename": "closed_eyes.png"
       },
       {
          "tag": "crying",
-         "filename": "crying.webp"
+         "filename": "crying.png"
       },
       {
          "tag": "dot_nose",
-         "filename": "dot_nose.webp"
+         "filename": "dot_nose.png"
       },
       {
          "tag": "embarrassed",
-         "filename": "embarrassed.webp"
+         "filename": "embarrassed.png"
       },
       {
          "tag": "expressionless",
-         "filename": "expressionless.webp"
+         "filename": "expressionless.png"
       },
       {
          "tag": "freckles",
-         "filename": "freckles.webp"
+         "filename": "freckles.png"
       },
       {
          "tag": "frown",
-         "filename": "frown.webp"
+         "filename": "frown.png"
       },
       {
          "tag": "full-face_blush",
-         "filename": "full-face_blush.webp"
+         "filename": "full-face_blush.png"
       },
       {
          "tag": "furrowed_brow",
-         "filename": "furrowed_brow.webp"
+         "filename": "furrowed_brow.png"
       },
       {
          "tag": "grin",
-         "filename": "grin.webp"
+         "filename": "grin.png"
       },
       {
          "tag": "happy",
-         "filename": "happy.webp"
+         "filename": "happy.png"
       },
       {
          "tag": "light_smile",
-         "filename": "light_smile.webp"
+         "filename": "light_smile.png"
       },
       {
          "tag": "nose_blush",
-         "filename": "nose_blush.webp"
+         "filename": "nose_blush.png"
       },
       {
          "tag": "open_mouth",
-         "filename": "open_mouth.webp"
+         "filename": "open_mouth.png"
       },
       {
          "tag": "parted_lips",
-         "filename": "parted_lips.webp"
+         "filename": "parted_lips.png"
       },
       {
          "tag": "pout",
-         "filename": "pout.webp"
+         "filename": "pout.png"
       },
       {
          "tag": "serious",
-         "filename": "serious.webp"
+         "filename": "serious.png"
       },
       {
          "tag": "sharp_teeth",
-         "filename": "sharp_teeth.webp"
+         "filename": "sharp_teeth.png"
       },
       {
          "tag": "smile",
-         "filename": "smile.webp"
+         "filename": "smile.png"
       },
       {
          "tag": "smirk",
-         "filename": "smirk.webp"
+         "filename": "smirk.png"
       },
       {
          "tag": "smug",
-         "filename": "smug.webp"
+         "filename": "smug.png"
       },
       {
          "tag": "surprised",
-         "filename": "surprised.webp"
+         "filename": "surprised.png"
       },
       {
          "tag": "tears",
-         "filename": "tears.webp"
+         "filename": "tears.png"
       },
       {
          "tag": "trembling",
-         "filename": "trembling.webp"
+         "filename": "trembling.png"
       },
       {
          "tag": "v-shaped_eyebrows",
-         "filename": "v-shaped_eyebrows.webp"
+         "filename": "v-shaped_eyebrows.png"
       },
       {
          "tag": "wavy_mouth",
-         "filename": "wavy_mouth.webp"
+         "filename": "wavy_mouth.png"
       },
       {
          "tag": "wide-eyed",
-         "filename": "wide-eyed.webp"
+         "filename": "wide-eyed.png"
       }
    ],
    "eyes": [
       {
          "tag": "aqua_eyes",
-         "filename": "aqua_eyes.webp"
+         "filename": "aqua_eyes.png"
       },
       {
          "tag": "bags_under_eyes",
-         "filename": "bags_under_eyes.webp"
+         "filename": "bags_under_eyes.png"
       },
       {
          "tag": "blindfold",
-         "filename": "blindfold.webp"
+         "filename": "blindfold.png"
       },
       {
          "tag": "blue_eyes",
-         "filename": "blue_eyes.webp"
+         "filename": "blue_eyes.png"
       },
       {
          "tag": "brown_eyes",
-         "filename": "brown_eyes.webp"
+         "filename": "brown_eyes.png"
       },
       {
          "tag": "colored_eyelashes",
-         "filename": "colored_eyelashes.webp"
+         "filename": "colored_eyelashes.png"
       },
       {
          "tag": "empty_eyes",
-         "filename": "empty_eyes.webp"
+         "filename": "empty_eyes.png"
       },
       {
          "tag": "eyelashes",
-         "filename": "eyelashes.webp"
+         "filename": "eyelashes.png"
       },
       {
          "tag": "eyeliner",
-         "filename": "eyeliner.webp"
+         "filename": "eyeliner.png"
       },
       {
          "tag": "eyepatch",
-         "filename": "eyepatch.webp"
+         "filename": "eyepatch.png"
       },
       {
          "tag": "eyes_visible_through_hair",
-         "filename": "eyes_visible_through_hair.webp"
+         "filename": "eyes_visible_through_hair.png"
       },
       {
          "tag": "eyeshadow",
-         "filename": "eyeshadow.webp"
+         "filename": "eyeshadow.png"
       },
       {
          "tag": "glasses",
-         "filename": "glasses.webp"
+         "filename": "glasses.png"
       },
       {
          "tag": "glowing_eyes",
-         "filename": "glowing_eyes.webp"
+         "filename": "glowing_eyes.png"
       },
       {
          "tag": "green_eyes",
-         "filename": "green_eyes.webp"
+         "filename": "green_eyes.png"
       },
       {
          "tag": "grey_eyes",
-         "filename": "grey_eyes.webp"
+         "filename": "grey_eyes.png"
       },
       {
          "tag": "heterochromia",
-         "filename": "heterochromia.webp"
+         "filename": "heterochromia.png"
       },
       {
          "tag": "jitome",
-         "filename": "jitome.webp"
+         "filename": "jitome.png"
       },
       {
          "tag": "makeup",
-         "filename": "makeup.webp"
+         "filename": "makeup.png"
       },
       {
          "tag": "multicolored_eyes",
-         "filename": "multicolored_eyes.webp"
+         "filename": "multicolored_eyes.png"
       },
       {
          "tag": "one_eye_closed",
-         "filename": "one_eye_closed.webp"
+         "filename": "one_eye_closed.png"
       },
       {
          "tag": "orange_eyes",
-         "filename": "orange_eyes.webp"
+         "filename": "orange_eyes.png"
       },
       {
          "tag": "pink_eyes",
-         "filename": "pink_eyes.webp"
+         "filename": "pink_eyes.png"
       },
       {
          "tag": "purple_eyes",
-         "filename": "purple_eyes.webp"
+         "filename": "purple_eyes.png"
       },
       {
          "tag": "red_eyes",
-         "filename": "red_eyes.webp"
+         "filename": "red_eyes.png"
       },
       {
          "tag": "slit_pupils",
-         "filename": "slit_pupils.webp"
+         "filename": "slit_pupils.png"
       },
       {
          "tag": "tearing_up",
-         "filename": "tearing_up.webp"
+         "filename": "tearing_up.png"
       },
       {
          "tag": "third_eye",
-         "filename": "third_eye.webp"
+         "filename": "third_eye.png"
       },
       {
          "tag": "tsurime",
-         "filename": "tsurime.webp"
+         "filename": "tsurime.png"
       },
       {
          "tag": "white_pupils",
-         "filename": "white_pupils.webp"
+         "filename": "white_pupils.png"
       },
       {
          "tag": "yellow_eyes",
-         "filename": "yellow_eyes.webp"
+         "filename": "yellow_eyes.png"
       }
    ],
    "ears": [
       {
          "tag": "animal_ears",
-         "filename": "animal_ears.webp"
+         "filename": "animal_ears.png"
       },
       {
          "tag": "cat_ears",
-         "filename": "cat_ears.webp"
+         "filename": "cat_ears.png"
       },
       {
          "tag": "cow_ears",
-         "filename": "cow_ears.webp"
+         "filename": "cow_ears.png"
       },
       {
          "tag": "dog_ears",
-         "filename": "dog_ears.webp"
+         "filename": "dog_ears.png"
       },
       {
          "tag": "ear_piercing",
-         "filename": "ear_piercing.webp"
+         "filename": "ear_piercing.png"
       },
       {
          "tag": "earrings",
-         "filename": "earrings.webp"
+         "filename": "earrings.png"
       },
       {
          "tag": "fake_animal_ears",
-         "filename": "fake_animal_ears.webp"
+         "filename": "fake_animal_ears.png"
       },
       {
          "tag": "fox_ears",
-         "filename": "fox_ears.webp"
+         "filename": "fox_ears.png"
       },
       {
          "tag": "headphones",
-         "filename": "headphones.webp"
+         "filename": "headphones.png"
       },
       {
          "tag": "horse_ears",
-         "filename": "horse_ears.webp"
+         "filename": "horse_ears.png"
       },
       {
          "tag": "kemonomimi_mode",
-         "filename": "kemonomimi_mode.webp"
+         "filename": "kemonomimi_mode.png"
       },
       {
          "tag": "mouse_ears",
-         "filename": "mouse_ears.webp"
+         "filename": "mouse_ears.png"
       },
       {
          "tag": "pointy_ears",
-         "filename": "pointy_ears.webp"
+         "filename": "pointy_ears.png"
       },
       {
          "tag": "rabbit_ears",
-         "filename": "rabbit_ears.webp"
+         "filename": "rabbit_ears.png"
       },
       {
          "tag": "single_earring",
-         "filename": "single_earring.webp"
+         "filename": "single_earring.png"
       },
       {
          "tag": "wolf_ears",
-         "filename": "wolf_ears.webp"
+         "filename": "wolf_ears.png"
       }
    ],
    "wings": [
       {
          "tag": "angel_wings",
-         "filename": "angel_wings.webp"
+         "filename": "angel_wings.png"
       },
       {
          "tag": "bat_wings",
-         "filename": "bat_wings.webp"
+         "filename": "bat_wings.png"
       },
       {
          "tag": "black_wings",
-         "filename": "black_wings.webp"
+         "filename": "black_wings.png"
       },
       {
          "tag": "demon_wings",
-         "filename": "demon_wings.webp"
+         "filename": "demon_wings.png"
       },
       {
          "tag": "fairy_wings",
-         "filename": "fairy_wings.webp"
+         "filename": "fairy_wings.png"
       },
       {
          "tag": "feathered_wings",
-         "filename": "feathered_wings.webp"
+         "filename": "feathered_wings.png"
       },
       {
          "tag": "head_wings",
-         "filename": "head_wings.webp"
+         "filename": "head_wings.png"
       },
       {
          "tag": "ice_wings",
-         "filename": "ice_wings.webp"
+         "filename": "ice_wings.png"
       },
       {
          "tag": "white_wings",
-         "filename": "white_wings.webp"
+         "filename": "white_wings.png"
       },
       {
          "tag": "wings",
-         "filename": "wings.webp"
+         "filename": "wings.png"
       }
    ],
    "accessories": [
       {
          "tag": "animal_collar",
-         "filename": "animal_collar.webp"
+         "filename": "animal_collar.png"
       },
       {
          "tag": "animal_hat",
-         "filename": "animal_hat.webp"
+         "filename": "animal_hat.png"
       },
       {
          "tag": "anklet",
-         "filename": "anklet.webp"
+         "filename": "anklet.png"
       },
       {
          "tag": "arm_warmers",
-         "filename": "arm_warmers.webp"
+         "filename": "arm_warmers.png"
       },
       {
          "tag": "armband",
-         "filename": "armband.webp"
+         "filename": "armband.png"
       },
       {
          "tag": "armlet",
-         "filename": "armlet.webp"
+         "filename": "armlet.png"
       },
       {
          "tag": "badge",
-         "filename": "badge.webp"
+         "filename": "badge.png"
       },
       {
          "tag": "bandana",
-         "filename": "bandana.webp"
+         "filename": "bandana.png"
       },
       {
          "tag": "bangle",
-         "filename": "bangle.webp"
+         "filename": "bangle.png"
       },
       {
          "tag": "baseball_cap",
-         "filename": "baseball_cap.webp"
+         "filename": "baseball_cap.png"
       },
       {
          "tag": "beanie",
-         "filename": "beanie.webp"
+         "filename": "beanie.png"
       },
       {
          "tag": "belt",
-         "filename": "belt.webp"
+         "filename": "belt.png"
       },
       {
          "tag": "beret",
-         "filename": "beret.webp"
+         "filename": "beret.png"
       },
       {
          "tag": "black_bow",
-         "filename": "black_bow.webp"
+         "filename": "black_bow.png"
       },
       {
          "tag": "black_gloves",
-         "filename": "black_gloves.webp"
+         "filename": "black_gloves.png"
       },
       {
          "tag": "black_necktie",
-         "filename": "black_necktie.webp"
+         "filename": "black_necktie.png"
       },
       {
          "tag": "black_ribbon",
-         "filename": "black_ribbon.webp"
+         "filename": "black_ribbon.png"
       },
       {
          "tag": "bonnet",
-         "filename": "bonnet.webp"
+         "filename": "bonnet.png"
       },
       {
          "tag": "bow",
-         "filename": "bow.webp"
+         "filename": "bow.png"
       },
       {
          "tag": "bowtie",
-         "filename": "bowtie.webp"
+         "filename": "bowtie.png"
       },
       {
          "tag": "bracelet",
-         "filename": "bracelet.webp"
+         "filename": "bracelet.png"
       },
       {
          "tag": "bridal_gauntlets",
-         "filename": "bridal_gauntlets.webp"
+         "filename": "bridal_gauntlets.png"
       },
       {
          "tag": "brooch",
-         "filename": "brooch.webp"
+         "filename": "brooch.png"
       },
       {
          "tag": "buckle",
-         "filename": "buckle.webp"
+         "filename": "buckle.png"
       },
       {
          "tag": "buttons",
-         "filename": "buttons.webp"
+         "filename": "buttons.png"
       },
       {
          "tag": "cabbie_hat",
-         "filename": "cabbie_hat.webp"
+         "filename": "cabbie_hat.png"
       },
       {
          "tag": "chain",
-         "filename": "chain.webp"
+         "filename": "chain.png"
       },
       {
          "tag": "choker",
-         "filename": "choker.webp"
+         "filename": "choker.png"
       },
       {
          "tag": "circlet",
-         "filename": "circlet.webp"
+         "filename": "circlet.png"
       },
       {
          "tag": "collar",
-         "filename": "collar.webp"
+         "filename": "collar.png"
       },
       {
          "tag": "crescent_hat_ornament",
-         "filename": "crescent_hat_ornament.webp"
+         "filename": "crescent_hat_ornament.png"
       },
       {
          "tag": "crown",
-         "filename": "crown.webp"
+         "filename": "crown.png"
       },
       {
          "tag": "detached_collar",
-         "filename": "detached_collar.webp"
+         "filename": "detached_collar.png"
       },
       {
          "tag": "detached_sleeves",
-         "filename": "detached_sleeves.webp"
+         "filename": "detached_sleeves.png"
       },
       {
          "tag": "elbow_gloves",
-         "filename": "elbow_gloves.webp"
+         "filename": "elbow_gloves.png"
       },
       {
          "tag": "fingerless_gloves",
-         "filename": "fingerless_gloves.webp"
+         "filename": "fingerless_gloves.png"
       },
       {
          "tag": "flat_cap",
-         "filename": "flat_cap.webp"
+         "filename": "flat_cap.png"
       },
       {
          "tag": "forehead_protector",
-         "filename": "forehead_protector.webp"
+         "filename": "forehead_protector.png"
       },
       {
          "tag": "frilled_hairband",
-         "filename": "frilled_hairband.webp"
+         "filename": "frilled_hairband.png"
       },
       {
          "tag": "fur_collar",
-         "filename": "fur_collar.webp"
+         "filename": "fur_collar.png"
       },
       {
          "tag": "garrison_cap",
-         "filename": "garrison_cap.webp"
+         "filename": "garrison_cap.png"
       },
       {
          "tag": "gloves",
-         "filename": "gloves.webp"
+         "filename": "gloves.png"
       },
       {
          "tag": "goggles",
-         "filename": "goggles.webp"
+         "filename": "goggles.png"
       },
       {
          "tag": "hachimaki",
-         "filename": "hachimaki.webp"
+         "filename": "hachimaki.png"
       },
       {
          "tag": "hair_bobbles",
-         "filename": "hair_bobbles.webp"
+         "filename": "hair_bobbles.png"
       },
       {
          "tag": "hair_bow",
-         "filename": "hair_bow.webp"
+         "filename": "hair_bow.png"
       },
       {
          "tag": "hair_flower",
-         "filename": "hair_flower.webp"
+         "filename": "hair_flower.png"
       },
       {
          "tag": "hair_ornament",
-         "filename": "hair_ornament.webp"
+         "filename": "hair_ornament.png"
       },
       {
          "tag": "hair_ribbon",
-         "filename": "hair_ribbon.webp"
+         "filename": "hair_ribbon.png"
       },
       {
          "tag": "hair_scrunchie",
-         "filename": "hair_scrunchie.webp"
+         "filename": "hair_scrunchie.png"
       },
       {
          "tag": "hairband",
-         "filename": "hairband.webp"
+         "filename": "hairband.png"
       },
       {
          "tag": "hairclip",
-         "filename": "hairclip.webp"
+         "filename": "hairclip.png"
       },
       {
          "tag": "hairpin",
-         "filename": "hairpin.webp"
+         "filename": "hairpin.png"
       },
       {
          "tag": "hat",
-         "filename": "hat.webp"
+         "filename": "hat.png"
       },
       {
          "tag": "hat_bow",
-         "filename": "hat_bow.webp"
+         "filename": "hat_bow.png"
       },
       {
          "tag": "hat_feather",
-         "filename": "hat_feather.webp"
+         "filename": "hat_feather.png"
       },
       {
          "tag": "hat_flower",
-         "filename": "hat_flower.webp"
+         "filename": "hat_flower.png"
       },
       {
          "tag": "hat_ornament",
-         "filename": "hat_ornament.webp"
+         "filename": "hat_ornament.png"
       },
       {
          "tag": "hat_ribbon",
-         "filename": "hat_ribbon.webp"
+         "filename": "hat_ribbon.png"
       },
       {
          "tag": "head_scarf",
-         "filename": "head_scarf.webp"
+         "filename": "head_scarf.png"
       },
       {
          "tag": "headband",
-         "filename": "headband.webp"
+         "filename": "headband.png"
       },
       {
          "tag": "headdress",
-         "filename": "headdress.webp"
+         "filename": "headdress.png"
       },
       {
          "tag": "headphones_around_neck",
-         "filename": "headphones_around_neck.webp"
+         "filename": "headphones_around_neck.png"
       },
       {
          "tag": "heart_earrings",
-         "filename": "heart_earrings.webp"
+         "filename": "heart_earrings.png"
       },
       {
          "tag": "high_collar",
-         "filename": "high_collar.webp"
+         "filename": "high_collar.png"
       },
       {
          "tag": "hoop_earrings",
-         "filename": "hoop_earrings.webp"
+         "filename": "hoop_earrings.png"
       },
       {
          "tag": "jester_cap",
-         "filename": "jester_cap.webp"
+         "filename": "jester_cap.png"
       },
       {
          "tag": "jewelry",
-         "filename": "jewelry.webp"
+         "filename": "jewelry.png"
       },
       {
          "tag": "lolita_hairband",
-         "filename": "lolita_hairband.webp"
+         "filename": "lolita_hairband.png"
       },
       {
          "tag": "maid_headdress",
-         "filename": "maid_headdress.webp"
+         "filename": "maid_headdress.png"
       },
       {
          "tag": "mask",
-         "filename": "mask.webp"
+         "filename": "mask.png"
       },
       {
          "tag": "military_hat",
-         "filename": "military_hat.webp"
+         "filename": "military_hat.png"
       },
       {
          "tag": "mini_crown",
-         "filename": "mini_crown.webp"
+         "filename": "mini_crown.png"
       },
       {
          "tag": "mini_top_hat",
-         "filename": "mini_top_hat.webp"
+         "filename": "mini_top_hat.png"
       },
       {
          "tag": "mittens",
-         "filename": "mittens.webp"
+         "filename": "mittens.png"
       },
       {
          "tag": "mob_cap",
-         "filename": "mob_cap.webp"
+         "filename": "mob_cap.png"
       },
       {
          "tag": "mouth_mask",
-         "filename": "mouth_mask.webp"
+         "filename": "mouth_mask.png"
       },
       {
          "tag": "neck_bell",
-         "filename": "neck_bell.webp"
+         "filename": "neck_bell.png"
       },
       {
          "tag": "neck_ribbon",
-         "filename": "neck_ribbon.webp"
+         "filename": "neck_ribbon.png"
       },
       {
          "tag": "neckerchief",
-         "filename": "neckerchief.webp"
+         "filename": "neckerchief.png"
       },
       {
          "tag": "necklace",
-         "filename": "necklace.webp"
+         "filename": "necklace.png"
       },
       {
          "tag": "necktie",
-         "filename": "necktie.webp"
+         "filename": "necktie.png"
       },
       {
          "tag": "necktie_between_breasts",
-         "filename": "necktie_between_breasts.webp"
+         "filename": "necktie_between_breasts.png"
       },
       {
          "tag": "nurse_cap",
-         "filename": "nurse_cap.webp"
+         "filename": "nurse_cap.png"
       },
       {
          "tag": "object_on_head",
-         "filename": "object_on_head.webp"
+         "filename": "object_on_head.png"
       },
       {
          "tag": "oni_horns",
-         "filename": "oni_horns.webp"
+         "filename": "oni_horns.png"
       },
       {
          "tag": "peaked_cap",
-         "filename": "peaked_cap.webp"
+         "filename": "peaked_cap.png"
       },
       {
          "tag": "pendant",
-         "filename": "pendant.webp"
+         "filename": "pendant.png"
       },
       {
          "tag": "ribbon",
-         "filename": "ribbon.webp"
+         "filename": "ribbon.png"
       },
       {
          "tag": "ribbon_choker",
-         "filename": "ribbon_choker.webp"
+         "filename": "ribbon_choker.png"
       },
       {
          "tag": "ring",
-         "filename": "ring.webp"
+         "filename": "ring.png"
       },
       {
          "tag": "round_eyewear",
-         "filename": "round_eyewear.webp"
+         "filename": "round_eyewear.png"
       },
       {
          "tag": "sailor_collar",
-         "filename": "sailor_collar.webp"
+         "filename": "sailor_collar.png"
       },
       {
          "tag": "sailor_hat",
-         "filename": "sailor_hat.webp"
+         "filename": "sailor_hat.png"
       },
       {
          "tag": "santa_hat",
-         "filename": "santa_hat.webp"
+         "filename": "santa_hat.png"
       },
       {
          "tag": "scarf",
-         "filename": "scarf.webp"
+         "filename": "scarf.png"
       },
       {
          "tag": "semi-rimless_eyewear",
-         "filename": "semi-rimless_eyewear.webp"
+         "filename": "semi-rimless_eyewear.png"
       },
       {
          "tag": "shawl",
-         "filename": "shawl.webp"
+         "filename": "shawl.png"
       },
       {
          "tag": "single_horn",
-         "filename": "single_horn.webp"
+         "filename": "single_horn.png"
       },
       {
          "tag": "spiked_bracelet",
-         "filename": "spiked_bracelet.webp"
+         "filename": "spiked_bracelet.png"
       },
       {
          "tag": "spiked_collar",
-         "filename": "spiked_collar.webp"
+         "filename": "spiked_collar.png"
       },
       {
          "tag": "star_earrings",
-         "filename": "star_earrings.webp"
+         "filename": "star_earrings.png"
       },
       {
          "tag": "star_hat_ornament",
-         "filename": "star_hat_ornament.webp"
+         "filename": "star_hat_ornament.png"
       },
       {
          "tag": "straw_hat",
-         "filename": "straw_hat.webp"
+         "filename": "straw_hat.png"
       },
       {
          "tag": "stud_earrings",
-         "filename": "stud_earrings.webp"
+         "filename": "stud_earrings.png"
       },
       {
          "tag": "sun_hat",
-         "filename": "sun_hat.webp"
+         "filename": "sun_hat.png"
       },
       {
          "tag": "suspenders",
-         "filename": "suspenders.webp"
+         "filename": "suspenders.png"
       },
       {
          "tag": "tassel_earrings",
-         "filename": "tassel_earrings.webp"
+         "filename": "tassel_earrings.png"
       },
       {
          "tag": "tate_eboshi",
-         "filename": "tate_eboshi.webp"
+         "filename": "tate_eboshi.png"
       },
       {
          "tag": "thighlet",
-         "filename": "thighlet.webp"
+         "filename": "thighlet.png"
       },
       {
          "tag": "tiara",
-         "filename": "tiara.webp"
+         "filename": "tiara.png"
       },
       {
          "tag": "tokin_hat",
-         "filename": "tokin_hat.webp"
+         "filename": "tokin_hat.png"
       },
       {
          "tag": "top_hat",
-         "filename": "top_hat.webp"
+         "filename": "top_hat.png"
       },
       {
          "tag": "under-rim_eyewear",
-         "filename": "under-rim_eyewear.webp"
+         "filename": "under-rim_eyewear.png"
       },
       {
          "tag": "v-neck",
-         "filename": "v-neck.webp"
+         "filename": "v-neck.png"
       },
       {
          "tag": "veil",
-         "filename": "veil.webp"
+         "filename": "veil.png"
       },
       {
          "tag": "visor_cap",
-         "filename": "visor_cap.webp"
+         "filename": "visor_cap.png"
       },
       {
          "tag": "watch",
-         "filename": "watch.webp"
+         "filename": "watch.png"
       },
       {
          "tag": "wedding_ring",
-         "filename": "wedding_ring.webp"
+         "filename": "wedding_ring.png"
       },
       {
          "tag": "white_gloves",
-         "filename": "white_gloves.webp"
+         "filename": "white_gloves.png"
       },
       {
          "tag": "wide_sleeves",
-         "filename": "wide_sleeves.webp"
+         "filename": "wide_sleeves.png"
       },
       {
          "tag": "witch_hat",
-         "filename": "witch_hat.webp"
+         "filename": "witch_hat.png"
       },
       {
          "tag": "wrist_cuffs",
-         "filename": "wrist_cuffs.webp"
+         "filename": "wrist_cuffs.png"
       },
       {
          "tag": "wrist_scrunchie",
-         "filename": "wrist_scrunchie.webp"
+         "filename": "wrist_scrunchie.png"
       },
       {
          "tag": "wristband",
-         "filename": "wristband.webp"
+         "filename": "wristband.png"
       },
       {
          "tag": "zipper",
-         "filename": "zipper.webp"
+         "filename": "zipper.png"
       }
    ],
    "topwear": [
       {
          "tag": "apron",
-         "filename": "apron.webp"
+         "filename": "apron.png"
       },
       {
          "tag": "bandeau",
-         "filename": "bandeau.webp"
+         "filename": "bandeau.png"
       },
       {
          "tag": "bare_shoulders",
-         "filename": "bare_shoulders.webp"
+         "filename": "bare_shoulders.png"
       },
       {
          "tag": "blazer",
-         "filename": "blazer.webp"
+         "filename": "blazer.png"
       },
       {
          "tag": "blouse",
-         "filename": "blouse.webp"
+         "filename": "blouse.png"
       },
       {
          "tag": "camisole",
-         "filename": "camisole.webp"
+         "filename": "camisole.png"
       },
       {
          "tag": "cape",
-         "filename": "cape.webp"
+         "filename": "cape.png"
       },
       {
          "tag": "capelet",
-         "filename": "capelet.webp"
+         "filename": "capelet.png"
       },
       {
          "tag": "cardigan",
-         "filename": "cardigan.webp"
+         "filename": "cardigan.png"
       },
       {
          "tag": "coat",
-         "filename": "coat.webp"
+         "filename": "coat.png"
       },
       {
          "tag": "collared_shirt",
-         "filename": "collared_shirt.webp"
+         "filename": "collared_shirt.png"
       },
       {
          "tag": "corset",
-         "filename": "corset.webp"
+         "filename": "corset.png"
       },
       {
          "tag": "criss-cross_halter",
-         "filename": "criss-cross_halter.webp"
+         "filename": "criss-cross_halter.png"
       },
       {
          "tag": "crop_top",
-         "filename": "crop_top.webp"
+         "filename": "crop_top.png"
       },
       {
          "tag": "cropped_jacket",
-         "filename": "cropped_jacket.webp"
+         "filename": "cropped_jacket.png"
       },
       {
          "tag": "downblouse",
-         "filename": "downblouse.webp"
+         "filename": "downblouse.png"
       },
       {
          "tag": "dress_shirt",
-         "filename": "dress_shirt.webp"
+         "filename": "dress_shirt.png"
       },
       {
          "tag": "epaulettes",
-         "filename": "epaulettes.webp"
+         "filename": "epaulettes.png"
       },
       {
          "tag": "frilled_shirt",
-         "filename": "frilled_shirt.webp"
+         "filename": "frilled_shirt.png"
       },
       {
          "tag": "fur-trimmed_coat",
-         "filename": "fur-trimmed_coat.webp"
+         "filename": "fur-trimmed_coat.png"
       },
       {
          "tag": "halterneck",
-         "filename": "halterneck.webp"
+         "filename": "halterneck.png"
       },
       {
          "tag": "hoodie",
-         "filename": "hoodie.webp"
+         "filename": "hoodie.png"
       },
       {
          "tag": "jacket",
-         "filename": "jacket.webp"
+         "filename": "jacket.png"
       },
       {
          "tag": "jacket_on_shoulders",
-         "filename": "jacket_on_shoulders.webp"
+         "filename": "jacket_on_shoulders.png"
       },
       {
          "tag": "long_coat",
-         "filename": "long_coat.webp"
+         "filename": "long_coat.png"
       },
       {
          "tag": "off_shoulder",
-         "filename": "off_shoulder.webp"
+         "filename": "off_shoulder.png"
       },
       {
          "tag": "off-shoulder_shirt",
-         "filename": "off-shoulder_shirt.webp"
+         "filename": "off-shoulder_shirt.png"
       },
       {
          "tag": "off-shoulder_sweater",
-         "filename": "off-shoulder_sweater.webp"
+         "filename": "off-shoulder_sweater.png"
       },
       {
          "tag": "pauldrons",
-         "filename": "pauldrons.webp"
+         "filename": "pauldrons.png"
       },
       {
          "tag": "puffy_sleeves",
-         "filename": "puffy_sleeves.webp"
+         "filename": "puffy_sleeves.png"
       },
       {
          "tag": "ribbed_sweater",
-         "filename": "ribbed_sweater.webp"
+         "filename": "ribbed_sweater.png"
       },
       {
          "tag": "robe",
-         "filename": "robe.webp"
+         "filename": "robe.png"
       },
       {
          "tag": "sash",
-         "filename": "sash.webp"
+         "filename": "sash.png"
       },
       {
          "tag": "shirt",
-         "filename": "shirt.webp"
+         "filename": "shirt.png"
       },
       {
          "tag": "shoulder_pads",
-         "filename": "shoulder_pads.webp"
+         "filename": "shoulder_pads.png"
       },
       {
          "tag": "sleeveless",
-         "filename": "sleeveless.webp"
+         "filename": "sleeveless.png"
       },
       {
          "tag": "sleeveless_shirt",
-         "filename": "sleeveless_shirt.webp"
+         "filename": "sleeveless_shirt.png"
       },
       {
          "tag": "sleeveless_turtleneck",
-         "filename": "sleeveless_turtleneck.webp"
+         "filename": "sleeveless_turtleneck.png"
       },
       {
          "tag": "strap_slip",
-         "filename": "strap_slip.webp"
+         "filename": "strap_slip.png"
       },
       {
          "tag": "strapless",
-         "filename": "strapless.webp"
+         "filename": "strapless.png"
       },
       {
          "tag": "strapless_leotard",
-         "filename": "strapless_leotard.webp"
+         "filename": "strapless_leotard.png"
       },
       {
          "tag": "striped_shirt",
-         "filename": "striped_shirt.webp"
+         "filename": "striped_shirt.png"
       },
       {
          "tag": "sweater",
-         "filename": "sweater.webp"
+         "filename": "sweater.png"
       },
       {
          "tag": "sweater_vest",
-         "filename": "sweater_vest.webp"
+         "filename": "sweater_vest.png"
       },
       {
          "tag": "t-shirt",
-         "filename": "t-shirt.webp"
+         "filename": "t-shirt.png"
       },
       {
          "tag": "tabard",
-         "filename": "tabard.webp"
+         "filename": "tabard.png"
       },
       {
          "tag": "tank_top",
-         "filename": "tank_top.webp"
+         "filename": "tank_top.png"
       },
       {
          "tag": "tube_top",
-         "filename": "tube_top.webp"
+         "filename": "tube_top.png"
       },
       {
          "tag": "turtleneck",
-         "filename": "turtleneck.webp"
+         "filename": "turtleneck.png"
       },
       {
          "tag": "underbust",
-         "filename": "underbust.webp"
+         "filename": "underbust.png"
       },
       {
          "tag": "vest",
-         "filename": "vest.webp"
+         "filename": "vest.png"
       },
       {
          "tag": "waistcoat",
-         "filename": "waistcoat.webp"
+         "filename": "waistcoat.png"
       },
       {
          "tag": "white_shirt",
-         "filename": "white_shirt.webp"
+         "filename": "white_shirt.png"
       }
    ],
    "bottomwear": [
       {
          "tag": "bike_shorts",
-         "filename": "bike_shorts.webp"
+         "filename": "bike_shorts.png"
       },
       {
          "tag": "bloomers",
-         "filename": "bloomers.webp"
+         "filename": "bloomers.png"
       },
       {
          "tag": "bubble_skirt",
-         "filename": "bubble_skirt.webp"
+         "filename": "bubble_skirt.png"
       },
       {
          "tag": "denim_shorts",
-         "filename": "denim_shorts.webp"
+         "filename": "denim_shorts.png"
       },
       {
          "tag": "high-waist_skirt",
-         "filename": "high-waist_skirt.webp"
+         "filename": "high-waist_skirt.png"
       },
       {
          "tag": "jeans",
-         "filename": "jeans.webp"
+         "filename": "jeans.png"
       },
       {
          "tag": "layered_skirt",
-         "filename": "layered_skirt.webp"
+         "filename": "layered_skirt.png"
       },
       {
          "tag": "long_skirt",
-         "filename": "long_skirt.webp"
+         "filename": "long_skirt.png"
       },
       {
          "tag": "micro_shorts",
-         "filename": "micro_shorts.webp"
+         "filename": "micro_shorts.png"
       },
       {
          "tag": "microskirt",
-         "filename": "microskirt.webp"
+         "filename": "microskirt.png"
       },
       {
          "tag": "miniskirt",
-         "filename": "miniskirt.webp"
+         "filename": "miniskirt.png"
       },
       {
          "tag": "pants",
-         "filename": "pants.webp"
+         "filename": "pants.png"
       },
       {
          "tag": "pelvic_curtain",
-         "filename": "pelvic_curtain.webp"
+         "filename": "pelvic_curtain.png"
       },
       {
          "tag": "petticoat",
-         "filename": "petticoat.webp"
+         "filename": "petticoat.png"
       },
       {
          "tag": "pleated_skirt",
-         "filename": "pleated_skirt.webp"
+         "filename": "pleated_skirt.png"
       },
       {
          "tag": "sarong",
-         "filename": "sarong.webp"
+         "filename": "sarong.png"
       },
       {
          "tag": "short_shorts",
-         "filename": "short_shorts.webp"
+         "filename": "short_shorts.png"
       },
       {
          "tag": "shorts",
-         "filename": "shorts.webp"
+         "filename": "shorts.png"
       },
       {
          "tag": "skirt",
-         "filename": "skirt.webp"
+         "filename": "skirt.png"
       },
       {
          "tag": "suspender_skirt",
-         "filename": "suspender_skirt.webp"
+         "filename": "suspender_skirt.png"
       }
    ],
    "legwear": [
       {
          "tag": "bobby_socks",
-         "filename": "bobby_socks.webp"
+         "filename": "bobby_socks.png"
       },
       {
          "tag": "fishnet_legwear",
-         "filename": "fishnet_legwear.webp"
+         "filename": "fishnet_legwear.png"
       },
       {
          "tag": "garter_straps",
-         "filename": "garter_straps.webp"
+         "filename": "garter_straps.png"
       },
       {
          "tag": "kneehighs",
-         "filename": "kneehighs.webp"
+         "filename": "kneehighs.png"
       },
       {
          "tag": "lace-trimmed_legwear",
-         "filename": "lace-trimmed_legwear.webp"
+         "filename": "lace-trimmed_legwear.png"
       },
       {
          "tag": "leggings",
-         "filename": "leggings.webp"
+         "filename": "leggings.png"
       },
       {
          "tag": "loose_socks",
-         "filename": "loose_socks.webp"
+         "filename": "loose_socks.png"
       },
       {
          "tag": "pantyhose",
-         "filename": "pantyhose.webp"
+         "filename": "pantyhose.png"
       },
       {
          "tag": "print_legwear",
-         "filename": "print_legwear.webp"
+         "filename": "print_legwear.png"
       },
       {
          "tag": "socks",
-         "filename": "socks.webp"
+         "filename": "socks.png"
       },
       {
          "tag": "striped_legwear",
-         "filename": "striped_legwear.webp"
+         "filename": "striped_legwear.png"
       },
       {
          "tag": "thigh_strap",
-         "filename": "thigh_strap.webp"
+         "filename": "thigh_strap.png"
       },
       {
          "tag": "thighband_pantyhose",
-         "filename": "thighband_pantyhose.webp"
+         "filename": "thighband_pantyhose.png"
       },
       {
          "tag": "thighhighs",
-         "filename": "thighhighs.webp"
+         "filename": "thighhighs.png"
       }
    ],
    "footwear": [
       {
          "tag": "ankle_boots",
-         "filename": "ankle_boots.webp"
+         "filename": "ankle_boots.png"
       },
       {
          "tag": "armored_boots",
-         "filename": "armored_boots.webp"
+         "filename": "armored_boots.png"
       },
       {
          "tag": "boots",
-         "filename": "boots.webp"
+         "filename": "boots.png"
       },
       {
          "tag": "cross-laced_footwear",
-         "filename": "cross-laced_footwear.webp"
+         "filename": "cross-laced_footwear.png"
       },
       {
          "tag": "high_heel_boots",
-         "filename": "high_heel_boots.webp"
+         "filename": "high_heel_boots.png"
       },
       {
          "tag": "high_heels",
-         "filename": "high_heels.webp"
+         "filename": "high_heels.png"
       },
       {
          "tag": "knee_boots",
-         "filename": "knee_boots.webp"
+         "filename": "knee_boots.png"
       },
       {
          "tag": "lace-up_boots",
-         "filename": "lace-up_boots.webp"
+         "filename": "lace-up_boots.png"
       },
       {
          "tag": "loafers",
-         "filename": "loafers.webp"
+         "filename": "loafers.png"
       },
       {
          "tag": "mary_janes",
-         "filename": "mary_janes.webp"
+         "filename": "mary_janes.png"
       },
       {
          "tag": "platform_footwear",
-         "filename": "platform_footwear.webp"
+         "filename": "platform_footwear.png"
       },
       {
          "tag": "sandals",
-         "filename": "sandals.webp"
+         "filename": "sandals.png"
       },
       {
          "tag": "slippers",
-         "filename": "slippers.webp"
+         "filename": "slippers.png"
       },
       {
          "tag": "sneakers",
-         "filename": "sneakers.webp"
+         "filename": "sneakers.png"
       },
       {
          "tag": "thigh_boots",
-         "filename": "thigh_boots.webp"
+         "filename": "thigh_boots.png"
       }
    ],
    "costume": [
       {
          "tag": "animal_costume",
-         "filename": "animal_costume.webp"
+         "filename": "animal_costume.png"
       },
       {
          "tag": "armor",
-         "filename": "armor.webp"
+         "filename": "armor.png"
       },
       {
          "tag": "bikini",
-         "filename": "bikini.webp"
+         "filename": "bikini.png"
       },
       {
          "tag": "bikini_armor",
-         "filename": "bikini_armor.webp"
+         "filename": "bikini_armor.png"
       },
       {
          "tag": "bikini_skirt",
-         "filename": "bikini_skirt.webp"
+         "filename": "bikini_skirt.png"
       },
       {
          "tag": "bodysuit",
-         "filename": "bodysuit.webp"
+         "filename": "bodysuit.png"
       },
       {
          "tag": "casual",
-         "filename": "casual.webp"
+         "filename": "casual.png"
       },
       {
          "tag": "casual_one-piece_swimsuit",
-         "filename": "casual_one-piece_swimsuit.webp"
+         "filename": "casual_one-piece_swimsuit.png"
       },
       {
          "tag": "cat_girl",
-         "filename": "cat_girl.webp"
+         "filename": "cat_girl.png"
       },
       {
          "tag": "cheerleader",
-         "filename": "cheerleader.webp"
+         "filename": "cheerleader.png"
       },
       {
          "tag": "chinese_clothes",
-         "filename": "chinese_clothes.webp"
+         "filename": "chinese_clothes.png"
       },
       {
          "tag": "competition_swimsuit",
-         "filename": "competition_swimsuit.webp"
+         "filename": "competition_swimsuit.png"
       },
       {
          "tag": "cosplay",
-         "filename": "cosplay.webp"
+         "filename": "cosplay.png"
       },
       {
          "tag": "elf",
-         "filename": "elf.webp"
+         "filename": "elf.png"
       },
       {
          "tag": "fox_girl",
-         "filename": "fox_girl.webp"
+         "filename": "fox_girl.png"
       },
       {
          "tag": "gakuran",
-         "filename": "gakuran.webp"
+         "filename": "gakuran.png"
       },
       {
          "tag": "gym_uniform",
-         "filename": "gym_uniform.webp"
+         "filename": "gym_uniform.png"
       },
       {
          "tag": "hakama",
-         "filename": "hakama.webp"
+         "filename": "hakama.png"
       },
       {
          "tag": "hakama_short_skirt",
-         "filename": "hakama_short_skirt.webp"
+         "filename": "hakama_short_skirt.png"
       },
       {
          "tag": "hakama_skirt",
-         "filename": "hakama_skirt.webp"
+         "filename": "hakama_skirt.png"
       },
       {
          "tag": "haori",
-         "filename": "haori.webp"
+         "filename": "haori.png"
       },
       {
          "tag": "hood",
-         "filename": "hood.webp"
+         "filename": "hood.png"
       },
       {
          "tag": "horse_girl",
-         "filename": "horse_girl.webp"
+         "filename": "horse_girl.png"
       },
       {
          "tag": "japanese_clothes",
-         "filename": "japanese_clothes.webp"
+         "filename": "japanese_clothes.png"
       },
       {
          "tag": "kimono",
-         "filename": "kimono.webp"
+         "filename": "kimono.png"
       },
       {
          "tag": "lolita_fashion",
-         "filename": "lolita_fashion.webp"
+         "filename": "lolita_fashion.png"
       },
       {
          "tag": "magical_girl",
-         "filename": "magical_girl.webp"
+         "filename": "magical_girl.png"
       },
       {
          "tag": "maid",
-         "filename": "maid.webp"
+         "filename": "maid.png"
       },
       {
          "tag": "maid_apron",
-         "filename": "maid_apron.webp"
+         "filename": "maid_apron.png"
       },
       {
          "tag": "micro_bikini",
-         "filename": "micro_bikini.webp"
+         "filename": "micro_bikini.png"
       },
       {
          "tag": "miko",
-         "filename": "miko.webp"
+         "filename": "miko.png"
       },
       {
          "tag": "military_uniform",
-         "filename": "military_uniform.webp"
+         "filename": "military_uniform.png"
       },
       {
          "tag": "monster_girl",
-         "filename": "monster_girl.webp"
+         "filename": "monster_girl.png"
       },
       {
          "tag": "nontraditional_miko",
-         "filename": "nontraditional_miko.webp"
+         "filename": "nontraditional_miko.png"
       },
       {
          "tag": "o-ring_bikini",
-         "filename": "o-ring_bikini.webp"
+         "filename": "o-ring_bikini.png"
       },
       {
          "tag": "o-ring_top",
-         "filename": "o-ring_top.webp"
+         "filename": "o-ring_top.png"
       },
       {
          "tag": "one-piece_swimsuit",
-         "filename": "one-piece_swimsuit.webp"
+         "filename": "one-piece_swimsuit.png"
       },
       {
          "tag": "overalls",
-         "filename": "overalls.webp"
+         "filename": "overalls.png"
       },
       {
          "tag": "pajamas",
-         "filename": "pajamas.webp"
+         "filename": "pajamas.png"
       },
       {
          "tag": "pilot_suit",
-         "filename": "pilot_suit.webp"
+         "filename": "pilot_suit.png"
       },
       {
          "tag": "playboy_bunny",
-         "filename": "playboy_bunny.webp"
+         "filename": "playboy_bunny.png"
       },
       {
          "tag": "plugsuit",
-         "filename": "plugsuit.webp"
+         "filename": "plugsuit.png"
       },
       {
          "tag": "santa_costume",
-         "filename": "santa_costume.webp"
+         "filename": "santa_costume.png"
       },
       {
          "tag": "school_swimsuit",
-         "filename": "school_swimsuit.webp"
+         "filename": "school_swimsuit.png"
       },
       {
          "tag": "school_uniform",
-         "filename": "school_uniform.webp"
+         "filename": "school_uniform.png"
       },
       {
          "tag": "serafuku",
-         "filename": "serafuku.webp"
+         "filename": "serafuku.png"
       },
       {
          "tag": "short_kimono",
-         "filename": "short_kimono.webp"
+         "filename": "short_kimono.png"
       },
       {
          "tag": "side-tie_bikini_bottom",
-         "filename": "side-tie_bikini_bottom.webp"
+         "filename": "side-tie_bikini_bottom.png"
       },
       {
          "tag": "slingshot_swimsuit",
-         "filename": "slingshot_swimsuit.webp"
+         "filename": "slingshot_swimsuit.png"
       },
       {
          "tag": "sportswear",
-         "filename": "sportswear.webp"
+         "filename": "sportswear.png"
       },
       {
          "tag": "string_bikini",
-         "filename": "string_bikini.webp"
+         "filename": "string_bikini.png"
       },
       {
          "tag": "suit",
-         "filename": "suit.webp"
+         "filename": "suit.png"
       },
       {
          "tag": "swimsuit",
-         "filename": "swimsuit.webp"
+         "filename": "swimsuit.png"
       },
       {
          "tag": "torn_clothes",
-         "filename": "torn_clothes.webp"
+         "filename": "torn_clothes.png"
       },
       {
          "tag": "track_suit",
-         "filename": "track_suit.webp"
+         "filename": "track_suit.png"
       },
       {
          "tag": "waitress",
-         "filename": "waitress.webp"
+         "filename": "waitress.png"
       },
       {
          "tag": "yukata",
-         "filename": "yukata.webp"
+         "filename": "yukata.png"
       }
    ],
    "dress": [
       {
          "tag": "armored_dress",
-         "filename": "armored_dress.webp"
+         "filename": "armored_dress.png"
       },
       {
          "tag": "backless_dress",
-         "filename": "backless_dress.webp"
+         "filename": "backless_dress.png"
       },
       {
          "tag": "black_dress",
-         "filename": "black_dress.webp"
+         "filename": "black_dress.png"
       },
       {
          "tag": "blue_dress",
-         "filename": "blue_dress.webp"
+         "filename": "blue_dress.png"
       },
       {
          "tag": "brown_dress",
-         "filename": "brown_dress.webp"
+         "filename": "brown_dress.png"
       },
       {
          "tag": "china_dress",
-         "filename": "china_dress.webp"
+         "filename": "china_dress.png"
       },
       {
          "tag": "collared_dress",
-         "filename": "collared_dress.webp"
+         "filename": "collared_dress.png"
       },
       {
          "tag": "dress",
-         "filename": "dress.webp"
+         "filename": "dress.png"
       },
       {
          "tag": "dress_lift",
-         "filename": "dress_lift.webp"
+         "filename": "dress_lift.png"
       },
       {
          "tag": "frilled_dress",
-         "filename": "frilled_dress.webp"
+         "filename": "frilled_dress.png"
       },
       {
          "tag": "green_dress",
-         "filename": "green_dress.webp"
+         "filename": "green_dress.png"
       },
       {
          "tag": "grey_dress",
-         "filename": "grey_dress.webp"
+         "filename": "grey_dress.png"
       },
       {
          "tag": "layered_dress",
-         "filename": "layered_dress.webp"
+         "filename": "layered_dress.png"
       },
       {
          "tag": "long_dress",
-         "filename": "long_dress.webp"
+         "filename": "long_dress.png"
       },
       {
          "tag": "multicolored_dress",
-         "filename": "multicolored_dress.webp"
+         "filename": "multicolored_dress.png"
       },
       {
          "tag": "nightgown",
-         "filename": "nightgown.webp"
+         "filename": "nightgown.png"
       },
       {
          "tag": "off-shoulder_dress",
-         "filename": "off-shoulder_dress.webp"
+         "filename": "off-shoulder_dress.png"
       },
       {
          "tag": "pinafore_dress",
-         "filename": "pinafore_dress.webp"
+         "filename": "pinafore_dress.png"
       },
       {
          "tag": "pink_dress",
-         "filename": "pink_dress.webp"
+         "filename": "pink_dress.png"
       },
       {
          "tag": "pleated_dress",
-         "filename": "pleated_dress.webp"
+         "filename": "pleated_dress.png"
       },
       {
          "tag": "purple_dress",
-         "filename": "purple_dress.webp"
+         "filename": "purple_dress.png"
       },
       {
          "tag": "red_dress",
-         "filename": "red_dress.webp"
+         "filename": "red_dress.png"
       },
       {
          "tag": "sailor_dress",
-         "filename": "sailor_dress.webp"
+         "filename": "sailor_dress.png"
       },
       {
          "tag": "short_dress",
-         "filename": "short_dress.webp"
+         "filename": "short_dress.png"
       },
       {
          "tag": "side_slit",
-         "filename": "side_slit.webp"
+         "filename": "side_slit.png"
       },
       {
          "tag": "sleeveless_dress",
-         "filename": "sleeveless_dress.webp"
+         "filename": "sleeveless_dress.png"
       },
       {
          "tag": "strapless_dress",
-         "filename": "strapless_dress.webp"
+         "filename": "strapless_dress.png"
       },
       {
          "tag": "striped_dress",
-         "filename": "striped_dress.webp"
+         "filename": "striped_dress.png"
       },
       {
          "tag": "sundress",
-         "filename": "sundress.webp"
+         "filename": "sundress.png"
       },
       {
          "tag": "sweater_dress",
-         "filename": "sweater_dress.webp"
+         "filename": "sweater_dress.png"
       },
       {
          "tag": "wedding_dress",
-         "filename": "wedding_dress.webp"
+         "filename": "wedding_dress.png"
       },
       {
          "tag": "white_dress",
-         "filename": "white_dress.webp"
+         "filename": "white_dress.png"
       },
       {
          "tag": "yellow_dress",
-         "filename": "yellow_dress.webp"
+         "filename": "yellow_dress.png"
       }
    ],
    "posture": [
       {
          "tag": "all_fours",
-         "filename": "all_fours.webp"
+         "filename": "all_fours.png"
       },
       {
          "tag": "arched_back",
-         "filename": "arched_back.webp"
+         "filename": "arched_back.png"
       },
       {
          "tag": "arm_at_side",
-         "filename": "arm_at_side.webp"
+         "filename": "arm_at_side.png"
       },
       {
          "tag": "arm_behind_head",
-         "filename": "arm_behind_head.webp"
+         "filename": "arm_behind_head.png"
       },
       {
          "tag": "arm_up",
-         "filename": "arm_up.webp"
+         "filename": "arm_up.png"
       },
       {
          "tag": "arms_at_sides",
-         "filename": "arms_at_sides.webp"
+         "filename": "arms_at_sides.png"
       },
       {
          "tag": "arms_behind_back",
-         "filename": "arms_behind_back.webp"
+         "filename": "arms_behind_back.png"
       },
       {
          "tag": "arms_behind_head",
-         "filename": "arms_behind_head.webp"
+         "filename": "arms_behind_head.png"
       },
       {
          "tag": "arms_up",
-         "filename": "arms_up.webp"
+         "filename": "arms_up.png"
       },
       {
          "tag": "claw_pose",
-         "filename": "claw_pose.webp"
+         "filename": "claw_pose.png"
       },
       {
          "tag": "crossed_arms",
-         "filename": "crossed_arms.webp"
+         "filename": "crossed_arms.png"
       },
       {
          "tag": "crossed_legs",
-         "filename": "crossed_legs.webp"
+         "filename": "crossed_legs.png"
       },
       {
          "tag": "fighting_stance",
-         "filename": "fighting_stance.webp"
+         "filename": "fighting_stance.png"
       },
       {
          "tag": "head_rest",
-         "filename": "head_rest.webp"
+         "filename": "head_rest.png"
       },
       {
          "tag": "head_tilt",
-         "filename": "head_tilt.webp"
+         "filename": "head_tilt.png"
       },
       {
          "tag": "hugging_own_legs",
-         "filename": "hugging_own_legs.webp"
+         "filename": "hugging_own_legs.png"
       },
       {
          "tag": "indian_style",
-         "filename": "indian_style.webp"
+         "filename": "indian_style.png"
       },
       {
          "tag": "interlocked_fingers",
-         "filename": "interlocked_fingers.webp"
+         "filename": "interlocked_fingers.png"
       },
       {
          "tag": "jumping",
-         "filename": "jumping.webp"
+         "filename": "jumping.png"
       },
       {
          "tag": "kneeling",
-         "filename": "kneeling.webp"
+         "filename": "kneeling.png"
       },
       {
          "tag": "leaning_back",
-         "filename": "leaning_back.webp"
+         "filename": "leaning_back.png"
       },
       {
          "tag": "leaning_forward",
-         "filename": "leaning_forward.webp"
+         "filename": "leaning_forward.png"
       },
       {
          "tag": "legs_apart",
-         "filename": "legs_apart.webp"
+         "filename": "legs_apart.png"
       },
       {
          "tag": "lying",
-         "filename": "lying.webp"
+         "filename": "lying.png"
       },
       {
          "tag": "on_back",
-         "filename": "on_back.webp"
+         "filename": "on_back.png"
       },
       {
          "tag": "on_side",
-         "filename": "on_side.webp"
+         "filename": "on_side.png"
       },
       {
          "tag": "outstretched_arm",
-         "filename": "outstretched_arm.webp"
+         "filename": "outstretched_arm.png"
       },
       {
          "tag": "outstretched_arms",
-         "filename": "outstretched_arms.webp"
+         "filename": "outstretched_arms.png"
       },
       {
          "tag": "own_hands_clasped",
-         "filename": "own_hands_clasped.webp"
+         "filename": "own_hands_clasped.png"
       },
       {
          "tag": "own_hands_together",
-         "filename": "own_hands_together.webp"
+         "filename": "own_hands_together.png"
       },
       {
          "tag": "paw_pose",
-         "filename": "paw_pose.webp"
+         "filename": "paw_pose.png"
       },
       {
          "tag": "reaching",
-         "filename": "reaching.webp"
+         "filename": "reaching.png"
       },
       {
          "tag": "reclining",
-         "filename": "reclining.webp"
+         "filename": "reclining.png"
       },
       {
          "tag": "running",
-         "filename": "running.webp"
+         "filename": "running.png"
       },
       {
          "tag": "seiza",
-         "filename": "seiza.webp"
+         "filename": "seiza.png"
       },
       {
          "tag": "sitting",
-         "filename": "sitting.webp"
+         "filename": "sitting.png"
       },
       {
          "tag": "spread_arms",
-         "filename": "spread_arms.webp"
+         "filename": "spread_arms.png"
       },
       {
          "tag": "squatting",
-         "filename": "squatting.webp"
+         "filename": "squatting.png"
       },
       {
          "tag": "standing",
-         "filename": "standing.webp"
+         "filename": "standing.png"
       },
       {
          "tag": "standing_on_one_leg",
-         "filename": "standing_on_one_leg.webp"
+         "filename": "standing_on_one_leg.png"
       },
       {
          "tag": "standing_split",
-         "filename": "standing_split.webp"
+         "filename": "standing_split.png"
       },
       {
          "tag": "stretching",
-         "filename": "stretching.webp"
+         "filename": "stretching.png"
       },
       {
          "tag": "tiptoes",
-         "filename": "tiptoes.webp"
+         "filename": "tiptoes.png"
       },
       {
          "tag": "twisted_torso",
-         "filename": "twisted_torso.webp"
+         "filename": "twisted_torso.png"
       },
       {
          "tag": "v_arms",
-         "filename": "v_arms.webp"
+         "filename": "v_arms.png"
       },
       {
          "tag": "walking",
-         "filename": "walking.webp"
+         "filename": "walking.png"
       }
    ],
    "action": [
       {
          "tag": "bathing",
-         "filename": "bathing.webp"
+         "filename": "bathing.png"
       },
       {
          "tag": "battle",
-         "filename": "battle.webp"
+         "filename": "battle.png"
       },
       {
          "tag": "biting",
-         "filename": "biting.webp"
+         "filename": "biting.png"
       },
       {
          "tag": "carrying",
-         "filename": "carrying.webp"
+         "filename": "carrying.png"
       },
       {
          "tag": "cooking",
-         "filename": "cooking.webp"
+         "filename": "cooking.png"
       },
       {
          "tag": "dancing",
-         "filename": "dancing.webp"
+         "filename": "dancing.png"
       },
       {
          "tag": "drinking",
-         "filename": "drinking.webp"
+         "filename": "drinking.png"
       },
       {
          "tag": "eating",
-         "filename": "eating.webp"
+         "filename": "eating.png"
       },
       {
          "tag": "falling",
-         "filename": "falling.webp"
+         "filename": "falling.png"
       },
       {
          "tag": "feeding",
-         "filename": "feeding.webp"
+         "filename": "feeding.png"
       },
       {
          "tag": "fingering",
-         "filename": "fingering.webp"
+         "filename": "fingering.png"
       },
       {
          "tag": "floating",
-         "filename": "floating.webp"
+         "filename": "floating.png"
       },
       {
          "tag": "flying",
-         "filename": "flying.webp"
+         "filename": "flying.png"
       },
       {
          "tag": "laughing",
-         "filename": "laughing.webp"
+         "filename": "laughing.png"
       },
       {
          "tag": "looking_at_viewer",
-         "filename": "looking_at_viewer.webp"
+         "filename": "looking_at_viewer.png"
       },
       {
          "tag": "looking_away",
-         "filename": "looking_away.webp"
+         "filename": "looking_away.png"
       },
       {
          "tag": "looking_back",
-         "filename": "looking_back.webp"
+         "filename": "looking_back.png"
       },
       {
          "tag": "looking_up",
-         "filename": "looking_up.webp"
+         "filename": "looking_up.png"
       },
       {
          "tag": "playing_games",
-         "filename": "playing_games.webp"
+         "filename": "playing_games.png"
       },
       {
          "tag": "playing_instrument",
-         "filename": "playing_instrument.webp"
+         "filename": "playing_instrument.png"
       },
       {
          "tag": "pointing",
-         "filename": "pointing.webp"
+         "filename": "pointing.png"
       },
       {
          "tag": "pointing_at_viewer",
-         "filename": "pointing_at_viewer.webp"
+         "filename": "pointing_at_viewer.png"
       },
       {
          "tag": "pose",
-         "filename": "pose.webp"
+         "filename": "pose.png"
       },
       {
          "tag": "punching",
-         "filename": "punching.webp"
+         "filename": "punching.png"
       },
       {
          "tag": "reading",
-         "filename": "reading.webp"
+         "filename": "reading.png"
       },
       {
          "tag": "riding",
-         "filename": "riding.webp"
+         "filename": "riding.png"
       },
       {
          "tag": "shouting",
-         "filename": "shouting.webp"
+         "filename": "shouting.png"
       },
       {
          "tag": "singing",
-         "filename": "singing.webp"
+         "filename": "singing.png"
       },
       {
          "tag": "sleeping",
-         "filename": "sleeping.webp"
+         "filename": "sleeping.png"
       },
       {
          "tag": "smoking",
-         "filename": "smoking.webp"
+         "filename": "smoking.png"
       },
       {
          "tag": "snowing",
-         "filename": "snowing.webp"
+         "filename": "snowing.png"
       },
       {
          "tag": "splashing",
-         "filename": "splashing.webp"
+         "filename": "splashing.png"
       },
       {
          "tag": "talking",
-         "filename": "talking.webp"
+         "filename": "talking.png"
       },
       {
          "tag": "wading",
-         "filename": "wading.webp"
+         "filename": "wading.png"
       },
       {
          "tag": "waving",
-         "filename": "waving.webp"
+         "filename": "waving.png"
       },
       {
          "tag": "yawning",
-         "filename": "yawning.webp"
+         "filename": "yawning.png"
       }
    ],
    "item": [
       {
          "tag": "backpack",
-         "filename": "backpack.webp"
+         "filename": "backpack.png"
       },
       {
          "tag": "bed",
-         "filename": "bed.webp"
+         "filename": "bed.png"
       },
       {
          "tag": "blanket",
-         "filename": "blanket.webp"
+         "filename": "blanket.png"
       },
       {
          "tag": "book",
-         "filename": "book.webp"
+         "filename": "book.png"
       },
       {
          "tag": "bottle",
-         "filename": "bottle.webp"
+         "filename": "bottle.png"
       },
       {
          "tag": "bowl",
-         "filename": "bowl.webp"
+         "filename": "bowl.png"
       },
       {
          "tag": "broom",
-         "filename": "broom.webp"
+         "filename": "broom.png"
       },
       {
          "tag": "bucket",
-         "filename": "bucket.webp"
+         "filename": "bucket.png"
       },
       {
          "tag": "cake",
-         "filename": "cake.webp"
+         "filename": "cake.png"
       },
       {
          "tag": "camera",
-         "filename": "camera.webp"
+         "filename": "camera.png"
       },
       {
          "tag": "candy",
-         "filename": "candy.webp"
+         "filename": "candy.png"
       },
       {
          "tag": "car",
-         "filename": "car.webp"
+         "filename": "car.png"
       },
       {
          "tag": "chair",
-         "filename": "chair.webp"
+         "filename": "chair.png"
       },
       {
          "tag": "clock",
-         "filename": "clock.webp"
+         "filename": "clock.png"
       },
       {
          "tag": "curtains",
-         "filename": "curtains.webp"
+         "filename": "curtains.png"
       },
       {
          "tag": "desk",
-         "filename": "desk.webp"
+         "filename": "desk.png"
       },
       {
          "tag": "feathers",
-         "filename": "feathers.webp"
+         "filename": "feathers.png"
       },
       {
          "tag": "fire",
-         "filename": "fire.webp"
+         "filename": "fire.png"
       },
       {
          "tag": "fish",
-         "filename": "fish.webp"
+         "filename": "fish.png"
       },
       {
          "tag": "gift",
-         "filename": "gift.webp"
+         "filename": "gift.png"
       },
       {
          "tag": "grass",
-         "filename": "grass.webp"
+         "filename": "grass.png"
       },
       {
          "tag": "headset",
-         "filename": "headset.webp"
+         "filename": "headset.png"
       },
       {
          "tag": "knife",
-         "filename": "knife.webp"
+         "filename": "knife.png"
       },
       {
          "tag": "lamp",
-         "filename": "lamp.webp"
+         "filename": "lamp.png"
       },
       {
          "tag": "laptop",
-         "filename": "laptop.webp"
+         "filename": "laptop.png"
       },
       {
          "tag": "lipstick",
-         "filename": "lipstick.webp"
+         "filename": "lipstick.png"
       },
       {
          "tag": "microphone",
-         "filename": "microphone.webp"
+         "filename": "microphone.png"
       },
       {
          "tag": "mirror",
-         "filename": "mirror.webp"
+         "filename": "mirror.png"
       },
       {
          "tag": "pen",
-         "filename": "pen.webp"
+         "filename": "pen.png"
       },
       {
          "tag": "phone",
-         "filename": "phone.webp"
+         "filename": "phone.png"
       },
       {
          "tag": "pillow",
-         "filename": "pillow.webp"
+         "filename": "pillow.png"
       },
       {
          "tag": "robot",
-         "filename": "robot.webp"
+         "filename": "robot.png"
       },
       {
          "tag": "spear",
-         "filename": "spear.webp"
+         "filename": "spear.png"
       },
       {
          "tag": "staff",
-         "filename": "staff.webp"
+         "filename": "staff.png"
       },
       {
          "tag": "sunglasses",
-         "filename": "sunglasses.webp"
+         "filename": "sunglasses.png"
       },
       {
          "tag": "table",
-         "filename": "table.webp"
+         "filename": "table.png"
       },
       {
          "tag": "teacup",
-         "filename": "teacup.webp"
+         "filename": "teacup.png"
       },
       {
          "tag": "television",
-         "filename": "television.webp"
+         "filename": "television.png"
       },
       {
          "tag": "water_bottle",
-         "filename": "water_bottle.webp"
+         "filename": "water_bottle.png"
       }
    ],
    "place": [
       {
          "tag": "bamboo_forest",
-         "filename": "bamboo_forest.webp"
+         "filename": "bamboo_forest.png"
       },
       {
          "tag": "bathroom",
-         "filename": "bathroom.webp"
+         "filename": "bathroom.png"
       },
       {
          "tag": "beach",
-         "filename": "beach.webp"
+         "filename": "beach.png"
       },
       {
          "tag": "bedroom",
-         "filename": "bedroom.webp"
+         "filename": "bedroom.png"
       },
       {
          "tag": "bridge",
-         "filename": "bridge.webp"
+         "filename": "bridge.png"
       },
       {
          "tag": "building",
-         "filename": "building.webp"
+         "filename": "building.png"
       },
       {
          "tag": "castle",
-         "filename": "castle.webp"
+         "filename": "castle.png"
       },
       {
          "tag": "city",
-         "filename": "city.webp"
+         "filename": "city.png"
       },
       {
          "tag": "classroom",
-         "filename": "classroom.webp"
+         "filename": "classroom.png"
       },
       {
          "tag": "field",
-         "filename": "field.webp"
+         "filename": "field.png"
       },
       {
          "tag": "flower_field",
-         "filename": "flower_field.webp"
+         "filename": "flower_field.png"
       },
       {
          "tag": "forest",
-         "filename": "forest.webp"
+         "filename": "forest.png"
       },
       {
          "tag": "house",
-         "filename": "house.webp"
+         "filename": "house.png"
       },
       {
          "tag": "indoors",
-         "filename": "indoors.webp"
+         "filename": "indoors.png"
       },
       {
          "tag": "kitchen",
-         "filename": "kitchen.webp"
+         "filename": "kitchen.png"
       },
       {
          "tag": "lake",
-         "filename": "lake.webp"
+         "filename": "lake.png"
       },
       {
          "tag": "library",
-         "filename": "library.webp"
+         "filename": "library.png"
       },
       {
          "tag": "mountain",
-         "filename": "mountain.webp"
+         "filename": "mountain.png"
       },
       {
          "tag": "nature",
-         "filename": "nature.webp"
+         "filename": "nature.png"
       },
       {
          "tag": "ocean",
-         "filename": "ocean.webp"
+         "filename": "ocean.png"
       },
       {
          "tag": "onsen",
-         "filename": "onsen.webp"
+         "filename": "onsen.png"
       },
       {
          "tag": "outdoors",
-         "filename": "outdoors.webp"
+         "filename": "outdoors.png"
       },
       {
          "tag": "pool",
-         "filename": "pool.webp"
+         "filename": "pool.png"
       },
       {
          "tag": "poolside",
-         "filename": "poolside.webp"
+         "filename": "poolside.png"
       },
       {
          "tag": "river",
-         "filename": "river.webp"
+         "filename": "river.png"
       },
       {
          "tag": "road",
-         "filename": "road.webp"
+         "filename": "road.png"
       },
       {
          "tag": "rooftop",
-         "filename": "rooftop.webp"
+         "filename": "rooftop.png"
       },
       {
          "tag": "ruins",
-         "filename": "ruins.webp"
+         "filename": "ruins.png"
       },
       {
          "tag": "scenery",
-         "filename": "scenery.webp"
+         "filename": "scenery.png"
       },
       {
          "tag": "shop",
-         "filename": "shop.webp"
+         "filename": "shop.png"
       },
       {
          "tag": "shore",
-         "filename": "shore.webp"
+         "filename": "shore.png"
       },
       {
          "tag": "sky",
-         "filename": "sky.webp"
+         "filename": "sky.png"
       },
       {
          "tag": "skyscraper",
-         "filename": "skyscraper.webp"
+         "filename": "skyscraper.png"
       },
       {
          "tag": "street",
-         "filename": "street.webp"
+         "filename": "street.png"
       },
       {
          "tag": "sunset",
-         "filename": "sunset.webp"
+         "filename": "sunset.png"
       },
       {
          "tag": "tower",
-         "filename": "tower.webp"
+         "filename": "tower.png"
       },
       {
          "tag": "water",
-         "filename": "water.webp"
+         "filename": "water.png"
       },
       {
          "tag": "waterfall",
-         "filename": "waterfall.webp"
+         "filename": "waterfall.png"
       }
    ],
    "background": [
       {
          "tag": "backlighting",
-         "filename": "backlighting.webp"
+         "filename": "backlighting.png"
       },
       {
          "tag": "beige_background",
-         "filename": "beige_background.webp"
+         "filename": "beige_background.png"
       },
       {
          "tag": "black_background",
-         "filename": "black_background.webp"
+         "filename": "black_background.png"
       },
       {
          "tag": "blue_background",
-         "filename": "blue_background.webp"
+         "filename": "blue_background.png"
       },
       {
          "tag": "blurry_background",
-         "filename": "blurry_background.webp"
+         "filename": "blurry_background.png"
       },
       {
          "tag": "brown_background",
-         "filename": "brown_background.webp"
+         "filename": "brown_background.png"
       },
       {
          "tag": "checkered_background",
-         "filename": "checkered_background.webp"
+         "filename": "checkered_background.png"
       },
       {
          "tag": "floral_background",
-         "filename": "floral_background.webp"
+         "filename": "floral_background.png"
       },
       {
          "tag": "gradient_background",
-         "filename": "gradient_background.webp"
+         "filename": "gradient_background.png"
       },
       {
          "tag": "green_background",
-         "filename": "green_background.webp"
+         "filename": "green_background.png"
       },
       {
          "tag": "grey_background",
-         "filename": "grey_background.webp"
+         "filename": "grey_background.png"
       },
       {
          "tag": "orange_background",
-         "filename": "orange_background.webp"
+         "filename": "orange_background.png"
       },
       {
          "tag": "pink_background",
-         "filename": "pink_background.webp"
+         "filename": "pink_background.png"
       },
       {
          "tag": "purple_background",
-         "filename": "purple_background.webp"
+         "filename": "purple_background.png"
       },
       {
          "tag": "red_background",
-         "filename": "red_background.webp"
+         "filename": "red_background.png"
       },
       {
          "tag": "simple_background",
-         "filename": "simple_background.webp"
+         "filename": "simple_background.png"
       },
       {
          "tag": "starry_background",
-         "filename": "starry_background.webp"
+         "filename": "starry_background.png"
       },
       {
          "tag": "striped_background",
-         "filename": "striped_background.webp"
+         "filename": "striped_background.png"
       },
       {
          "tag": "two-tone_background",
-         "filename": "two-tone_background.webp"
+         "filename": "two-tone_background.png"
       },
       {
          "tag": "white_background",
-         "filename": "white_background.webp"
+         "filename": "white_background.png"
       },
       {
          "tag": "yellow_background",
-         "filename": "yellow_background.webp"
+         "filename": "yellow_background.png"
       },
       {
          "tag": "zoom_layer",
-         "filename": "zoom_layer.webp"
+         "filename": "zoom_layer.png"
       }
    ],
    "effect": [
       {
          "tag": "air_bubble",
-         "filename": "air_bubble.webp"
+         "filename": "air_bubble.png"
       },
       {
          "tag": "blurry",
-         "filename": "blurry.webp"
+         "filename": "blurry.png"
       },
       {
          "tag": "bubble",
-         "filename": "bubble.webp"
+         "filename": "bubble.png"
       },
       {
          "tag": "chromatic_aberration",
-         "filename": "chromatic_aberration.webp"
+         "filename": "chromatic_aberration.png"
       },
       {
          "tag": "cloud",
-         "filename": "cloud.webp"
+         "filename": "cloud.png"
       },
       {
          "tag": "depth_of_field",
-         "filename": "depth_of_field.webp"
+         "filename": "depth_of_field.png"
       },
       {
          "tag": "flower",
-         "filename": "flower.webp"
+         "filename": "flower.png"
       },
       {
          "tag": "glowing",
-         "filename": "glowing.webp"
+         "filename": "glowing.png"
       },
       {
          "tag": "greyscale",
-         "filename": "greyscale.webp"
+         "filename": "greyscale.png"
       },
       {
          "tag": "lens_flare",
-         "filename": "lens_flare.webp"
+         "filename": "lens_flare.png"
       },
       {
          "tag": "light",
-         "filename": "light.webp"
+         "filename": "light.png"
       },
       {
          "tag": "light_particles",
-         "filename": "light_particles.webp"
+         "filename": "light_particles.png"
       },
       {
          "tag": "light_rays",
-         "filename": "light_rays.webp"
+         "filename": "light_rays.png"
       },
       {
          "tag": "motion_blur",
-         "filename": "motion_blur.webp"
+         "filename": "motion_blur.png"
       },
       {
          "tag": "musical_note",
-         "filename": "musical_note.webp"
+         "filename": "musical_note.png"
       },
       {
          "tag": "reflection",
-         "filename": "reflection.webp"
+         "filename": "reflection.png"
       },
       {
          "tag": "shadow",
-         "filename": "shadow.webp"
+         "filename": "shadow.png"
       },
       {
          "tag": "sparkle",
-         "filename": "sparkle.webp"
+         "filename": "sparkle.png"
       },
       {
          "tag": "star_(symbol)",
-         "filename": "star_(symbol).webp"
+         "filename": "star_(symbol).png"
       },
       {
          "tag": "sunbeam",
-         "filename": "sunbeam.webp"
+         "filename": "sunbeam.png"
       },
       {
          "tag": "sunlight",
-         "filename": "sunlight.webp"
+         "filename": "sunlight.png"
       }
    ]
 }
