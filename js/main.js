@@ -6,6 +6,18 @@ window.onload = function() {
 	//document.getElementById("loading").style.opacity = 0;
 }
 
+function popup(src) {
+	console.log(src);
+	let popup = document.getElementById("popup");
+
+	popup.addEventListener("animationend", function() {
+		this.classList.remove("blink");
+	});
+
+	popup.style.backgroundImage = "URL('" + src + "')";
+	popup.classList.add("blink");
+}
+
 function home() {
 	window.location.href = location.protocol + '//' + location.host + location.pathname
 }
@@ -73,6 +85,7 @@ function createItem(tag, path, dir) {
 	}
 	else {
 		item.onclick = function () {
+			popup(path);
 			navigator.clipboard.writeText(tag);
 		};
 	}

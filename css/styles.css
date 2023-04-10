@@ -13,6 +13,52 @@ body {
 	background-color: #f7f7f7;
 }
 
+.popup {
+	background-color: #E5E5E5;
+	position: fixed;
+	top: 50vh;
+	left: 50vw;
+
+	z-index: 99999;
+
+	width: min(60vw, 60vh);
+	aspect-ratio: 1/1;
+
+	background-image: url("../data/images/assets/NoImage.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 20px 0px;
+
+	visibility: hidden;
+	opacity: 0;
+	transform: translate(-50%, -50%) scale(1);
+}
+
+.blink {
+	animation: popup 1s ease-in-out;
+}
+
+@keyframes popup {
+	0% {
+		visibility: hidden;
+		opacity: 0;
+		transform: translate(-50%, -50%) scale(1);
+	}
+
+	50% {
+		visibility: visible;
+		opacity: 1;
+		transform: translate(-50%, -50%) scale(1);
+	}
+
+	100% {
+		visibility: hidden;
+		opacity: 0;
+		transform: translate(-50%, -50%) scale(1);
+	}
+}
+
 .loading {
 	position: absolute;
 	background-color: #f7f7f7;
