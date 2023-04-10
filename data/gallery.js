@@ -1411,10 +1411,6 @@ data = {
          "filename": "pelvic_curtain.webp"
       },
       {
-         "tag": "petticoat",
-         "filename": "petticoat.webp"
-      },
-      {
          "tag": "pleated_skirt",
          "filename": "pleated_skirt.webp"
       },
