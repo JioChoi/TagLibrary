@@ -13,7 +13,7 @@
 	<title>The AI Tag Library</title>
 </head>
 <body>
-	<div class="loading" id="loading"></div>
+	<!--<div class="loading" id="loading"></div>-->
 	<script>
 		loadTagData();
 		//preloadIamges();
@@ -26,7 +26,6 @@
 			<h2>a simple tag gallery for ai generated arts</h2>
 		</div>
 	</div>
-
 
 	<div class="container" id="mainContainer">
 		<div class="back" id="back">
@@ -43,6 +42,8 @@
 			<h3>Copyright © 2023 Jio Choi. All Rights Reserved</h3>
 		</div>
 	</footer>
+
+	<img class="popup" onerror="this.src = 'data/images/assets/NoImage.png'"></img>
 	
 	<script>
 		createItems();
