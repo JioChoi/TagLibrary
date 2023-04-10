@@ -2,8 +2,8 @@ var tagData;
 var gallery = null;
 
 window.onload = function() {
-	document.getElementById("loading").style.visibility = "hidden";
-	document.getElementById("loading").style.opacity = 0;
+	//document.getElementById("loading").style.visibility = "hidden";
+	//document.getElementById("loading").style.opacity = 0;
 }
 
 function home() {
@@ -56,6 +56,8 @@ function createItem(tag, path, dir) {
 	img.onerror = function() {
 		this.src = "data/images/assets/NoImage.png";
 	}
+
+	img.loading = "lazy";
 
 	item.classList.add("item");
 	item.ondragstart = function () {
