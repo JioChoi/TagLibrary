@@ -2,7 +2,8 @@ var tagData;
 var gallery = null;
 
 window.onload = function() {
-	document.getElementById("loading").style.display = "none";
+	document.getElementById("loading").style.visibility = "hidden";
+	document.getElementById("loading").style.opacity = 0;
 }
 
 function home() {
