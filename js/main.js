@@ -7,14 +7,12 @@ window.onload = function() {
 }
 
 function popup(src) {
-	console.log(src);
 	let popup = document.getElementById("popup");
 
 	popup.addEventListener("animationend", function() {
 		this.classList.remove("blink");
 	});
 
-	popup.style.backgroundImage = "URL('" + src + "')";
 	popup.classList.add("blink");
 }
 
@@ -85,10 +83,24 @@ function createItem(tag, path, dir) {
 	}
 	else {
 		item.onclick = function () {
-			popup(path);
+			//popup(path);
+			let copy = this.querySelector("#copy");
+			copy.style.animation = "fade 1s";
+			copy.addEventListener("animationend", function() {
+				this.style.animation = "none";
+			});
+
 			navigator.clipboard.writeText(tag);
 		};
 	}
+
+	let copy = document.createElement("div");
+	copy.classList.add("copy");
+	copy.id = "copy";
+
+	let copytext = document.createElement("h1");
+	copytext.innerHTML = "Copied!";
+	copy.appendChild(copytext);
 
 	let subtitle = document.createElement("div");
 	subtitle.classList.add("subtitle");
@@ -99,6 +111,7 @@ function createItem(tag, path, dir) {
 	subtitle.appendChild(title);
 
 	item.appendChild(img);
+	item.appendChild(copy);
 	item.appendChild(subtitle);
 	document.getElementById("mainContainer").appendChild(item);
 }
