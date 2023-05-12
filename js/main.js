@@ -88,8 +88,7 @@ function createItem(tag, path, dir) {
 	else {
 		item.onclick = function () {
 			//popup(path);
-			gtag('event', 'tag_copy', {
-				'tag': tag
+			gtag('event', 'tag: ' + tag, {
 			});
 
 			let copy = this.querySelector("#copy");
