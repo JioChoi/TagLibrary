@@ -63,6 +63,8 @@ function preloadImage(path) {
 }
 
 function createItem(tag, path, dir) {
+	console.log(tag);
+	console.log(dir);
 	let item = document.createElement("div");
 
 	let img = document.createElement("img");
@@ -80,6 +82,10 @@ function createItem(tag, path, dir) {
 	
 	if(dir == true) {
 		item.onclick = function () {
+			if (tag == "artists") {
+				window.location = "https://artists.taglib.net";
+				return;
+			}
 			let url = new URL(window.location.href);
 			url.searchParams.set('g', tag);
 			window.location.href = url;
